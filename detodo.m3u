@@ -1,0 +1,705 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Spain / Latino",UNIVISION
+http://199.168.116.16:1935/app/extremouns-channel/.m3u8
+#EXTINF:-1 group-title="Spain / Latino",UNIVISION  (Opción 2)
+http://184.154.28.210:1935/univision_attl/univision_attl/chunklist_w974404189.m3u8
+#EXTINF:-1 group-title="sports",[COLOR blue][I][B]» Esportes Brasileiros «[/B][/I][/COLOR]
+http://iptvglobal.com.br/Videos/Filmes.mp4
+#EXTINF:-1 group-title="sports",Band Sports  HD
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+#EXTINF:-1 group-title="sports",Canal Combate
+rtmp://l.mybeststream.xyz/r/ playpath=ch003435 swfUrl=http://mybeststream.xyz/279da59cb3bf7b16eff5fbcb7035e784/player1.swf? live=1 pageUrl=http://mybeststream.xyz/?id=19942&width=468&height=380 live=1 conn=S:OK
+#EXTINF:-1 group-title="sports",Canal Combate
+rtmp://r.livecast.cc/rl/ playpath=bob10sd swfUrl=http://livecast.cc/player/player.swf&globaliptv live=1 pageUrl=http://livecast.cc/live/stream22.php
+#EXTINF:-1 group-title="sports",Canal Combate
+rtmp://109.236.88.34/livepkgr playpath=combate swfUrl=http://livestreamtv.biz/swfs/player.swf live=1 pageUrl=http://livestreamtv.biz/33.php?file=combate&width=470&height=370 live=1 conn=S:OK
+#EXTINF:-1 group-title="sports",Canal Combate
+rtmp://l.mybeststream.xyz/r/ playpath=premiere611 swfUrl=http://mybeststream.xyz/NDgxOWUyODhhYTAxMDI3YWIzZjIwMjU3/jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/?id=29110&width=468&height=360
+#EXTINF:-1 group-title="sports",ESPN
+rtmp://149.255.37.20:80/pub playpath=pyPGrTEUxm9ULdm2yLIv  swfUrl=http://www.castto.me/_.swf  pageUrl=http://static.castto.me/embed.php?channel=1531588863&vw=620&vh=380 token=#ed%h0#w@1
+#EXTINF:-1 group-title="sports",ESPN
+rtmp://r.livecast.cc/rl/ playpath=flash02sd swfUrl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream25.php
+#EXTINF:-1 group-title="sports",ESPN Brasil
+rtmp://94.242.228.121:1935/live/ playpath=espnbr swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.tvonline.org/out/espnbr.html
+#EXTINF:-1 group-title="sports",ESPN Brasil
+rtmp://r.livecast.cc/rl/ playpath=flash01sd swfUrl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream8.php
+#EXTINF:-1 group-title="sports",ESPN+
+rtmp://r.livecast.cc/rl/ playpath=flash03sd swfUrl=http://livecast.cc/live/player.swf?IPTVJONAS live=1 pageUrl=http://livecast.cc/live/stream26.php
+#EXTINF:-1 group-title="sports",E+I HD
+http://ei.live-ec2.stormsec.com.br:1935/liveedge/Evento3.stream/livestream.m3u8
+#EXTINF:-1 group-title="sports",E+I HD
+http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eitv720.m3u8
+#EXTINF:-1 group-title="sports",E+I HD
+http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eitv720.m3u8
+#EXTINF:-1 group-title="sports",E+I HD
+http://ei.live-ec2.stormsec.com.br/liveedge/smil:Evento1.smil/playlist.m3u8
+#EXTINF:-1 group-title="sports",E+I HD
+http://ei.live-ec2.stormsec.com.br:1935/liveedge/Evento3.stream/livestream.m3u8
+#EXTINF:-1 group-title="sports",E+I HD
+http://eipluselemental.s3-website-sa-east-1.amazonaws.com/eiplus10-600.m3u8
+#EXTINF:-1 group-title="sports",E+I Nordeste HD
+http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eine720.m3u8
+#EXTINF:-1 group-title="sports",E+I Nordeste HD
+http://ei.live-ec2.stormsec.com.br/liveedge/smil:Evento2.smil/playlist.m3u8
+#EXTINF:-1 group-title="sports",E+I Nordeste HD
+http://eiplus-lh.akamaihd.net/i/eitv6_1@147097/master.m3u8
+#EXTINF:-1 group-title="sports",E+I Nordeste
+rtmp://r.livecast.cc/rl/ playpath=flash48 swfUrl=http://livecast.cc/live/player.swf? live=1 pageUrl=http://livecast.cc/live/stream8.php
+#EXTINF:-1 group-title="sports",Fox Sports
+rtmp://r.livecast.cc/rl/ playpath=flash57sd swfUrl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream3.php
+#EXTINF:-1 group-title="sports",Fox Sports
+rtmp://l.mybeststream.xyz/r/ playpath=fs2015583 swfUrl=http://mybeststream.xyz/N2Q4Y2I1MDkwYjUzNjhjODZiOTZkZmIz/jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/?id=29275&width=468&height=360
+#EXTINF:-1 group-title="sports",Fox Sports 2
+rtmp://l.mybeststream.xyz/r/ playpath=foxsportsbrasil2633 swfUrl=http://mybeststream.xyz/279da59cb3bf7b16eff5fbcb7035e784/player1.swf?iptvjonas live=1 pageUrl=http://mybeststream.xyz/?id=23580&width=468&height=360 live=1
+#EXTINF:-1 group-title="sports",Fox Sports 2
+rtmp://l.mybeststream.xyz/r/ playpath=fox2sprots467 swfUrl=http://mybeststream.xyz/N2Q4Y2I1MDkwYjUzNjhjODZiOTZkZmIz/jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/?id=29274&width=468&height=360 live=1 conn=S:OK
+#EXTINF:-1 group-title="sports",PFC 24Hrs
+rtmp://r.livecast.cc/rl/ playpath=bob07sd swfUrl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream21.php
+#EXTINF:-1 group-title="sports",SPORTV HD
+rtmp://l.mybeststream.xyz/r/ playpath=ch005677 swfUrl=http://mybeststream.xyz/279da59cb3bf7b16eff5fbcb7035e784/player1.swf? live=1 pageUrl=http://mybeststream.xyz/?id=24039&width=660&height=380
+#EXTINF:-1 group-title="sports",SPORTV
+rtmp://r.livecast.cc/rl/ playpath=bob05sd swfUrl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/ch05.php
+#EXTINF:-1 group-title="sports",SPORTV
+rtmp://109.236.88.34/livepkgr playpath=sportv swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/34.php?file=sportv&width=470&height=370 live=1 conn=S:OK
+#EXTINF:-1 group-title="sports",SPORTV 2
+rtmp://r.livecast.cc/rl/ playpath=bob06sd swfUrl=http://livecast.cc/player/player.swf?iptvjonas live=1 pageUrl=http://livecast.cc/live/stream14.php
+#EXTINF:-1 group-title="sports",SPORTV 2
+rtmp://109.236.88.34/livepkgr playpath=sportv2 swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/33.php?file=sportv2&width=480&height=380 live=1 conn=S:OK
+#EXTINF:-1 group-title="sports",SPORTV 3
+rtmp://109.236.88.34/livepkgr playpath=sportv3 swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/33.php?file=sportv3&width=480&height=380 live=1 conn=S:OK
+#EXTINF:-1 group-title="sports",SPORTV 3
+rtmp://r.livecast.cc/rl/ playpath=bob50sd swfUrl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream31.php
+#EXTINF:-1 group-title="sports",SPORTS+
+rtmp://r.livecast.cc/rl/ playpath=flash59sd swfUrl=http://livecast.cc/live/player.swf? live=1 pageUrl=http://www.livecast.cc/live/stream1.php
+#EXTINF:-1 group-title="sports",TERRA ESPORTES
+http://wowza1.videos.movile.com:1935/live/esportes_1.smil/livestream.m3u8
+#EXTINF:-1 group-title="sports",TVU Ei
+http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
+#EXTINF:-1 group-title="Sports 2",Azteca desportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sports 2",Azteca desportes
+http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
+#EXTINF:-1 group-title="Sports 2",Bein Sports 1HD
+rtmp://beinsportgeolivefs.fplive.net/beinsportgeolive-live/beinsport_eng_1
+#EXTINF:-1 group-title="Sports 2",Bein Sports 1HD
+http://myafricanmega3.tulix.tv:1935/map-beinsports1hd/map-beinsports1hd/chunklist.m3u8?wowzasessionid=1124649939
+#EXTINF:-1 group-title="Sports 2",Bein Sports 2HD
+rtmp://beinsportgeolivefs.fplive.net/beinsportgeolive-live/beinsport_eng_2
+#EXTINF:-1 group-title="Sports 2",Bein Sports 3HD
+rtmp://beinsportgeolivefs.fplive.net/beinsportgeolive-live/beinsport_eng_3
+#EXTINF:-1 group-title="Sports 2",CANAL EUROSPORT  HD
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1 group-title="Sports 2",CANAL EUROSPORT  HD
+http://109.163.232.58:1935/live/eurosport.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports 2",Caracol TV
+http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sports 2",Caracol TV
+http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Sports 2",Caracol TV
+http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sports 2",ESPN MEX
+http://oneplay.tv/darkuzdev/?ch=ESPNLA
+#EXTINF:-1 group-title="Sports 2",ESPN 2 MEX
+http://oneplay.tv/darkuzdev/?ch=ESPN2LASD
+#EXTINF:-1 group-title="Sports 2",ESPN 3 MEX
+http://oneplay.tv/darkuzdev/?ch=ESPN3LASD
+#EXTINF:-1 group-title="Sports 2",ESPN live
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:-1 group-title="Sports 2",Extreme Sports HD
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
+#EXTINF:-1 group-title="Sports 2",Extreme Sports HD
+http://en356.edem.tv/iptv/D3MBMTV79H9TYM/144/index.m3u8
+#EXTINF:-1 group-title="Sports 2",Fox Sports HD MEX
+http://oneplay.tv/darkuzdev/?ch=FoxSportsLA
+#EXTINF:-1 group-title="Sports 2",Fox Sports HD (es)
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Sports 2",Fox Sports HD(ING)
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+#EXTINF:-1 group-title="Sports 2",Fox Sports 2 HD(ING)
+http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h.m3u8
+#EXTINF:-1 group-title="Sports 2",Fox Sports 3 HD(ING)
+http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8
+#EXTINF:-1 group-title="Sports 2",GOL tv
+http://www.serbiaplus.com@goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b2296000.m3u8
+#EXTINF:-1 group-title="Sports 2",GOL tv USA
+http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
+#EXTINF:-1 group-title="Sports 2",GOL tv
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Sports 2",PAC 12 National
+http://www.xrxs.net/video/live-p12netw-4728.m3u8?iptvjonas
+#EXTINF:-1 group-title="Sports 2",PAC 12 Washington
+http://xrxs.net/video/live-p12wash-4728.m3u8?iptvjonas
+#EXTINF:-1 group-title="Sports 2",NBA 24 Horas HD
+http://2co1.vp9.tv/chn/nba/v.m3u8
+#EXTINF:-1 group-title="Sports 2",NBA 24 Horas HD
+rtmp://199.19.95.95:443/flash playpath=18303?MTQyNjI4NzgwNztmYTA0N2VmMDk4ZTBiNTczMzUxMjQzZmYwMjA2NzZhMg== swfUrl=http://static3.sawlive.tv/player.swf?iptvjonas live=1 pageUrl=http://sawlive.tv/
+#EXTINF:-1 group-title="Sports 2",Real Madrid TV  HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sports 2",Sevilla FC TV  HD
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+#EXTINF:-1 group-title="Sports 2",SKY SPORT 1
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
+#EXTINF:-1 group-title="Sports 2",SPORT TV 2
+rtmp://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
+#EXTINF:-1 group-title="Sports 2",SPORT TV 3
+rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title="Sports 2",SPORT TV 5
+rtmp://209.133.208.194/app/ playpath=avision128s-channel  swfUrl=https://streamup.com/assets/StreamupVideoPlayer.swf  pageUrl=https://streamup.com/rooms/avision128s-Channel/plugins/video/show?startMuted=true
+#EXTINF:-1 group-title="Sports 2",XTREME IMPACTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/xtreme_impacts-tablet.3gp/xtreme_impacts-tablet.3gp-mr647k.m3u8
+#EXTINF:-1 group-title="Sports 2",UFC  HD
+rtmp://rtmpvid.ufc.tv/cfx/st/ playpath=mp4:2015/01/05/mcgregor-UI-Texted-01h01m04s-CLID114260VT520.dsk.mp4 swfUrl=http://media.ufc.tv/ufc_system_assets/ufc_201501051434/js/jwplayer6/jwplayer.flash.swf pageUrl=http://uk.ufc.com/
+#EXTINF:-1 group-title="Sports 2",UFC Network
+http://31.220.41.103:80/LiveEdge/UFCNetworkLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title="Sports 2",WWE Network
+rtmp://80.82.64.140:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Arena Sport 1 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/11644.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Arena Sport 2 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/12838.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",BT Sport 1 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10634.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",BT Sport 2 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/9220.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",C More Tennis (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10188.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",CT Sport (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/12550.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Canal+ Liga (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/9387.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Diema Sport (Спорт)
+acestream://8fa576b912da5b24dd99221c3e6b8edb17562660
+#EXTINF:-1 group-title="ACESTREAM SPORTS",ESPN 2 USA (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/12932.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",ESPN USA (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/12931.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Eurosport (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/5_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Eurosport 2 British (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/12748.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Eurosport British (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/12747.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Eurosport HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/172_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Eurospоrt 2 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/6_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Eurospоrt 2 North-East HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/11160.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Extreme Sports (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/8_all.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",HD Спорт (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/112_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Motors TV (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/1483.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Movistar F1 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/11642.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Movistar MotoGP (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/12227.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",NBA HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/9727.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Nova Sport (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/9315.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Polsat Sport HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/9685.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Polsat Sport News (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/12817.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Premier Sports (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/6972.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Setanta Sports Eurasia HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/8846.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sky Sports 1 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10351.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sky Sports 2 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/12738.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sky Sports 3 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/6909.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sky Sports 4 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/12739.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sky Sports 5 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10285.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sky Sports F1 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/9299.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sport 1 Cz (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10729.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sport 2 Cz (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10873.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sport TV 1 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10480.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sport TV 2 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10481.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sport TV 3 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10482.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sport TV 4 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10483.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sport TV 5 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10484.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Sportmania Es (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10361.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Super Tennis HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/9217.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Teledeporte (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/11139.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Viasat Hockey (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10048.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Viasat Motor (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/8848.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Viasat Sport (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/120_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Viasat Sport Baltic (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10362.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Viasat Sport HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/778_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Viasat Sport Sverige (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10564.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Viasat TV3 Sport 1 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10561.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Viasat TV3 Sport 2 DN (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/10327.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",nSport + HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/9688.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Беларусь 5 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/12781.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",КХЛ HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/538_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",КХЛ ТВ (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/216_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",НТВ+ Баскетбол (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/384_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",НТВ+ Спорт (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/38_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",НТВ+ Спорт плюс (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/222_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",НТВ+ Теннис (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/84_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",НТВ+ Футбол 1 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/39_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",НТВ+ Футбол 1 HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/625_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",НТВ+ Футбол 2 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/552_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",НТВ+ Футбол 2 HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/611_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",НТВ+ Футбол 3 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/701_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",НТВ+ Футбол 3 HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/646_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Россия 2 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/4_all.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Спорт (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/473_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Спорт 1 (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/365_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Спорт 1 (Украина) (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/1380.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Спорт 1 HD (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/526_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Спорт 2 (Украина) (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/1381.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Футбол (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/472_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Футбол 1 (Украина) (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/5115.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Футбол 1 HD (Украина) (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/9079.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Футбол 2 (Украина) (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/cdn/532_reg.acelive
+#EXTINF:-1 group-title="ACESTREAM SPORTS",Футбол 2 HD (Украина) (Спорт)
+http://content.torrent-tv.ru/MkVzdmpwbmlQS1dwekd4S2NXN2xpMkFKQVdCV0owTG9Yd0JPNzcraS9IaG9ZcFVydVZXNUltZXNhZ1Bla3Mwam9MUk1GUklsaU5ZcmdoL0N0VmVNb2c9PQ/9251.acelive
+#EXTINF:-1 group-title="Documentaries",Discovery Channel
+rtmp://94.242.228.41:1935/live/ playpath=disco swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.tvonline.org/out/discovery.html
+#EXTINF:-1 group-title="Documentaries",Discovery Civilization
+rtmp://l.mybeststream.xyz/r/ playpath=discivil730 swfUrl=http://mybeststream.xyz/5f03bc230a2f0fb571e771a1388ccb07/player1.swf live=1 pageUrl=http://mybeststream.xyz/gen_br.php?id=29434
+#EXTINF:-1 group-title="Documentaries",History Channel
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Documentaries",History Channel
+http://disastered.madpage.com/Kcurth/ch1/353.m3u8
+#EXTINF:-1 group-title="Documentaries",Discovery Turbo
+http://disastered.madpage.com/Kcurth/ch1/383.m3u8
+#EXTINF:-1 group-title="Others",CHEF Tv
+rtmp://flashd.localmidia.com.br/cheftv playpath=aovivo swfUrl=http://www.assistirtvgratisonline.org/canais/player/universal.swf pageUrl=http://www.assistirtvgratisonline.org/canais/chef-tv.php
+#EXTINF:-1 group-title="Others",Comedy Central
+rtmp://live.livestreamcast.org/live/comedy913/comedy913 playpath=comedy913 swfUrl=http://www.livestreamcast.org/StrobeMediaPlayback.swf&Grupo_UP_e_DOWN live=1 pageUrl=http://www.livestreamcast.org/player/embed_t2.php?&c=comedy913&vw=468&vh=380
+#EXTINF:-1 group-title="Others",E! Entertainment (off)
+rtmp://178.162.192.207:443/loadbalance?wmsAuthSign=/ playpath=61232968679114869931 swfUrl=http://pxstream.tv/jwplayer.flash.swf pageUrl=http://pxstream.tv/embedrouter.php?file=mesmacoisa&width=660&height=380 token=#ed%h0#w@1
+#EXTINF:-1 group-title="Others",FISH TV
+rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/ playpath=stream1 swfUrl=http://tvbrasil.ebc.com.br/sites/_tvbrasil/mediaelement/flashmediaelement.swf pageUrl=http://tvbrasil.ebc.com.br/sites/_tvbrasil/wtv-embed.php?origem=webtv
+#EXTINF:-1 group-title="Others",ISAT
+rtmp://80.93.53.88:1935/live playpath=channel_3 swfUrl=http://www.planeta-online.tv/planeta_player.swf pageUrl=http://www.planeta-online.tv/
+#EXTINF:-1 group-title="Others",TLC
+http://46.61.226.18/hls/CH_C04_TLCHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Others",TV Publica (argentina)
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist_w563752439_b1264000_sleng.m3u8
+#EXTINF:-1 group-title="Others",TV Publica (argentina)
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8
+#EXTINF:-1 group-title="Others",Viva
+rtmp://94.242.228.121:1935/live/ playpath=vivaa  swfUrl=http://www.tvonline.org/p.swf?iptvjonas  pageUrl=http://www.tvonline.org/out/viva.html
+#EXTINF:-1 group-title="Music",LOBAS TV (Espanha)
+http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8?wowzasessionid=2035637125
+#EXTINF:-1 group-title="Music",NOW MUSIC
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 group-title="Music",Eska Best Music
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1 group-title="Music",Eska Party
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
+#EXTINF:-1 group-title="Music",1 HD
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1 group-title="Music",Eska Rock
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1 group-title="Music",Eska TV
+rtmp://stream.smcloud.net/live/eskatv
+#EXTINF:-1 group-title="Music",MULTISHOW
+rtmp://r.livecast.cc/rl/ playpath=flash34sd swfUrl=http://livecast.cc/live/player.swf?iptvjonas live=1 pageUrl=http://livecast.cc/live/stream18.php
+#EXTINF:-1 group-title="Music",MTV Dance
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/bw1500000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Music",MTV Hits
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MTVHITS/bw1500000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Music",MTV Rocks
+hhttp://hlsstr01.svc.iptv.rt.ru/hls/CH_MTVROCKS/bw1500000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Music",Play Max
+http://cdn.ebound.tv:1935/tv/playtv/playlist.m3u8?iptvjonas
+#EXTINF:-1 group-title="Music",Vevo 1  HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1 group-title="Music",Vevo 2  HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1 group-title="Music",Vevo 3  HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1 group-title="Music",Virgin TV
+http://wow01.105.net/live/virgin1/playlist.m3u8
+#EXTINF:-1 group-title="Music",VH1 Classic
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8
+#EXTINF:-1 group-title="Music",VH1  HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8
+#EXTINF:-1 group-title="Spain / Latino",[COLOR blue][I][B]» Canais em Espanhol «[/B][/I][/COLOR]
+http://iptvglobal.com.br/Videos/Filmes.mp4
+#EXTINF:-1 group-title="Spain / Latino",ABC
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Cbs
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:-1 group-title="Spain / Latino",CDN Sports Max
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Multimedios
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
+#EXTINF:-1 group-title="Spain / Latino",Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Multimedios
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Multimedios TV SD 4:3 México
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&lineUpId=&pubId=1221954060001&playerId=1266656281001&affiliateId=
+#EXTINF:-1 group-title="Spain / Latino",Life time
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:-1 group-title="Spain / Latino",TELEMUNDO
+http://199.168.116.12:1935/app/chivass_69s-channel/.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Telefe
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b950000.m3u8
+#EXTINF:-1 group-title="Spain / Latino",TV Chile
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b350000.m3u8
+
+#EXTINF:-1 group-title="Spain / Latino",24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 group-title="Spain / Latino",24horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+#EXTINF:-1 group-title="Spain / Latino",ANTENA 3HD FULLHD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Alfa TV
+rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
+#EXTINF:-1 group-title="Spain / Latino",ARAGON TV
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+#EXTINF:-1 group-title="Spain / Latino",BTN
+http://xrxs.net/video/live-btn-1240.m3u8
+#EXTINF:-1 group-title="Spain / Latino",GUATEVISION TV
+http://bravo967.sysvirtuales.com/live/stream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Spain / Latino",LaSextaHD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 group-title="Spain / Latino",RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Sevilla FC
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+#EXTINF:-1 group-title="Spain / Latino",TVG America
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+#EXTINF:-1 group-title="Spain / Latino",NAT.G
+http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Panamericana
+http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Acapulco TV México
+rtmp://video.hosteris.com/tvacapulco/tvacapulco2
+#EXTINF:-1 group-title="Spain / Latino",Canal 2 Los Mochis México
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Canal 2 Obregon México
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Canal 4 Mérida México
+rtmp://159.16.243.10/live/canal4/canal4
+#EXTINF:-1 group-title="Spain / Latino",Efekto TV México
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Spain / Latino",Mexico Travel Channel
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="Spain / Latino",-Mexiquense
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1 group-title="Spain / Latino",Nuestra Visión Canal 5 México
+rtmp://159.16.243.10/live/canal5/canal5
+#EXTINF:-1 group-title="Spain / Latino",Radio y Televisión Mexiquense
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1 group-title="Spain / Latino",SIPSA TV Cancún México
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Telemar Campeche México
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+#EXTINF:-1 group-title="Spain / Latino",TV MAS México
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1 group-title="Spain / Latino",TV Mexiquense
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1 group-title="Spain / Latino",hk:sulavision
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1 group-title="Spain / Latino",SI TV
+rtmp://hd.worldkast.com:1935/8436/ playpath=8436 swfUrl=http://static2.sawlive.tv/player.swf? live=1 pageUrl=http://www.lempiratv.com/si-tv.html
+#EXTINF:-1 group-title="Spain / Latino",Teledunamis
+http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8?
+#EXTINF:-1 group-title="Spain / Latino",Canal 20
+http://iphone-streaming.ustream.tv/uhls/13425182/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 group-title="Spain / Latino",ITV Patagonia
+http://movilstream.digitalproserver.com/itv/itvvivo/itv.smil/chunklist-b1500000.m3u8?
+#EXTINF:-1 group-title="Spain / Latino",Megavision
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="Spain / Latino",MTV latino
+rtmp://extondemand.livestream.com/ondemand playpath=trans/union/mogulus-user-files/ch40tv/2008/07/03/5f104d19-82ae-4810-99e0-dc93269972f5
+#EXTINF:-1 group-title="Spain / Latino",Ecuavisa
+rtmp://62.210.83.152:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv1&vw=600&vh=400
+#EXTINF:-1 group-title="Spain / Latino",SIPSE/Gala Tv Cancun
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
+#EXTINF:-1 group-title="Spain / Latino",Canal 5 Sabinas
+rtmp://video.gvstream.net:1935/e-tv-video playpath=default.stream
+#EXTINF:-1 group-title="Spain / Latino",Canal 13 Argentina
+http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 group-title="Spain / Latino",Tv Granada
+http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Canal 10 Cancun
+http://www.promovision.mx:1935/live/tvlive2/playlist.m3u8?
+#EXTINF:-1 group-title="Spain / Latino",24horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+#EXTINF:-1 group-title="Spain / Latino",caracoltv
+http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8?
+#EXTINF:-1 group-title="Spain / Latino",MEGA
+http://edge-51-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b600.m3u8
+#EXTINF:-1 group-title="Spain / Latino",Tele Antillas (Dominican Republic)
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 group-title="Spain / Latino",ONCE TV
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1 group-title="Spain / Latino",EXA TV
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Spain / Latino",NAT GEO WILD
+http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on%3Fmonclovacaliente.m3u8
+#EXTINF:-1 group-title="Spain / Latino",HISTORY CHANNEL
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Spain / Latino",MEXICO TRAVEL CHANNEL
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="Spain / Latino",EL TRECE HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1 group-title="Spain / Latino",CANAL DE LAS ESTRELLAS HD (CANAL 2)
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1 group-title="Spain / Latino",FORO TV HD (CANAL 4)
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+#EXTINF:-1 group-title="Spain / Latino",CANAL MEXIQUENSE
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1 group-title="Spain / Latino",PELICULAS TODO EL DIA
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Spain / Latino",DISCOVERY CHANNEL
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="USA",24/7 HD Movies 1
+http://93.174.95.125:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902
+#EXTINF:-1 group-title="USA",24/7 NCIS
+http://93.174.95.125:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488
+#EXTINF:-1 group-title="USA",ABC 22 HD
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:-1 group-title="USA",AMC
+http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:-1 group-title="USA",Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA",CBS HD (WHIO 7)
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+#EXTINF:-1 group-title="USA",Discovery Channel HD
+http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+#EXTINF:-1 group-title="USA",Disney Channel
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+#EXTINF:-1 group-title="USA",ESPN HD
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:-1 group-title="USA",ESPN SD
+http://93.174.95.125:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
+#EXTINF:-1 group-title="USA",Food Network
+http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
+#EXTINF:-1 group-title="USA",FOX News HD
+http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+#EXTINF:-1 group-title="USA",Hallmark HD
+http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+#EXTINF:-1 group-title="USA",HBO HD
+http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+#EXTINF:-1 group-title="USA",HBO SD
+http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
+#EXTINF:-1 group-title="USA",History Channel (USA)
+http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+#EXTINF:-1 group-title="USA",I.D.
+http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
+#EXTINF:-1 group-title="USA",MSNBC SD
+http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
+#EXTINF:-1 group-title="USA",NBC HD
+http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
+#EXTINF:-1 group-title="USA",NBC Sports Network HD
+http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:-1 group-title="USA",Showtime HD
+http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+#EXTINF:-1 group-title="USA",Spike
+http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
+#EXTINF:-1 group-title="USA",Tbs
+http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
+#EXTINF:-1 group-title="USA",TLC
+http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
+#EXTINF:-1 group-title="USA",VH-1
+http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
+#EXTINF:-1 group-title="USA",ABC News [COLOR limegreen][I][B]HD [/B][/I][/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?jonasiptv
+#EXTINF:-1 group-title="USA",Animal Planet
+http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
+#EXTINF:-1 group-title="USA",BBC Sport
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+#EXTINF:-1 group-title="USA",CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1 group-title="USA",CNN international
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1 group-title="USA",CNN international
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1 group-title="USA",CNBC
+rtmp://cp34825.edgefcs.net/ondemand/?auth=NA&aifp=V01&slist=mp4:csmp4/VCPS/Y2011/M09D28/3000048189/4ED1-ASB-PaulBurkner_L
+#EXTINF:-1 group-title="USA",CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+#EXTINF:-1 group-title="USA",HBO
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1 group-title="USA",NASAHD
+http://sjc-uhls-proxy103.ustream.tv/watch/playlist.m3u8?cid=6540154&appType=11&appVersion=2&locks=97d170e1550eee4afc0af065b78cda302a97674c&geo=US&geocity=Bayonne&userId=1363733255&connectionId=sjc-ums08_1363733255&ts=1407106416&ip=108.53.70.150&cdn=uhs_akamai&sgn=8ad98f9e4601cb42f3b8e58ecd769b816de5cd0e
+#EXTINF:-1 group-title="USA",PAC 12 Arizona.
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8?iptvjonas
+#EXTINF:-1 group-title="USA",Pac 12 Bay Area.
+http://xrxs.net/video/live-p12baya-2328.m3u8?iptvjonas
+#EXTINF:-1 group-title="USA",PAC 12 Bay Area.
+http://www.xrxs.net/video/live-p12baya-4728.m3u8?IPTVJONAS
+#EXTINF:-1 group-title="USA",PAC 12 National.
+http://www.xrxs.net/video/live-p12netw-4728.m3u8?iptvjonas
+#EXTINF:-1 group-title="USA",PAC 12 Washington.
+http://xrxs.net/video/live-p12wash-4728.m3u8?iptvjonas
+#EXTINF:-1 group-title="USA",Sky Movies Premiere
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_VIASATSPORT/bw480000/variant.m3u8?version=2
+#EXTINF:-1 group-title="USA",Live TV Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1 group-title="USA",News Bronx(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:-1 group-title="USA",News Brooklyn(Stream 1)
+rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+#EXTINF:-1 group-title="USA",News Connecticut(Stream 1)
+rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+#EXTINF:-1 group-title="USA",News Connecticut(Weather)
+rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
+#EXTINF:-1 group-title="USA",News Hudson Valley(Stream 1)
+rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+#EXTINF:-1 group-title="USA",News Hudson Valley(Weather)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:-1 group-title="USA",News Long Island(Stream 2)
+rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
+#EXTINF:-1 group-title="USA",News Long Island(Weather)
+rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
+#EXTINF:-1 group-title="USA",News New Jersey(Stream 1)
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:-1 group-title="USA",News New Jersey(Weather)
+rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
+#EXTINF:-1 group-title="USA",News Westchester(Stream 1)
+rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+#EXTINF:-1 group-title="USA",BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1 group-title="USA",BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1 group-title="USA",BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1 group-title="USA",BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1 group-title="PORTUGAL",A BOLA TV
+rtmp://l.mybeststream.xyz/r playpath=bolatv362e941 swfUrl=http://xuscacamusca.se/YmNlNWUyMTFkZjk3MmQ5ZDEzOGYzOGNj/jwplayer.flash.swf live=true timeout=15 swfVfy=1 pageUrl=http://mybeststream.xyz/?id=27054&PageSpeed=noscript
+#EXTINF:-1 group-title="PORTUGAL",Benfica TV
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8?
+#EXTINF:-1 group-title="PORTUGAL",SIC
+http://213.13.26.11:1935/live/sic/hasbahca.m3u8
+#EXTINF:-1 group-title="PORTUGAL",SIC NOTICIAS
+rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp://{$hostname}/live/sicnoticias&file=http://rd3.videos.sapo.pt/syqqba8JjeKyS8WFMA1H/mov/24&autoStart=1 live=1
+#EXTINF:-1 group-title="PORTUGAL",SPORT TV 1
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
+#EXTINF:-1 group-title="PORTUGAL",SPORT TV 2
+rtmp://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
+#EXTINF:-1 group-title="PORTUGAL",SPORT TV 3
+rtmp://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title="PORTUGAL",SPORT TV 4
+rtmp://85.17.20.70/stream playpath=pilinha?id=13128 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf live=1 pageUrl=http://www.liveflashplayer.net/embedplayer/pilinha/1/650/500
+#EXTINF:-1 group-title="PORTUGAL",SPORT TV 5
+rtmp://91.109.247.170/stream playpath=pilinha?id=13128 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf live=1 pageUrl=http://www.liveflashplayer.net/embedplayer/pilinha/1/650/500
+#EXTINF:-1 group-title="PORTUGAL",SYFY
+rtmp://46.28.50.116/live playPath=syfy100?id=77929 swfVfy=1 conn=S:OK live=true swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf ccommand=vujkoMiLazarBarakovOdMonospitovo;TRUE;TRUE pageUrl=http://www.ucaster.eu/embedded/syfy100/1/600/430
+#EXTINF:-1 group-title="PORTUGAL",SYFY
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL",EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
+#EXTINF:-1 group-title="PORTUGAL",RTP 1
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+#EXTINF:-1 group-title="PORTUGAL",RTP Noticias
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:-1 group-title="PORTUGAL",RTP Informaçao
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Live TV",Муз ТВ
+http://www.youtube.com/watch?v=UZ8OOJKFavc
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Live TV",Russia Today Documentary HD
+http://www.youtube.com/watch?v=qcm-6GDk_wI
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Playlists",KOBADOTU (плейлисты)
+http://www.youtube.com/user/KOBADOTU/playlists
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Playlists",Нейромир-ТВ (плейлисты)
+http://www.youtube.com/user/neuromirtv/playlists
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Playlists",LifeNews (плейлисты)
+http://www.youtube.com/user/lifenewsru/playlists
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Playlists",Russia Today (плейлисты)
+http://www.youtube.com/user/rtrussian/playlists
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Playlists",RTД (плейлисты)
+http://www.youtube.com/user/rtrussian/playlists
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Playlists",ТВ Новости (плейлисты)
+http://www.youtube.com/user/TVNewsOnlinecom/playlists
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Playlists",Познавательное ТВ (плейлисты)
+http://www.youtube.com/user/poznavatelnoeTV/playlists
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Playlists",Правда ТВ (плейлисты)
+http://www.youtube.com/user/pravda/playlists
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Playlists",Рен ТВ (плейлисты)
+http://www.youtube.com/user/rentvchannel/playlists
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Playlists",Дмитрий Пучков Гоблин (плейлисты)
+http://www.youtube.com/user/Fletcher2008/playlists
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Videos",KOBADOTU (видео)
+http://www.youtube.com/user/KOBADOTU/videos
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Videos",Народно-патриотический канал России (видео)
+https://www.youtube.com/user/RusPatrioticTV/videos
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Videos",Нейромир-ТВ (видео)
+http://www.youtube.com/user/neuromirtv/videos
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Videos",LifeNews (видео)
+http://www.youtube.com/user/lifenewsru/videos
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Videos",Russia Today (видео)
+http://www.youtube.com/user/rtrussian/videos
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Videos",RTД (видео)
+http://www.youtube.com/user/rtrussian/videos
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Videos",ТВ Новости (видео)
+http://www.youtube.com/user/TVNewsOnlinecom/videos
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Videos",Познавательное ТВ (видео)
+http://www.youtube.com/user/poznavatelnoeTV/videos
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Videos",Правда ТВ (видео)
+http://www.youtube.com/user/pravda/videos
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Videos",Рен ТВ (видео)
+http://www.youtube.com/user/rentvchannel/videos
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Videos",Дмитрий Пучков, Гоблин (видео)
+http://www.youtube.com/user/Fletcher2008/videos
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Videos",День ТВ (видео)
+http://www.youtube.com/user/DenTVinform/videos
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Show",Шоу Лари Кинга
+http://www.youtube.com/watch?v=TB36EsF8WkE&index=3&list=PLJuzssrVaWjbkLz8CSRmOmOfuAfFrdaje
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Documentary",Великая Тартария: Только факты
+http://www.youtube.com/watch?v=pfuYySiv_O4
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Documentary",Великая Тартария -- Империя Русов
+http://www.youtube.com/watch?v=a55LwUuQXDg
+#EXTINF:-1 $ExtFilter="YouTube" group-title="Documentary",Тартария признана, иго отвергнуто официально.
+http://www.youtube.com/watch?v=s8gyQNHgS5s
