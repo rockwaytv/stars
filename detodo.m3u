@@ -1,19 +1,16 @@
 #EXTM3U
 #EXTINF:-1,El canal de las estrellas (TV Abierta)
-
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/36.m3u8
+#EXTINF:-1,Canal 5 
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/52.m3u8
 #EXTINF:-1,FOX (Entretenimiento)
-
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/125.m3u8
 #EXTINF:-1,tlnovelas (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/188.m3u8
-#EXTINF:-1,Space HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/334.m3u8
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/185.m3u8
+#EXTINF:-1,Space HD 
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/336.m3u8
 #EXTINF:-1,MTV Latino (Música)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/444.m3u8
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/441.m3u8
 #EXTINF:-1,Warner Channel HD (Canales HD (+20mbps))
 
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/94.m3u8
@@ -109,7 +106,7 @@ http://premium.tutvgratis.tv:8000/live/youtvplayer/app/74.m3u8
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/234.m3u8
 #EXTINF:-1,Ritmoson (Música)
 
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/448.m3u8
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/445.m3u8
 #EXTINF:-1,Syfy (Entretenimiento)
 
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/142.m3u8
@@ -356,9 +353,7 @@ http://premium.tutvgratis.tv:8000/live/youtvplayer/app/255.m3u8
 #EXTINF:-1,Lifetime (sd) (Mundo y Cultura)
 
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/276.m3u8
-#EXTINF:-1,Canal 5 (TV Abierta)
 
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/52.m3u8
 #EXTINF:-1,trece (TV Abierta)
 
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/12.m3u8
@@ -473,9 +468,9 @@ http://premium.tutvgratis.tv:8000/live/youtvplayer/app/147.m3u8
 #EXTINF:-1,Pxtv HD (Canales HD (+20mbps))
 
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/475.m3u8
-#EXTINF:-1,Sony HD (Canales HD (+20mbps))
+#EXTINF:-1,Sony HD 
 
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/90.m3u8
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/92.m3u8
 #EXTINF:-1,FOX HD (sd) (Entretenimiento)
 
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/88.m3u8
