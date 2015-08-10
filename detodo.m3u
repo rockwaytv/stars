@@ -204,3 +204,13 @@ http://31.220.41.111/LiveEdgeTesting/RegionalMusicLA/playlist.m3u8?token=
 http://31.220.41.111/LiveEdgeTesting/_definst_/HTVSD/playlist.m3u8?token=
 #EXTINF:-1,K MUSIC
 http://31.220.41.111/LiveEdgeTesting/KMusicLA/playlist.m3u8?token=
+#EXTINF:-0, UNIMAS (USA)
+http://31.220.41.111/LiveEdgeTesting/UniMasUS/chunklist_w240774196.m3u8?token=
+#EXTINF:-0,UNIVISION (USA)
+http://31.220.41.111/LiveEdgeTesting/UnivisionEastUS/chunklist_w1802354780.m3u8?token=
+#EXTINF:-0,TELEMUNDO (USA)
+http://31.220.41.111:80/LiveEdgeTesting/835-TMNDO/playlist.m3u8?token=
+#EXTINF:-0,RCN NOVELAS (COLOMBIA)
+http://31.220.41.111/LiveEdgeTesting/_definst_/RCNnovelasLA/chunklist_w1516627062.m3u8?token=
+#EXTINF:-0,CARACOL INTERNACIONAL (COLOMBIA)
+http://31.220.41.111/LiveEdgeTesting/_definst_/CaracolIntSD/chunklist_w1798214016.m3u8?token=
