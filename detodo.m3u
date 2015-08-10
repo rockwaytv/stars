@@ -1,515 +1,204 @@
 #EXTM3U
-#EXTINF:-1,El canal de las estrellas 
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/36.m3u8
-#EXTINF:-1,Canal 5 
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/52.m3u8
-#EXTINF:-1,FOX (Entretenimiento)
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/125.m3u8
-#EXTINF:-1,tlnovelas (Entretenimiento)
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/185.m3u8
-#EXTINF:-1,Space HD 
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/336.m3u8
-#EXTINF:-1,MTV Latino (Música)
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/441.m3u8
-#EXTINF:-1,Warner Channel HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/94.m3u8
-#EXTINF:-1,TNT (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/358.m3u8
-#EXTINF:-1,Cinemax (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/354.m3u8
-#EXTINF:-1,OnceTV (TV Abierta)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/63.m3u8
-#EXTINF:-1,Cartoon Network (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/224.m3u8
-#EXTINF:-1,Discovery Channel (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/258.m3u8
-#EXTINF:-1,Disney Channel (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/210.m3u8
-#EXTINF:-1,nick (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/218.m3u8
-#EXTINF:-1,Discovery Kids (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/194.m3u8
-#EXTINF:-1,Nat Geo (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/270.m3u8
-#EXTINF:-1,Fox Sport HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/398.m3u8
-#EXTINF:-1,Disney Junior (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/202.m3u8
-#EXTINF:-1,Cinecanal (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/352.m3u8
-#EXTINF:-1,Animal Planet (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/261.m3u8
-#EXTINF:-1,FX (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/145.m3u8
-#EXTINF:-1,Disney XD (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/228.m3u8
-#EXTINF:-1,Gala TV HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/58.m3u8
-#EXTINF:-1,Tooncast (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/237.m3u8
-#EXTINF:-1,La 1 TVE (TV Abierta)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/424.m3u8
-#EXTINF:-1,Universal Channel (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/137.m3u8
-#EXTINF:-1,Lifetime (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/274.m3u8
-#EXTINF:-1,ESPN 2 (Deportes)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/412.m3u8
-#EXTINF:-1,ESPN 3 (Deportes)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/393.m3u8
-#EXTINF:-1,Fox Sport 2 HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/402.m3u8
-#EXTINF:-1,Golden EDGE (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/364.m3u8
-#EXTINF:-1,Distrito Comedia (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/174.m3u8
-#EXTINF:-1,ESPN (Deportes)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/406.m3u8
-#EXTINF:-1,TNT Series (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/158.m3u8
-#EXTINF:-1,Proyecto 40 HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/22.m3u8
-#EXTINF:-1,Cadena tres (TV Abierta)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/74.m3u8
-#EXTINF:-1,Tiin (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/234.m3u8
-#EXTINF:-1,Ritmoson (Música)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/445.m3u8
-#EXTINF:-1,Syfy (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/142.m3u8
-#EXTINF:-1,Fox life (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/170.m3u8
-#EXTINF:-1,E! Entertainment Television (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/134.m3u8
-#EXTINF:-1,Fox1 HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/298.m3u8
-#EXTINF:-1,FOX Action HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/302.m3u8
-#EXTINF:-1,FOX Movies (sd) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/308.m3u8
-#EXTINF:-1,Film Zone HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/322.m3u8
-#EXTINF:-1,A&E (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/108.m3u8
-#EXTINF:-1,nick jr (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/206.m3u8
-#EXTINF:-1,CBeebies (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/198.m3u8
-#EXTINF:-1,Boomerang (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/230.m3u8
-#EXTINF:-1,Nat Geo Wild (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/250.m3u8
-#EXTINF:-1,World Discovery HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/254.m3u8
-#EXTINF:-1,De Pelicula HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/326.m3u8
-#EXTINF:-1,FOX Classics (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/346.m3u8
-#EXTINF:-1,FOX family (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/342.m3u8
-#EXTINF:-1,FOX Cinema (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/338.m3u8
-#EXTINF:-1,Golden (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/361.m3u8
-#EXTINF:-1,AMC (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/366.m3u8
-#EXTINF:-1,Studio Universal (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/374.m3u8
-#EXTINF:-1,TCM (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/382.m3u8
-#EXTINF:-1,VH1 HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/438.m3u8
-#EXTINF:-1,Telehit HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/434.m3u8
-#EXTINF:-1,History Channel HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/246.m3u8
-#EXTINF:-1,TruTV HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/114.m3u8
-#EXTINF:-1,BBC Entertainment (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/130.m3u8
-#EXTINF:-1,Comedy Central (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/120.m3u8
-#EXTINF:-1,Casa Club (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/181.m3u8
-#EXTINF:-1,TBS veryfunny (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/178.m3u8
-#EXTINF:-1,Discovery Civilization (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/282.m3u8
-#EXTINF:-1,Discovery Science (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/280.m3u8
-#EXTINF:-1,Discovery Turbo (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/288.m3u8
-#EXTINF:-1,HD Teather Discovery (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/242.m3u8
-#EXTINF:-1,Investigation Discovery (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/154.m3u8
-#EXTINF:-1,H&H Discovery (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/266.m3u8
-#EXTINF:-1,Canal 5 HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/50.m3u8
-#EXTINF:-1,Glitz (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/166.m3u8
-#EXTINF:-1,trece HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/10.m3u8
-#EXTINF:-1,Azteca 7 HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/14.m3u8
-#EXTINF:-1,Stv HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/78.m3u8
-#EXTINF:-1,HMx Deportes HD (sd) (Deportes)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/471.m3u8
-#EXTINF:-1,ESPN HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/390.m3u8
-#EXTINF:-1,ISAT (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/378.m3u8
-#EXTINF:-1,TNT HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/314.m3u8
-#EXTINF:-1,AMC HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/330.m3u8
-#EXTINF:-1,Golden HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/318.m3u8
-#EXTINF:-1,FOX Movies HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/306.m3u8
-#EXTINF:-1,nick HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/214.m3u8
-#EXTINF:-1,nicktoons (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/469.m3u8
-#EXTINF:-1,El gourmet (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/162.m3u8
-#EXTINF:-1,Gala TV (TV Abierta)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/60.m3u8
-#EXTINF:-1,Syfy (alterno) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/143.m3u8
-#EXTINF:-1,BBC Entertainment (alterno) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/132.m3u8
-#EXTINF:-1,Comedy Central HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/118.m3u8
-#EXTINF:-1,TruTV HD (sd) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/116.m3u8
-#EXTINF:-1,AXN HD (sd) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/112.m3u8
-#EXTINF:-1,AXN HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/110.m3u8
-#EXTINF:-1,A&E HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/106.m3u8
-#EXTINF:-1,FX (sd) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/104.m3u8
-#EXTINF:-1,FX HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/102.m3u8
-#EXTINF:-1,Universal HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/98.m3u8
-#EXTINF:-1,Warner Channel (sd) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/96.m3u8
-#EXTINF:-1,ESPN (alterno) (Deportes)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/407.m3u8
-#EXTINF:-1,ESPN 3 HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/394.m3u8
-#EXTINF:-1,ESPN 3 (sd) (Deportes)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/395.m3u8
-#EXTINF:-1,Fox Sport 2 (sd) (Deportes)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/404.m3u8
-#EXTINF:-1,Universal HD (sd) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/100.m3u8
-#EXTINF:-1,Film Zone (sd) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/324.m3u8
-#EXTINF:-1,nick HD (sd) (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/216.m3u8
-#EXTINF:-1,Space (sd) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/336.m3u8
-#EXTINF:-1,Proyecto 40 HD (sd) (TV Abierta)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/72.m3u8
-#EXTINF:-1,Nat Geo Wild (sd) (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/251.m3u8
-#EXTINF:-1,History Channel HD (sd) (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/248.m3u8
-#EXTINF:-1,TNT Series (alterno) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/160.m3u8
-#EXTINF:-1,Bandamax (Música)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/450.m3u8
-#EXTINF:-1,Space (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/372.m3u8
-#EXTINF:-1,Cinemax (sd) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/356.m3u8
-#EXTINF:-1,De Pelicula HD (sd) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/327.m3u8
-#EXTINF:-1,Golden HD (sd) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/320.m3u8
-#EXTINF:-1,TNT HD (sd) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/315.m3u8
-#EXTINF:-1,World Discovery HD (sd) (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/255.m3u8
-#EXTINF:-1,Lifetime (sd) (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/276.m3u8
-
-#EXTINF:-1,trece (TV Abierta)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/12.m3u8
-#EXTINF:-1,FOX Action (sd) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/304.m3u8
-#EXTINF:-1,FOX Classics (alterno) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/348.m3u8
-#EXTINF:-1,FOX family (alterno) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/344.m3u8
-#EXTINF:-1,FOXCinema (alterno) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/340.m3u8
-#EXTINF:-1,Fox1 HD (sd) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/300.m3u8
-#EXTINF:-1,TCM (alterno) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/384.m3u8
-#EXTINF:-1,Studio Universal (alterno) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/375.m3u8
-#EXTINF:-1,H&H Discovery (alterno) (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/267.m3u8
-#EXTINF:-1,HD Teather Discovery (sd) (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/243.m3u8
-#EXTINF:-1,Azcorazon (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/480.m3u8
-#EXTINF:-1,VH1 HD (sd) (Música)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/440.m3u8
-#EXTINF:-1,VH1 Classic (Música)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/477.m3u8
-#EXTINF:-1,MTV N HD (sd) (Música)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/432.m3u8
-#EXTINF:-1,Telehit (sd) (Música)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/436.m3u8
-#EXTINF:-1,MTV Hits (Música)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/476.m3u8
-#EXTINF:-1,nicktoons (calidad mas baja) (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/467.m3u8
-#EXTINF:-1,HMx Deportes HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/470.m3u8
-#EXTINF:-1,MTV Live HD (sd) (Música)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/431.m3u8
-#EXTINF:-1,MTV Live HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/430.m3u8
-#EXTINF:-1,ESPN HD (sd) (Deportes)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/391.m3u8
-#EXTINF:-1,ISAT (alterno) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/379.m3u8
-#EXTINF:-1,Space (alterno) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/370.m3u8
-#EXTINF:-1,TNT (alterno) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/359.m3u8
-#EXTINF:-1,AMC HD (sd) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/332.m3u8
-#EXTINF:-1,AMC (alterno) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/368.m3u8
-#EXTINF:-1,Cinecanal+ HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/310.m3u8
-#EXTINF:-1,Cinecanal+ (sd) (Cine)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/312.m3u8
-#EXTINF:-1,World Discovery (alterno) (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/291.m3u8
-#EXTINF:-1,Animal Planet (alterno) (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/263.m3u8
-#EXTINF:-1,Discovery Channel (alterno) (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/260.m3u8
-#EXTINF:-1,nick (alterno) (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/219.m3u8
-#EXTINF:-1,Discovery Kids (alterno) (Infantil)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/196.m3u8
-#EXTINF:-1,TBS veryfunny (alterno) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/180.m3u8
-#EXTINF:-1,Fox life (alterno) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/172.m3u8
-#EXTINF:-1,Glitz (alterno) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/168.m3u8
-#EXTINF:-1,FX (alterno) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/147.m3u8
-#EXTINF:-1,Pxtv HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/475.m3u8
-#EXTINF:-1,Sony HD 
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/92.m3u8
-#EXTINF:-1,FOX HD (sd) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/88.m3u8
-#EXTINF:-1,FOX HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/86.m3u8
-#EXTINF:-1,TeleFormula (alterno) (TV Abierta)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/84.m3u8
-#EXTINF:-1,Stv HD (sd) (TV Abierta)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/79.m3u8
-#EXTINF:-1,Multimedios TV HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/478.m3u8
-#EXTINF:-1,Telehit HD (super baja calidad) (Música)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/435.m3u8
-#EXTINF:-1,Fox Sports (Deportes)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/399.m3u8
-#EXTINF:-1,El canal de las estrellas HD (Canales HD (+20mbps))
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/34.m3u8
-#EXTINF:-1,Foro TV (TV Abierta)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/47.m3u8
-#EXTINF:-1,Fox Sport 2 (sd) (Deportes)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/403.m3u8
-#EXTINF:-1,FOX NFL (Deportes)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/397.m3u8
-#EXTINF:-1,El gourmet (alterno) (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/164.m3u8
-#EXTINF:-1,Garaje TV (Entretenimiento)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/474.m3u8
-#EXTINF:-1,TLC (Mundo y Cultura)
-
-http://premium.tutvgratis.tv:8000/live/youtvplayer/app/290.m3u8
+#EXTINF:-1,natgeo
+http://31.220.41.111/LiveEdgeTesting/NatGeoLASD/playlist.m3u8?token=
+#EXTINF:-1,natgeo wild
+http://31.220.40.105/LiveEdgeTesting/NatGeoWildLAHD/playlist.m3u8?token=
+#EXTINF:-1,animal planet
+http://31.220.41.111/LiveEdgeTesting/AnimalPlanetLASD/playlist.m3u8?token=
+#EXTINF:-1,History
+http://31.220.41.111/LiveEdgeTesting/HistoryLA/playlist.m3u8?token=
+#EXTINF:-1,History
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,H2
+http://31.220.41.111/LiveEdgeTesting/H2LASD/playlist.m3u8?token=
+#EXTINF:-1,discovery
+http://31.220.40.105/LiveEdgeTesting/DiscoveryChLA/playlist.m3u8?token=
+#EXTINF:-1,Discovery Channel Español
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Discovery Theather
+http://31.220.41.111/LiveEdgeTesting/DiscoveryenEspanolHD/playlist.m3u8?token=
+#EXTINF:-1,WOBI
+http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://31.220.40.108/LiveEdgeTesting/DiscoveryWorldLA/playlist.m3u8?token=
+#EXTINF:-1,FOX HD
+http://31.220.41.111/LiveEdgeTesting/FOXHDLA/playlist.m3u8?token=
+#EXTINF:-1,FOX SD
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Universal
+http://31.220.41.111/LiveEdgeTesting/UniversalLASD/playlist.m3u8?token=
+#EXTINF:-1,Sony
+http://31.220.41.111/LiveEdgeTesting/SonyLA/playlist.m3u8?token=
+#EXTINF:-1,Warner
+http://31.220.40.105/LiveEdgeTesting/WarnerLA/playlist.m3u8?token=
+#EXTINF:-1,axn
+http://31.220.41.111/LiveEdgeTesting/AXNLA/playlist.m3u8?token=
+#EXTINF:-1,E!
+http://31.220.41.111/LiveEdgeTesting/EentertaimentSD/playlist.m3u8?token=
+#EXTINF:-1,FX
+http://31.220.41.111/LiveEdgeTesting/FXLASD/playlist.m3u8?token=
+#EXTINF:-1,DISCOVERY H&H
+http://31.220.41.111/LiveEdgeTesting/DiscoveryHomeHealthLAHD/playlist.m3u8?token=
+#EXTINF:-1,UNICABLE
+http://31.220.40.105/LiveEdgeTesting/UnicableLA/playlist.m3u8?token=
+#EXTINF:-1,TLNOVELAS
+http://31.220.41.111/LiveEdgeTesting/TlnovelasLA/playlist.m3u8?token=
+#EXTINF:-1,DISTRITO COMEDIA
+http://31.220.41.111/LiveEdgeTesting/DistritoComediaLA/playlist.m3u8?token=
+#EXTINF:-1,COMEDY CENTRAL
+http://31.220.41.111/LiveEdgeTesting/ComedyCentralLA/playlist.m3u8?token=
+#EXTINF:-1,DISCOVERY ID
+http://31.220.41.111/LiveEdgeTesting/InvDiscoverySD/playlist.m3u8?token=
+#EXTINF:-1,ISAT
+http://31.220.41.111/LiveEdgeTesting/ISATLA/playlist.m3u8?token=
+#EXTINF:-1,SYFY
+http://31.220.41.111/LiveEdgeTesting/SyFyLASD/playlist.m3u8?token=
+#EXTINF:-1,MUNDO FOX
+http://31.220.41.111/LiveEdgeTesting/_definst_/MundoFoxSD/playlist.m3u8?token=
+#EXTINF:-1,FOX LIFE
+http://31.220.41.111/LiveEdgeTesting/FoxLifeSD/playlist.m3u8?token=
+#EXTINF:-1,TNT SERIES
+http://31.220.41.111:80/LiveEdgeTesting/infinitoSD/chunklist_w1777499773_b1000000.m3u8?token=
+#EXTINF:-1,GLITZ
+http://31.220.41.111/LiveEdgeTesting/GlitzLA/playlist.m3u8?token=
+#EXTINF:-1,TRU TV
+http://31.220.41.111/LiveEdgeTesting/TruTVSD/playlist.m3u8?token=
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+http://31.220.41.111/LiveEdgeTesting/_definst_/TelemundoSD/playlist.m3u8?token=
+#EXTINF:-1,TBS
+http://31.220.41.111/LiveEdgeTesting/TBSLASD/playlist.m3u8?token=
+#EXTINF:-1,DRAGON BALL Z
+rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
+#EXTINF:-1,DYSNEY
+http://31.220.41.111/LiveEdgeTesting/DisneyChannelNorteHD/playlist.m3u8?token=
+#EXTINF:-1,Disney Channel
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://31.220.41.111/LiveEdgeTesting/CartoonNetworkLASD/playlist.m3u8?token=
+#EXTINF:-1,NICK
+http://31.220.41.111/LiveEdgeTesting/NickelodeonLA/playlist.m3u8?token=
+#EXTINF:-1,DISCOVERY KIDS
+http://31.220.41.111/LiveEdgeTesting/DiscoveryKidsSD/playlist.m3u8?token=
+#EXTINF:-1,BOOMERANG
+http://31.220.41.111/LiveEdgeTesting/BoomerangLA/playlist.m3u8?token=
+#EXTINF:-1,DISNEY JR
+http://31.220.41.111/LiveEdgeTesting/DisneyJrLASD/playlist.m3u8?token=
+#EXTINF:-1,BABY TV
+http://31.220.41.111/LiveEdgeTesting/BabyTVLASD/playlist.m3u8?token=
+#EXTINF:-1,NICK JR
+http://31.220.41.111/LiveEdgeTesting/NickJrLASD/playlist.m3u8?token=
+#EXTINF:-1,CBEEBIES
+http://31.220.41.111/LiveEdgeTesting/CbeebiesLA/playlist.m3u8?token=
+#EXTINF:-1,TOONCAST
+http://31.220.41.111/LiveEdgeTesting/TooncastSD/playlist.m3u8?token=
+#EXTINF:-1,Canal+DEPORTES
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5468.m3u8
+#EXTINF:1,Canal+ Liga
+http://portal.rapidiptv.com:8080/live/jojo/jojo/5457.m3u8
+#EXTINF:-1,CMD
+http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,GOLTV
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Winsport
+http://futbol.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+
+#EXTINF:-1,ESPN
+http://31.220.41.111/LiveEdgeTesting/ESPNLA/playlist.m3u8?token=
+#EXTINF:-1,ESPN 2
+http://31.220.41.111/LiveEdgeTesting/ESPN2LASD/playlist.m3u8?token=
+#EXTINF:-1,ESPN 3
+http://31.220.41.111/LiveEdgeTesting/ESPN3LASD/playlist.m3u8?token=
+#EXTINF:-1,FOXSPORT 
+http://201.161.59.6/foxsports.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Fox Sports SUR
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,FOXSPORT 2
+http://31.220.41.111/LiveEdgeTesting/FoxSports2SD/playlist.m3u8?token=
+#EXTINF:-1,FOXSPORT 3
+http://31.220.41.111/LiveEdgeTesting/_definst_/FoxSports3SD/playlist.m3u8?token=
+#EXTINF:-1,UNIVISION TDN
+http://31.220.41.111/LiveEdgeTesting/UnivisionTDNLA/chunklist_w1325476343.m3u8?token=
+#EXTINF:-1,TDN
+http://31.220.41.111/LiveEdgeTesting/_definst_/TDNMXLA/playlist.m3u8?token=
+#EXTINF:-1,UFC 1
+http://66.90.93.26:1935/live/canal086.stream/chunklist_w600485621.m3u8?username=fher1&password;=iptv
+#EXTINF:-1,UFC LATINO
+http://31.220.41.111/LiveEdgeTesting/_definst_/UFCNetworkLA/playlist.m3u8?token=
+#EXTINF:-1,TYC SPORT
+http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FORMULA 1 LATINO
+http://31.220.41.111:1935/LiveEdgeTesting/_definst_/F1LA/chunklist_w1084274531.m3u8?token=
+#EXTINF:-1,GOLF CHANNEL
+http://31.220.41.111:1935/LiveEdgeTesting/_definst_/GolfChannelLA/chunklist_w818200762.m3u8?token=
+#EXTINF:-1,BEIN SPORT
+http://31.220.41.111/LiveEdgeTesting/BeinSportsLA/playlist.m3u8?token=
+#EXTINF:-1,STUDIO UNIVERSAL
+http://31.220.41.111:80/LiveEdgeTesting/StudioUniversalSD/chunklist_w355779465_b1000000.m3u8?token=
+#EXTINF:-1,GOLDEN MULTIPLEX
+http://31.220.41.111/LiveEdgeTesting/GoldenMPLXLA/playlist.m3u8?token=
+#EXTINF:-1,THE FILM ZONE
+http://31.220.41.111/LiveEdgeTesting/FilmZoneLASD/playlist.m3u8?token=
+#EXTINF:-1,GOLDEN EDGE
+http://31.220.41.111/LiveEdgeTesting/GoldenEdgeLA/playlist.m3u8?token=
+#EXTINF:-1,TCM
+http://31.220.41.111/LiveEdgeTesting/TCMSD/playlist.m3u8?token=
+#EXTINF:-1,MULTICINEMA
+http://201.161.59.7/multicinema.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,DPELICULA
+http://201.161.59.7/depelicula.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CINELATINO
+http://31.220.41.111/LiveEdgeTesting/CineLatinoSD/playlist.m3u8?token=
+#EXTINF:-1,SPACE
+http://31.220.41.111/LiveEdgeTesting/SpaceLA/playlist.m3u8?token=
+#EXTINF:-1,CINECANAL
+http://31.220.41.111/LiveEdgeTesting/CineCanalLA/playlist.m3u8?token=
+#EXTINF:-1,CINEMAX
+http://31.220.41.111/LiveEdgeTesting/CinemaxLASD/playlist.m3u8?token=
+#EXTINF:-1,DHE
+http://201.161.59.7/dhe.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://31.220.41.111/LiveEdgeTesting/ParamountChannelLatinAmericaHD/playlist.m3u8?token=
+#EXTINF:-1,SUNDANCE CHANNEL
+http://31.220.41.111/LiveEdgeTesting/SundanceLA/playlist.m3u8?token=
+#EXTINF:-1,HB2
+http://31.220.41.107/LiveEdgeTesting/HBO2SD/playlist.m3u8?token=
+#EXTINF:-1,HBO FAMILY
+http://31.220.40.108/LiveEdgeTesting/HBOFamilyLASD/playlist.m3u8?token=
+#EXTINF:-1,MAX
+http://31.220.41.111/LiveEdgeTesting/MAXLASD/playlist.m3u8?token=
+#EXTINF:-1,MAX PRIME ESTE
+http://31.220.41.111/LiveEdgeTesting/MaxPrimeLASD/playlist.m3u8?token=
+#EXTINF:-1,MAX PRIME OESTE
+http://31.220.40.108/LiveEdgeTesting/MaxPrime2LASD/playlist.m3u8?token=
+#EXTINF:-1,FOX 1
+http://31.220.41.111/LiveEdgeTesting/FOX1OesteLASD/playlist.m3u8?token=
+#EXTINF:-1,FOX ACTION
+http://31.220.41.111/LiveEdgeTesting/FOXACTIONLASD/playlist.m3u8?token=
+#EXTINF:-1,FOX MOVIES
+http://31.220.41.111/LiveEdgeTesting/FOXMoviesLASD/playlist.m3u8?token=
+#EXTINF:-1,FOX FAMILY
+http://31.220.41.111/LiveEdgeTesting/FOXFamilyLASD/playlist.m3u8?token=
+#EXTINF:-1,FOX CLASSICS
+http://31.220.41.102/LiveEdgeTesting/FOXClassicsLASD/playlist.m3u8?token=
+#EXTINF:-1,FOX CINEMA
+http://31.220.40.108/LiveEdgeTesting/FoxCinemaSD/playlist.m3u8?token=
+#EXTINF:-1,FOX COMEDY
+http://31.220.41.111/LiveEdgeTesting/_definst_/FOXComedyLASD/playlist.m3u8?token=
+#EXTINF:-1,GOLDEN PREMIER 1
+http://31.220.40.108/LiveEdgeTesting/GoldenPremier1LA/playlist.m3u8?token=
+#EXTINF:-1,GOLDEN PREMIER 2
+http://31.220.41.103/LiveEdgeTesting/GoldenPremiere2LA/playlist.m3u8?token=
+#EXTINF:-1,MTV
+http://31.220.41.111/LiveEdgeTesting/MTVHitsLA/playlist.m3u8?token=
+#EXTINF:-1,VH1
+http://31.220.41.111/LiveEdgeTesting/VH1LatinoSD/playlist.m3u8?token=
+#EXTINF:-1,TELEHIT
+http://201.161.59.7/telehit.isml/QualityLevels(1992000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,BANDAMAX
+http://31.220.41.111/LiveEdgeTesting/BandamaxLA/playlist.m3u8?token=
+#EXTINF:-1,REGIONAL MUSIC MEXICO
+http://31.220.41.111/LiveEdgeTesting/RegionalMusicLA/playlist.m3u8?token=
+#EXTINF:-1,HTV
+http://31.220.41.111/LiveEdgeTesting/_definst_/HTVSD/playlist.m3u8?token=
+#EXTINF:-1,K MUSIC
+http://31.220.41.111/LiveEdgeTesting/KMusicLA/playlist.m3u8?token=
