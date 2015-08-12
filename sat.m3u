@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:-1,CANAL DE LA ESTRELLAS
 http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8?
+#EXTINF:-0, UNIMAS (USA)
+http://31.220.41.111/LiveEdgeTesting/UniMasUS/chunklist_w240774196.m3u8?token=
+#EXTINF:-0,UNIVISION (USA)
+http://31.220.41.111/LiveEdgeTesting/UnivisionEastUS/chunklist_w1802354780.m3u8?token=
+#EXTINF:-0,TELEMUNDO (USA)
+http://31.220.41.111:80/LiveEdgeTesting/835-TMNDO/playlist.m3u8?token=
+#EXTINF:-0,RCN NOVELAS (COLOMBIA)
+http://31.220.41.111/LiveEdgeTesting/_definst_/RCNnovelasLA/chunklist_w1516627062.m3u8?token=
+#EXTINF:-0,CARACOL INTERNACIONAL (COLOMBIA)
+http://31.220.41.111/LiveEdgeTesting/_definst_/CaracolIntSD/chunklist_w1798214016.m3u8?token=
 #EXTINF:-1,natgeo
 http://31.220.41.111/LiveEdgeTesting/NatGeoLASD/playlist.m3u8?token=
 #EXTINF:-1,natgeo wild
@@ -162,10 +172,16 @@ http://201.161.59.7/dhe.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m
 http://31.220.41.111/LiveEdgeTesting/ParamountChannelLatinAmericaHD/playlist.m3u8?token=
 #EXTINF:-1,SUNDANCE CHANNEL
 http://31.220.41.111/LiveEdgeTesting/SundanceLA/playlist.m3u8?token=
-#EXTINF:-1,HB2
+#EXTINF:-0,HBO
+http://66.90.93.26:1935/live/canal041.stream/chunklist_w1405770527.m3u8?username=fher1&password=iptv
+#EXTINF:-1,HBO2
 http://31.220.41.107/LiveEdgeTesting/HBO2SD/playlist.m3u8?token=
 #EXTINF:-1,HBO FAMILY
 http://31.220.40.108/LiveEdgeTesting/HBOFamilyLASD/playlist.m3u8?token=
+#EXTINF:-0,706-HBO PLUS
+http://31.220.40.100:80/LiveEdgeTesting/HBOPlusLASD/playlist.m3u8?token=
+#EXTINF:-0,708-HBO SIGNATURE
+http://31.220.40.100:80/LiveEdgeTesting/HBOSignatureLASD/playlist.m3u8?token=
 #EXTINF:-1,MAX
 http://31.220.41.111/LiveEdgeTesting/MAXLASD/playlist.m3u8?token=
 #EXTINF:-1,MAX PRIME ESTE
@@ -196,6 +212,8 @@ http://31.220.41.111/LiveEdgeTesting/MTVHitsLA/playlist.m3u8?token=
 http://31.220.41.111/LiveEdgeTesting/VH1LatinoSD/playlist.m3u8?token=
 #EXTINF:-1,TELEHIT
 http://201.161.59.7/telehit.isml/QualityLevels(1992000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, RITMOSON
+http://31.220.41.111:80/LiveEdgeTesting/RitmosonLA/playlist.m3u8?token=
 #EXTINF:-1,BANDAMAX
 http://31.220.41.111/LiveEdgeTesting/BandamaxLA/playlist.m3u8?token=
 #EXTINF:-1,REGIONAL MUSIC MEXICO
@@ -204,13 +222,14 @@ http://31.220.41.111/LiveEdgeTesting/RegionalMusicLA/playlist.m3u8?token=
 http://31.220.41.111/LiveEdgeTesting/_definst_/HTVSD/playlist.m3u8?token=
 #EXTINF:-1,K MUSIC
 http://31.220.41.111/LiveEdgeTesting/KMusicLA/playlist.m3u8?token=
-#EXTINF:-0, UNIMAS (USA)
-http://31.220.41.111/LiveEdgeTesting/UniMasUS/chunklist_w240774196.m3u8?token=
-#EXTINF:-0,UNIVISION (USA)
-http://31.220.41.111/LiveEdgeTesting/UnivisionEastUS/chunklist_w1802354780.m3u8?token=
-#EXTINF:-0,TELEMUNDO (USA)
-http://31.220.41.111:80/LiveEdgeTesting/835-TMNDO/playlist.m3u8?token=
-#EXTINF:-0,RCN NOVELAS (COLOMBIA)
-http://31.220.41.111/LiveEdgeTesting/_definst_/RCNnovelasLA/chunklist_w1516627062.m3u8?token=
-#EXTINF:-0,CARACOL INTERNACIONAL (COLOMBIA)
-http://31.220.41.111/LiveEdgeTesting/_definst_/CaracolIntSD/chunklist_w1798214016.m3u8?token=
+#EXTINF:-0,812-EXA TV
+http://201.161.59.5/exatv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-0,900-CNN EN ESPAÑOL
+http://31.220.41.111:80/LiveEdgeTesting/_definst_/CNNLASD/playlist.m3u8?token=
+#EXTINF:-0,902-FOX NEWS
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-0,904-MILENIO TELEVISION
+http://201.161.59.5/milenio.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-0,906-CNN INTERNACIONAL
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
