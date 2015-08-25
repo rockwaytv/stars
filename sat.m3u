@@ -59,6 +59,9 @@ http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
 http://201.161.59.3/milenio.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,GOLDEN
 http://201.161.59.4/golden.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Golden Edge
+http://201.161.59.7/goldenedge.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+
 #EXTINF:-1,CINE LATINO
 http://201.161.59.4/cinelatino.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,UNICABLE
