@@ -26,8 +26,6 @@ http://stalker.darkuzdev.cf:8080/streamer/125.m3u8
 #EXTINF:-1,BBC HD 
 http://stalker.darkuzdev.cf:8080/streamer/129.m3u8
 #EXTINF:-1,BBC HD 
-http://stalker.darkuzdev.cf:8080/streamer/130.m3u8
-#EXTINF:-1,E! HD 
 http://stalker.darkuzdev.cf:8080/streamer/134.m3u8
 #EXTINF:-1,UNIVERSAL 
 http://stalker.darkuzdev.cf:8080/streamer/137.m3u8
@@ -51,7 +49,7 @@ http://stalker.darkuzdev.cf:8080/streamer/173.m3u8
 http://stalker.darkuzdev.cf:8080/streamer/177.m3u8
 #EXTINF:-1,CASA 
 http://stalker.darkuzdev.cf:8080/streamer/181.m3u8
-#EXTINF:-1,TVNOVELAS 
+#EXTINF:-1,Tlnovelas
 http://stalker.darkuzdev.cf:8080/streamer/185.m3u8
 #EXTINF:-1,HTV 
 http://stalker.darkuzdev.cf:8080/streamer/473.m3u8
