@@ -14,7 +14,7 @@ http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f
 #EXTINF:0 tvg-name="Mega" audio-track="es" tvg-logo="http://i.imgur.com/GuccJBz.jpg", Mega
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 #EXTINF:0 tvg-name="Chilevision" audio-track="es" tvg-logo="http://i.imgur.com/56qNS1v.png", Chilevision
-http://mi.chv.cl/playlist/stream.m3u8?s=hd
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 
 #EXTINF:0 tvg-name="Canal 13" audio-track="es" tvg-logo="http://i.imgur.com/nm6RX5F.png", Canal 13
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
@@ -23,7 +23,7 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 
 #EXTINF:0 tvg-name="Canal de las Estrellas" tvg-logo="http://i.imgur.com/JdJXZFG.png", Canal de las Estrellas
-http://201.161.59.3/canal2.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).m3u8
+http://201.161.59.3/canal2.isml/QualityLevels(877952)/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1,Azteca Trece
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
@@ -219,7 +219,7 @@ http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 #EXTINF:0, 13 tv
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/master.m3u8
-#EXTINF:0, La1
+#EXTINF:0, tve
 http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
 #EXTINF:0, TDP
 http://hlslive.rtve.es/TDP_LV3_IPH/master.m3u8
@@ -284,7 +284,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 #EXTINF:0 tvg-name="Forotv" tvg-logo="http://i.imgur.com/yPHg9Er.png", Forotv
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-
 #EXTINF:0 tvg-name="Proyecto 40" tvg-logo="http://i.imgur.com/ct4YgDK.png", Proyecto 40
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 
@@ -295,39 +294,11 @@ http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 http://xrxs.net/video/live-p12moun-2328.m3u8
 #EXTINF:0,Eurosport
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-
 #EXTINF:0 tvg-name="CDO" tvg-logo="http://i.imgur.com/faKihix.png", CDO
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w335324631_b1064000.m3u8
-#EXTINF:0 tvg-name="Bein ñ" tvg-logo="http://i.imgur.com/sMfTyd4.png", Bein ñ
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
 
-#EXTINF:0,Universal
-http://187.247.255.139/Apple/UNIHD600.m3u8
-#EXTINF:0, Warner
-http://187.247.255.139/Apple/WarnerHD600.m3u8
-#EXTINF:0, canal de las estrellas
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/XEWHD600.m3u8
-#EXTINF:0, canal 5
-http://187.247.255.139/Apple/XHGCHD600.m3u8
-#EXTINF:0, Unicable
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/UNICAHD600.m3u8
-#EXTINF:0,Telehit
-http://187.247.255.139/Apple/THITHD600.m3u8
-#EXTINF:0, CMC
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/CMC600.m3u8
-#EXTINF:0, CNN español
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/CNNEspanol1200.m3u8
-#EXTINF:0, Discovery kids
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/DCHKHD600.m3u8
-#EXTINF:0,ESPN2
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN2600.m3u8
-#EXTINF:0,ESPN 3
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD1200.m3u8
-#EXTINF:-1,Discovery channel
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/Discovery800.m3u8
 
-EXTINF:-1, Gala tv
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/GALAHD1200.m3u8
+
 
 
 
@@ -473,14 +444,11 @@ http://50.7.98.234:1935/rtv/videortv/chunklist_w1293948741.m3u8
 
 
 
-#EXTINF:0, Gol tv
-http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b2296000.m3u8
-#EXTINF:-1,Claro Sport
-http://ooyalahd2-f.akamaihd.net/i/csports01_delivery@42896/index_1692_av-p.m3u8
+
+
 #EXTINF:0, NHK World
 http://nhkworld-hds-live1.hds1.fmslive.stream.ne.jp/hls-live/nhkworld-hds-live1/_definst_/livestream/nhkworld-live-512.m3u8
-#EXTINF:0, CDF Premium
-http://209.133.208.194:1935/app/futbolchilenet2s-channel/playlist.m3u8
+
 
 #EXTINF:-1,RT Español
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
@@ -514,6 +482,8 @@ http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 #EXTINF:0 tvg-name="canal 2 misiones" tvg-logo="http://i.imgur.com/Se37j1N.jpg", canal 2 misiones
 http://190.57.237.214/live/canal.m3u8
+#EXTINF:-1, TN
+http://200.42.92.142/live/tnhd1/master.m3u8
 
 
 
