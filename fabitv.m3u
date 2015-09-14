@@ -148,12 +148,12 @@ http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_480p/playlis
 
 
 
-#EXTINF:0 tvg-name="TVN Ecuador" audio-track="es" tvg-logo="http://i.imgur.com/SdSKUkx.png?1", TVN Ecuador
+#EXTINF:0 tvg-name="TVN Ecuador" tvg-logo="http://i.imgur.com/SdSKUkx.png?1", TVN Ecuador
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 
 
 
-#EXTINF:-1, RCN
+#EXTINF:0 tvg-name="RCN" tvg-logo="http://i.imgur.com/cuJE1Gb.png", RCN
 http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
 
 
