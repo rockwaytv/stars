@@ -21,6 +21,7 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 
 #EXTINF:0, Canal de las estrellas 
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
+
 #EXTINF:0 tvg-name="Canal de las Estrellas" tvg-logo="http://i.imgur.com/JdJXZFG.png", Canal de las Estrellas
 http://201.161.59.3/canal2.isml/QualityLevels(877952)/manifest(format=m3u8-aapl).m3u8
 
@@ -185,7 +186,7 @@ http://lat5.cdnak.latino.neulion.com/nlds/guaotv/panavision/as/live/panavision_3
 
 #EXTINF:0 tvg-name="Azteca Honduras" tvg-logo="http://i.imgur.com/ymOrKKX.png", Azteca Honduras
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
-#EXTINF:0, canal 13 Nicaragua
+#EXTINF:0 tvg-name="Viva Nicaragua" tvg-logo="http://i.imgur.com/T4Z5i42.png", Viva Nicaragua
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
 #EXTINF:0 tvg-name="Telemetro" tvg-logo="http://i.imgur.com/eE3QiN1.png", Telemetro
 http://live.telemetro.com/telemetro/tm.smil/chunklist_w2118090427_b696000_slesp.m3u8
@@ -366,7 +367,9 @@ http://38.96.148.216:1935/live/myStream2/playlist.m3u8
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 
 #EXTINF:0 tvg-name="Mexico travel channel" tvg-logo="http://i.imgur.com/H7o2SGG.png", Mexico Travel Channel
-http://cdns840stu1010.multistream.net/mtchlive/amlst:live/master.m3u8
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/playlist.m3u8
+
+
 #EXTINF:0, traveltv
 http://87.106.219.140:1935/live/myStream_2/playlist.m3u8
 
@@ -427,12 +430,12 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet
 
 
 
-#EXTINF:0 tvg-name="3 Nicaragua" audio-track="es" tvg-logo="https://comunicacionenguate.files.wordpress.com/2010/09/canal3.jpg", 3 Nicaragua
+#EXTINF:0 tvg-name="3 Nicaragua" tvg-logo="http://i.imgur.com/UKIGgW0.png", 3 Nicaragua
 http://72.46.226.61/live01/canal31/playlist.m3u8
 
-#EXTINF:0 tvg-name="7 Nicaragua" audio-track="es" tvg-logo="http://i.imgur.com/pBDoQPi.jpg", 7 Nicaragua
+#EXTINF:0 tvg-name="7 Nicaragua" audio-track="es" tvg-logo="http://i.imgur.com/FXfyPoK.png", 7 Nicaragua
 http://72.46.226.61/live01/canal71/playlist.m3u8
-#EXTINF:0 tvg-name="Trecevision Ni" audio-track="es" tvg-logo="http://fdck.canal3.com.gt/userfiles/noti7.com.gt/webmaster/TreceVision.jpg", Trecevision Ni
+#EXTINF:0 tvg-name="Trecevision Ni" audio-track="es" tvg-logo="http://i.imgur.com/X0GAIHd.png", Trecevision Ni
 http://72.46.226.61/live01/canal131/playlist.m3u8
 
 
@@ -546,6 +549,8 @@ http://201.161.59.3/cadena3.isml/QualityLevels(1928000)/manifest(format=m3u8-aap
 http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-0,FOX (sD)
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-0,canal de las estrellas manifest
+http://tvsawpdvr-lh.akamaihd.net/z/stch02wp_1@119660/manifest.f4m?hdcore=3.6.0
 
 
 
