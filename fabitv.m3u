@@ -27,6 +27,10 @@ http://201.161.59.3/canal2.isml/QualityLevels(877952)/manifest(format=m3u8-aapl)
 
 #EXTINF:-1,Azteca Trece
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:0 tvg-name="TN8 Nicaragua" tvg-logo="http://i.imgur.com/HHds0wC.png?1", TN8 el canal joven de nicaragua
+http://cdn5.iviplanet.com:1935/TN8MBR/myStream.sdp_source/playlist.m3u8
+
+
 #EXTINF:-1, Azteca 7
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:0, Gala tv 
@@ -112,21 +116,14 @@ http://movilstream.digitalproserver.com/etgtv/etgtvvivo/livestream1/playlist.m3u
 
 #EXTINF:0 tvg-name="Universal Movies" tvg-logo="http://i.imgur.com/qP592CR.png", Universal Movies
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-name="Multicinema" tvg-logo="http://i.imgur.com/67GTYpf.png", Multicinema
-http://201.161.59.7/multicinema.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1, session continua
-http://videos3.lasteles.com/live/sesioncontinuatv.stream/playlist.m3u8
+
+
 #EXTINF:0 tvg-name="Ultra Cine" tvg-logo="http://i.imgur.com/Ckr4jdG.png", Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream4/streamPlaylist.m3u8
 #EXTINF:0, Ultra Film
 http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream4/streamPlaylist.m3u8
 #EXTINF:0 tvg-name="Ultra Fiesta" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/ultra_fiesta-mediano.png", Ultra Fiesta
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/stream4/streamPlaylist.m3u8
-
-
-
-
-
 #EXTINF:0 tvg-name="America tv" tvg-logo="http://i.imgur.com/NKvU6HT.png", America tv
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-b.m3u8
 #EXTINF:0 tvg-name="Latina" tvg-logo="http://i.imgur.com/FXaw1h0.png?1", Latina
@@ -134,8 +131,7 @@ http://flatina1live-live.hls.adaptive.level3.net/hls-live/flatina1live-live/_def
 #EXTINF:0 tvg-name="ATV" tvg-logo="http://i.imgur.com/JyNScMD.png", ATV
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 #EXTINF:0 tvg-name="Panamericana" tvg-logo="http://i.imgur.com/TwwGdb8.png", Panamericana
-http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
-
+http://stream-ec.sv6.dailymotion.com/04/dm/1/x18w5up/live.isml/events(live-1442266467)/live-audio=128000-video=701000.m3u8
 #EXTINF:0 tvg-name="UCV Satelital" tvg-logo="https://i.vimeocdn.com/portrait/7857459_300x300.jpg", UCV satelital
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 #EXTINF:0, RBC satelital
@@ -157,7 +153,7 @@ http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
 
 
-#EXTINF:0 tvg-name="Señal Colombia" tvg-logo="http://i.imgur.com/xE7V4LT.png", Señal colombia
+#EXTINF:0, Señal colombia
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/chunklist_b500000.m3u8
 
 
@@ -176,7 +172,7 @@ http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:0 tvg-name="El lider" tvg-logo="http://i.imgur.com/oNXJJIK.png", El lider
 http://162.212.176.83:8080/tvchd.stream.m3u8
-#EXTINF:0 tvg-name="Telecadena" audio-track="es" tvg-logo="http://i.imgur.com/qKwNv67.png", Telecadena
+#EXTINF:0 tvg-name="Telecadena 7y4" tvg-logo="http://i.imgur.com/W2HUEm2.png", Telecadena 7y4
 http://162.212.176.83:8080/telecadena.stream.m3u8
 #EXTINF:0 tvg-name="RPC Panama" audio-track="es" tvg-logo="http://www.rpctv.com/header_logo.png", RPC Panama
 http://live.rpctv.com/rpctv/rpc.smil/chunklist_w1445516227_b696000_slesp.m3u8
@@ -213,7 +209,8 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 #EXTINF:0, Nova
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
-#EXTINF:0 tvg-name="MEGA Television" tvg-logo="http://i.imgur.com/rX4R0mU.png", MEGA Television
+#EXTINF:0, Neox
+http://a3live-lh.akamaihd.net/i/neox_1@35261/index_2_av-b.m3u8?sd=10&rebase=on#EXTINF:0 tvg-name="MEGA Television" tvg-logo="http://i.imgur.com/rX4R0mU.png", MEGA Television
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
 #EXTINF:0,Extremadura Tv
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
@@ -221,7 +218,8 @@ http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionext
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/master.m3u8
 #EXTINF:0, tve
 http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
-#EXTINF:0, TDP
+#EXTINF:0, tve2
+http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8#EXTINF:0, TDP
 http://hlslive.rtve.es/TDP_LV3_IPH/master.m3u8
 
 
@@ -347,26 +345,13 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
 http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_1200_av-p.m3u8
 #EXTINF:0,nat geo wild HD
 http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-p.m3u8
-#EXTINF:0, Discovery Channel
-http://187.247.255.139/Apple/XHGCHD600.m3u8
-
-
-
-
-#EXTINF:-1, Disney channel
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
-
-
-
-
-
 
 
 
 #EXTINF:0,HISPAN TV
 http://ptv-hls.streaming.overon.es/ch04/livehigh.m3u8
-#EXTINF:0, Ecuador TV
-http://38.96.148.216:1935/live/myStream2/playlist.m3u8
+#EXTINF:0 tvg-name="Ecuador TV" tvg-logo="http://i.imgur.com/JxndVgJ.png", Ecuador TV
+http://ecuadortv_livehd-lh.akamaihd.net/i/0n0xzqt3o_1@323283/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-name="TV Chile" audio-track="es" tvg-logo="http://i.imgur.com/lS97gmQ.png", TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
@@ -429,7 +414,7 @@ http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
 
 
 
-#EXTINF:0, Victoria Secret tv
+#EXTINF:0 tvg-name="Victoria Secret" tvg-logo="http://i.imgur.com/gxQP5CC.png?1", Victoria secret
 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
 
 
@@ -438,14 +423,13 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet
 #EXTINF:0 tvg-name="3 Nicaragua" tvg-logo="http://i.imgur.com/UKIGgW0.png", 3 Nicaragua
 http://72.46.226.61/live01/canal31/playlist.m3u8
 
-#EXTINF:0 tvg-name="7 Nicaragua" audio-track="es" tvg-logo="http://i.imgur.com/FXfyPoK.png", 7 Nicaragua
+#EXTINF:0 tvg-name="7 Nicaragua" tvg-logo="http://i.imgur.com/FXfyPoK.png", 7 Nicaragua
 http://72.46.226.61/live01/canal71/playlist.m3u8
 #EXTINF:0 tvg-name="Trecevision Ni" audio-track="es" tvg-logo="http://i.imgur.com/X0GAIHd.png", Trecevision Ni
 http://72.46.226.61/live01/canal131/playlist.m3u8
 
 
-#EXTINF:-1, Ecuavisa
-http://62.210.83.152:1935/liverepeat/ecuatv1/playlist.m3u8
+
 #EXTINF:-1, TVmas
 http://50.7.98.234:1935/rtv/videortv/chunklist_w1293948741.m3u8
 
@@ -459,7 +443,8 @@ http://nhkworld-hds-live1.hds1.fmslive.stream.ne.jp/hls-live/nhkworld-hds-live1/
 
 #EXTINF:-1,RT Español
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
-
+#EXTINF:-1, CNN international
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
 
 #EXTINF:-1, Azteca Deportes
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
@@ -498,27 +483,16 @@ http://200.42.92.142/live/tnhd1/master.m3u8
 
 
 
-
-
-
-#EXTINF:-1,Bolivia
-http://209.133.208.50:1935/app/camara1/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1, Mijas tv
 http://teledifusion.tv:1935/mijastv/mijastvlive/.m3u8
 #EXTINF:-1,MARBELLA TV
 http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
 
 
-#EXTINF:-1, CNN international
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
 
 
-#EXTINF:-1, canal 13 Paraguay
+
+#EXTINF:0 tvg-name="13 paraguay" tvg-logo="http://i.imgur.com/oKJPZb1.png", 13 Paraguay
 http://70.36.100.38:1935/live/canal13_hq.stream/playlist.m3u8
 
 
@@ -529,8 +503,7 @@ http://iphone-streaming.ustream.tv/uhls/15666757/streams/live/iphone/playlist.m3
 
 
 
-#EXTINF:0, TN8 (nicaragua)
-http://cdn5.iviplanet.com:1935/TN8MBR/myStream.sdp_source/playlist.m3u8
+
 #EXTINF:-1, Miami TV
 http://k4.usastreams.com:1935/miamitv/smile:miamitv/chunklist_w667654953_b1550000.m3u8
 #EXTINF:0 tvg-name="KW" tvg-logo="http://kwtv.com.mx/wp-content/uploads/2014/08/KW_TV-Logotipo_mediano11.png", KW
@@ -556,7 +529,10 @@ http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-0,canal de las estrellas manifest
 http://tvsawpdvr-lh.akamaihd.net/z/stch02wp_1@119660/manifest.f4m?hdcore=3.6.0
-
+#EXTINF:-0,PDVSA TV
+http://cast.streamingconnect.tv:1935/pdvsatvweb/pdvsatvweb/playlist.m3u8
+#EXTINF:-0, montecarlo
+http://livestream-f.akamaihd.net/152816_4235094_aadc8802_1_678@147597?v=3.6.0&fp=WIN%2018,0,0,232&r=TEXGI&g=GAWKSUGBKDHC
 
 
 
