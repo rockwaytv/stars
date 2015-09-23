@@ -23,7 +23,7 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 
 #EXTINF:0 tvg-name="Canal de las Estrellas" tvg-logo="http://i.imgur.com/JdJXZFG.png", Canal de las Estrellas
-http://201.161.59.3/canal2.isml/QualityLevels(877952)/manifest(format=m3u8-aapl).m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
 #EXTINF:-1,Azteca Trece
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
@@ -533,6 +533,8 @@ http://tvsawpdvr-lh.akamaihd.net/z/stch02wp_1@119660/manifest.f4m?hdcore=3.6.0
 http://cast.streamingconnect.tv:1935/pdvsatvweb/pdvsatvweb/playlist.m3u8
 #EXTINF:-0, montecarlo
 http://livestream-f.akamaihd.net/152816_4235094_aadc8802_1_678@147597?v=3.6.0&fp=WIN%2018,0,0,232&r=TEXGI&g=GAWKSUGBKDHC
+#EXTINF:-0, star rock
+https://raw.githubusercontent.com/rockwaytv/stars/master/star360.m3u8
 
 
 
