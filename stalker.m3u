@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,tnt series
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=331
 #EXTINF:-1,1 CLASSIC
 http://206.190.150.95/hash/526/10/asd/477.m3u8
 #EXTINF:-1,A&E
