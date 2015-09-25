@@ -255,6 +255,8 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 #EXTINF:0, Q musica
 mms://200.42.92.6:1755/qmusica
+#EXTINF:0, Melody Channel TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:0, Planet Pop
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, Estudio TV
@@ -536,8 +538,10 @@ http://tvsawpdvr-lh.akamaihd.net/z/stch02wp_1@119660/manifest.f4m?hdcore=3.6.0
 http://cast.streamingconnect.tv:1935/pdvsatvweb/pdvsatvweb/playlist.m3u8
 #EXTINF:-0, montecarlo
 http://livestream-f.akamaihd.net/152816_4235094_aadc8802_1_678@147597?v=3.6.0&fp=WIN%2018,0,0,232&r=TEXGI&g=GAWKSUGBKDHC
-#EXTINF:-0, star rock
-https://raw.githubusercontent.com/rockwaytv/stars/master/star360.m3u8
+
+
+#EXTINF:-0, galatv
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
 
 
 
