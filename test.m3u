@@ -26,6 +26,69 @@ http://iptvlatam.cf/hls/energy/playlist.m3u8
 
 
 
+#EXTINF:-1,
+http://app1.vuelo-digital.org/hbofamily.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/depelicula.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/cinelatino.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/foxclassics.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/movicit.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/cinecanal.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/MAXPRIMENUEVO.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/maxprim.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/MULTIPREMIERNUEVO.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/multipremier.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/cantinfla.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/p-terror.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/p-comedia.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/foxcomedia.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/p-animadas.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/Candy.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/supercampeones.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/timon-pumba.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/lospicapiedras.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/fampeluch.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/chavo_del_8.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/chespirit.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/bonanza.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/AnimPlanet.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/DiscoverID.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/DiscoverMax.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/infinito.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/bio.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/utilisima.php
+#EXTINF:-1,
+http://app1.vuelo-digital.org/casaclub.php
+
+
+
 
 #EXTINF:-1, unimas
 http://31.220.40.118/LiveEdge/UniMasUS/playlist.m3u8?token=thorization failed.
