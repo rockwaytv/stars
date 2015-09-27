@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Rock un rio
+http://aolhdshls-lh.akamaihd.net/i/rockinrio092715_1@140684/index_800_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1, fox
 http://iptvlatam.cf/hls/fox/playlist.m3u8
 #EXTINF:-1, History
