@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1, fox
+http://iptvlatam.cf/hls/fox/playlist.m3u8
+#EXTINF:-1, History
+http://iptvlatam.cf/hls/historia/playlist.m3u8
+#EXTINF:-1, iberalia
+http://iptvlatam.cf/hls/iberalia/playlist.m3u8
+#EXTINF:-1, Odisea
+http://iptvlatam.cf/hls/odisea/playlist.m3u8
+#EXTINF:-1, sundance
+http://iptvlatam.cf/hls/sundance/playlist.m3u8
+#EXTINF:-1, paramount chanell
+http://iptvlatam.cf/hls/paramount/playlist.m3u8
+#EXTINF:-1, Univision
+http://iptvlatam.cf/hls/univision/playlist.m3u8
+#EXTINF:-1, Venus
+http://iptvlatam.cf/hls/venus/playlist.m3u8
+#EXTINF:-1,natgeo
+http://iptvlatam.cf/hls/natgeo/playlist.m3u8
+#EXTINF:-1, Calle 13
+http://iptvlatam.cf/hls/calle13/playlist.m3u8
+#EXTINF:-1, Energy
+http://iptvlatam.cf/hls/energy/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1, unimas
 http://31.220.40.118/LiveEdge/UniMasUS/playlist.m3u8?token=thorization failed.
 #EXTINF:-1,NFL Network
