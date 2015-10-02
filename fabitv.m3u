@@ -309,6 +309,8 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w335324631_b1
 
 
 
+
+
 #EXTINF:0 tvg-name="SNT" tvg-logo="http://www.snt.com.py/img/logo.png", SNT
 http://209.133.208.50:1935/app/ramtvps-channel/playlist.m3u8
 
@@ -333,7 +335,6 @@ http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m
 
 #EXTINF:0, Telemundo 47
 http://iphone-streaming.ustream.tv/ustreamVideo/20931896/streams/live/playlist.m3u8
-
 
 
 
@@ -451,7 +452,7 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 #EXTINF:-1, CNN international
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
 
-#EXTINF:-1, Azteca Deportes
+#EXTINF:-1, Azteca Noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 
 
@@ -542,7 +543,48 @@ http://livestream-f.akamaihd.net/152816_4235094_aadc8802_1_678@147597?v=3.6.0&fp
 
 #EXTINF:-0, galatv
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+#EXTINF:-0, the simpsons
+http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
 
+#EXTINF:-0, Discovery civilization
+http://iptvlatam.cf/hls/discciv/playlist.m3u8
+#EXTINF:-0, Big Brother
+http://iptvlatam.cf/hls/bigbro/playlist.m3u8
+#EXTINF:-0, Honduvision
+http://iphone-streaming.ustream.tv/ustreamVideo/20555006/streams/live/playlist.m3u8
+#EXTINF:-0, Alcance tv
+http://hd.worldkast.com/8232/smil:8232.smil/chunklist_w1282066740_b1000000.m3u8
+#EXTINF:-0, Fox NFL
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_1000k.m3u8
+#EXTINF:-0,Total 2 prueba
+http://miraflores.webcindario.com/test/Total2.php?f=.m3u8
+
+#EXTINF:-0, bein ñ
+http://bein-es-us-nex.fubotv.com.a.prod.fastly.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8
+
+#EXTINF:-0, Fox Classics
+http://iptvlatam.ddns.net:9981/stream/service/076c08de7f6c9c3a571fabce7bf631cf
+#EXTINF:-0, HBO
+http://iptvlatam.ddns.net:9981/play/stream/service/1ebd3ee65bf17dbd6205c1f6862d9662?title=HBO_East_US
+#EXTINF:-0, UFC
+http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=team30&password=team30
+#EXTINF:-0, Sky Sports
+http://192.240.113.42:1935/live/canal008.stream/playlist.m3u8?username=team30&password=team30
+#EXTINF:-0, canal de la sestrellas
+http://192.240.113.42:1935/live/canal045.stream/playlist.m3u8?username=team30&password=team30
+#EXTINF:-0, Tooncast
+http://miraflores.webcindario.com/test/Totall2.php?ch=TOONCAST&key=VE9PTkNBU1QuMjM3LjM=&f=.m3u8
+#EXTINF:-0,Inet
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8
+#EXTINF:-0,HBO
+http://192.240.113.42:1935/live/canal041.stream/playlist.m3u8?username=team30&password=team30
+#EXTINF:-0, Disney junior
+http://192.240.113.42:1935/live/canal042.stream/playlist.m3u8?username=team30&password=team30
+#EXTINF:-0,
+
+#EXTINF:-0,
+
+#EXTINF:-0,
 
 
 
