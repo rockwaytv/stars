@@ -48,7 +48,8 @@ http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3
 http://199.167.151.133:1935/app/turbo-max-hds-channel/playlist.m3u8
 #EXTINF:0 tvg-name="Mundo Max" tvg-logo="http://i.imgur.com/98CHyRW.png", Mundo Max
 http://209.133.208.138:1935/app/ana69s-channel/playlist.m3u8
-
+#EXTINF:-0, V mas tv
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 
 #EXTINF:0, Ochotv
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
@@ -580,7 +581,6 @@ http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8
 http://192.240.113.42:1935/live/canal041.stream/playlist.m3u8?username=team30&password=team30
 #EXTINF:-0, Disney junior
 http://192.240.113.42:1935/live/canal042.stream/playlist.m3u8?username=team30&password=team30
-#EXTINF:-0,
 
 #EXTINF:-0,
 
