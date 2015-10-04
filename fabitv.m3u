@@ -600,7 +600,9 @@ http://o12team.tk:8080/foxa.m3u8
 
 
 #EXTINF:-0, Bein sports ñ
-http://iptv.latino-webtv.com/stalker.php?ch=BeinSportsLA&id=2527
+http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA
+#EXTINF:-0, Bein sports ñ
+http://veetle.com/index.php/hls/streamMbrFast/5610e65375e3d/stream.m3u8
 #EXTINF:-0,FOX SPORTS
 http://iptv.latino-webtv.com/stalker.php?ch=FoxSportsLA&id=2505
 #EXTINF:-0,UFC Network
