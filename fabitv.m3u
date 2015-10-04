@@ -598,8 +598,8 @@ http://miraflores.webcindario.com/test/Totall2.php?ch=GOLDEN&key=R09MREVOLjMxNy4
 http://o12team.tk:8080/foxa.m3u8
 #EXTINF:-0, Golden Edge
 http://iptv.latino-webtv.com/stalker.php?ch=GoldenEdgeLA&id=1465
-#EXTINF:-0,
-
+#EXTINF:-0, AMC
+http://iptv.latino-webtv.com/stalker.php?ch=AMCLASD&id=485
 #EXTINF:-0,
 
 #EXTINF:-0,
