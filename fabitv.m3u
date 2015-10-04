@@ -596,11 +596,43 @@ http://miraflores.webcindario.com/test/Totall2.php?ch=TNT&key=VE5ULjMxMy4z&f=.m3
 http://miraflores.webcindario.com/test/Totall2.php?ch=GOLDEN&key=R09MREVOLjMxNy4z&f=.m3u8
 #EXTINF:-0, fox
 http://o12team.tk:8080/foxa.m3u8
-#EXTINF:-0, Golden Edge
-http://iptv.latino-webtv.com/stalker.php?ch=GoldenEdgeLA&id=1465
-#EXTINF:-0, AMC
+
+
+
+#EXTINF:-0, Bein sports ñ
+http://iptv.latino-webtv.com/stalker.php?ch=BeinSportsLA&id=2527
+#EXTINF:-0,FOX SPORTS
+http://iptv.latino-webtv.com/stalker.php?ch=FoxSportsLA&id=2505
+#EXTINF:-0,UFC Network
+http://iptv.latino-webtv.com/stalker.php?ch=UFCNetworkLA&id=1047
+#EXTINF:-0,FOX ACTION
+http://iptv.latino-webtv.com/stalker.php?ch=FOXACTIONLASD&id=435
+#EXTINF:-0,FOX MOVIES
+http://iptv.latino-webtv.com/stalker.php?ch=FOXMoviesLASD&id=463
+#EXTINF:-0,AMC
 http://iptv.latino-webtv.com/stalker.php?ch=AMCLASD&id=485
-#EXTINF:-0,
+#EXTINF:-0,GOLDEN PREMIER 1
+http://iptv.latino-webtv.com/stalker.php?ch=GoldenPremier1LA&id=4777
+#EXTINF:-0,GOLDEN ADGE
+http://iptv.latino-webtv.com/stalker.php?ch=GoldenEdgeLA&id=1465
+#EXTINF:-0,FILM ZONE
+http://iptv.latino-webtv.com/stalker.php?ch=FilmZoneLASD&id=1055
+#EXTINF:-0,AXN
+http://iptv.latino-webtv.com/stalker.php?ch=AXNLA&id=2493
+#EXTINF:-0,SPACE
+http://iptv.latino-webtv.com/stalker.php?ch=SpaceLA&id=2489
+#EXTINF:-0,UNIVERSAL CHANNEL
+http://iptv.latino-webtv.com/stalker.php?ch=UniversalLASD&id=387
+#EXTINF:-0,WARNER BROTHERS
+http://iptv.latino-webtv.com/stalker.php?ch=WarnerLA&id=2499
+#EXTINF:-0,CINEMAX
+http://iptv.latino-webtv.com/stalker.php?ch=CinemaxLASD&id=343
+#EXTINF:-0,TNT
+http://iptv.latino-webtv.com/stalker.php?ch=TNTAmericaLatinaHD&id=262
+#EXTINF:-0,MTV
+http://iptv.latino-webtv.com/stalker.php?ch=MTVLA&id=2491
+#EXTINF:-0,NAT GEO WILD
+http://iptv.latino-webtv.com/stalker.php?ch=NatGeoWildLAHD&id=254
 
 #EXTINF:-0,
 
