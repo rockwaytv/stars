@@ -582,9 +582,26 @@ http://192.240.113.42:1935/live/canal041.stream/playlist.m3u8?username=team30&pa
 #EXTINF:-0, Disney junior
 http://192.240.113.42:1935/live/canal042.stream/playlist.m3u8?username=team30&password=team30
 
+#EXTINF:-0, Fox1
+http://miraflores.webcindario.com/test/Totall2.php?ch=FOX1HD&key=Rk9YMUhELjI5Ny4z&f=.m3u8
+#EXTINF:-0, Fox action
+http://miraflores.webcindario.com/test/Totall2.php?ch=FOXACTION&key=Rk9YQUNUSU9OLjMwMS4z&f=.m3u8
+#EXTINF:-0, Fox movies
+http://miraflores.webcindario.com/test/Totall2.php?ch=FOXMOVIE&key=Rk9YTU9WSUUuMzA1LjM&f=.m3u8
+#EXTINF:-0, Cinecanal
+http://miraflores.webcindario.com/test/Totall2.php?ch=CINECANAL&key=Q0lORUNBTkFMLjMwOS4z&f=.m3u8
+#EXTINF:-0, TNT
+http://miraflores.webcindario.com/test/Totall2.php?ch=TNT&key=VE5ULjMxMy4z&f=.m3u8
+#EXTINF:-0, Golden Premier
+http://miraflores.webcindario.com/test/Totall2.php?ch=GOLDEN&key=R09MREVOLjMxNy4z&f=.m3u8
+#EXTINF:-0, fox
+http://o12team.tk:8080/foxa.m3u8
+#EXTINF:-0, hbo2
+http://o12team.tk:8080/hbo2.m3u8
 #EXTINF:-0,
 
 #EXTINF:-0,
 
+#EXTINF:-0,
 
 
