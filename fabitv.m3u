@@ -655,3 +655,47 @@ http://iptvlatam.ddns.net:9981/stream/service/9ab1ec364dca527912f1a7710c09cf86
 
 #EXTINF:-0, DiscoveryMax
 http://o12team.tk:8080/discomax/mono.m3u8?token=-eQCj6RSV0
+#EXTINF:-0, Teledeporte
+http://o12team.tk:8080/teledeporte/mono.m3u8?token=-eQCj6RSV0
+#EXTINF:-0,
+http://199.180.114.174:8000/fox1.m3u8
+#EXTINF:-0,
+
+#EXTINF:-0,
+
+#EXTINF:-0,
+
+#EXTINF:-0,
+
+#EXTINF:-0,
+
+#EXTINF:-0,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
