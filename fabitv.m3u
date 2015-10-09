@@ -551,8 +551,17 @@ http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
 #EXTINF:-0, the simpsons
 http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
 
+
+
+
+
+
+
+
 #EXTINF:-0, Discovery civilization
 http://iptvlatam.cf/hls/discciv/playlist.m3u8
+#EXTINF:-0,Discovery Sci
+http://onetv.hol.es/iptvking.php?canal=discoverysci&numero=277&f=.m3u8
 #EXTINF:-0, Big Brother
 http://iptvlatam.cf/hls/bigbro/playlist.m3u8
 #EXTINF:-0, Honduvision
@@ -659,15 +668,18 @@ http://o12team.tk:8080/discomax/mono.m3u8?token=-eQCj6RSV0
 http://o12team.tk:8080/teledeporte/mono.m3u8?token=-eQCj6RSV0
 #EXTINF:-0,
 http://199.180.114.174:8000/fox1.m3u8
-#EXTINF:-0,
+#EXTINF:-0,TNT hd
+http://188.165.119.228:8091/95b6fa3fbd41070e8a55b6b36324982f/705-.m3u8
+#EXTINF:-0,tcm
+http://onetv.hol.es/iptvking.php?canal=tcm&numero=481&f=.m3u8
 
-#EXTINF:-0,
+#EXTINF:-0,History
+http://onetv.hol.es/iptvking.php?canal=history&numero=3704&f=.m3u8
+#EXTINF:-0,FX
+http://onetv.hol.es/iptvking.php?canal=fx&numero=431&f=.m3u8
 
-#EXTINF:-0,
-
-#EXTINF:-0,
-
-#EXTINF:-0,
+#EXTINF:-0,Animal Planet
+http://onetv.hol.es/iptvking.php?canal=animalplanet&numero=441&f=.m3u8 
 
 #EXTINF:-0,
 
