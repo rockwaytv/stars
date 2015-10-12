@@ -650,14 +650,14 @@ http://iptv.latino-webtv.com/stalker.php?ch=MTVLA&id=2491
 http://iptv.latino-webtv.com/stalker.php?ch=NatGeoWildLAHD&id=254
 
 #EXTINF:-0, CI
-http://o12team.tk:8080/ci/mono.m3u8?token=-eQCj6RSV0 
+http://o12team.tk:8080/ci/mono.m3u8?token=DsYcWddF83
 #EXTINF:-0, natgeo
-http://o12team.tk:8080/natgeo/mono.m3u8?token=-eQCj6RSV0
+http://o12team.tk:8080/natgeo/mono.m3u8?token=DsYcWddF83
 #EXTINF:-0, FDF
-http://o12team.tk:8080/fdf/mono.m3u8?token=-eQCj6RSV0
+http://o12team.tk:8080/fdf/mono.m3u8?token=DsYcWddF83
 
 #EXTINF:-0, VH1
-http://o12team.tk:8080/vh1/mono.m3u8?token=-eQCj6RSV0
+http://o12team.tk:8080/vh1/mono.m3u8?token=DsYcWddF83
 #EXTINF:-0, cnn en español
 http://iptvlatam.ddns.net:9981/stream/service/9ab1ec364dca527912f1a7710c09cf86
 
@@ -665,8 +665,8 @@ http://iptvlatam.ddns.net:9981/stream/service/9ab1ec364dca527912f1a7710c09cf86
 #EXTINF:-0, DiscoveryMax
 http://o12team.tk:8080/discomax/mono.m3u8?token=DsYcWddF83
 #EXTINF:-0, Teledeporte
-http://o12team.tk:8080/teledeporte/mono.m3u8?token=-eQCj6RSV0
-#EXTINF:-0,
+http://o12team.tk:8080/teledeporte/mono.m3u8?token=DsYcWddF83
+#EXTINF:-0, fox1
 http://199.180.114.174:8000/fox1.m3u8
 #EXTINF:-0,TNT hd
 http://188.165.119.228:8091/95b6fa3fbd41070e8a55b6b36324982f/705-.m3u8
