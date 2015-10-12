@@ -151,7 +151,7 @@ http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 
 
 #EXTINF:0 tvg-name="RCN" tvg-logo="http://i.imgur.com/cuJE1Gb.png", RCN
-http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+http://o12team.tk:8080/rcnhd/index.m3u8
 
 
 #EXTINF:0, Señal colombia
