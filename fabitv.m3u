@@ -36,8 +36,8 @@ http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:0, Gala tv 
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
 
-
-
+#EXTINF:-1, Unimas
+http://78.129.192.136:1935/app/turbo-maxs-channel/playlist.m3u8
 #EXTINF:0 tvg-name="Univision" tvg-logo="http://i.imgur.com/2Hsatjl.png", Univision
 http://199.167.151.133:1935/app/turbomax-hds-channel/playlist.m3u8
 #EXTINF:-1, Telemundo
@@ -129,6 +129,8 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchanne
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-b.m3u8
 #EXTINF:0 tvg-name="Latina" tvg-logo="http://i.imgur.com/FXaw1h0.png?1", Latina
 http://flatina1live-live.hls.adaptive.level3.net/hls-live/flatina1live-live/_definst_/live.m3u8
+#EXTINF:0 tvg-name="Latina" tvg-logo="http://i.imgur.com/FXaw1h0.png?1", Latina
+https://www.youtube.com/watch?v=4zrg6XLcF2c
 #EXTINF:0 tvg-name="ATV" tvg-logo="http://i.imgur.com/JyNScMD.png", ATV
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 #EXTINF:0 tvg-name="Panamericana" tvg-logo="http://i.imgur.com/TwwGdb8.png", Panamericana
