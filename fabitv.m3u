@@ -687,10 +687,10 @@ http://onetv.hol.es/iptvking.php?canal=animalplanet&numero=441&f=.m3u8
 
 #EXTINF:-0,iberalia
 http://o12team.tk:8080/iberalia/mono.m3u8?token=DsYcWddF83
-#EXTINF:-0,
+#EXTINF:-0,caracol
 http://iphone-streaming.ustream.tv/uhls/20698287/streams/live/iphone/playlist.m3u8
-#EXTINF:-0,
-
+#EXTINF:-0,rcn
+http://iphone-streaming.ustream.tv/uhls/21163968/streams/live/iphone/playlist.m3u8
 #EXTINF:-0,
 
 #EXTINF:-0,
