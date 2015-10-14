@@ -37,9 +37,10 @@ http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
 
 #EXTINF:-1, Unimas
-http://78.129.192.136:1935/app/turbo-maxs-channel/playlist.m3u8
+http://78.129.192.136:1935/app/turbomax01s-channel/playlist.m3u8
 #EXTINF:0 tvg-name="Univision" tvg-logo="http://i.imgur.com/2Hsatjl.png", Univision
-http://199.167.151.133:1935/app/turbomax-hds-channel/playlist.m3u8
+http://199.167.151.133:1935/app/univision1xchivas_69s-channel/playlist.m3u8
+
 #EXTINF:-1, Telemundo
 http://209.133.208.50:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
 #EXTINF:0 tvg-name="Americateve usa" tvg-logo="http://i.imgur.com/ZSMiqad.png", Americateve  usa
@@ -55,6 +56,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:-1, Canal once
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/chunklist_w574155402_b1000000.m3u8
+
+
 #EXTINF:-1, Multimedios
 http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
 
@@ -691,6 +694,23 @@ http://o12team.tk:8080/iberalia/mono.m3u8?token=DsYcWddF83
 http://iphone-streaming.ustream.tv/uhls/20698287/streams/live/iphone/playlist.m3u8
 #EXTINF:-0,rcn
 http://iphone-streaming.ustream.tv/uhls/21163968/streams/live/iphone/playlist.m3u8
+#EXTINF:-0, Acua mayor
+http://media.tda.gob.ar/ACUA-Mayor/smil:acuamayor_pc.smil/chunklist_w507609452_b2120000.m3u8
+#EXTINF:-0,acua federal
+http://media.tda.gob.ar/ACUA-Federal/smil:acuafederal_tablet.smil/chunklist_w348442094_b1300000.m3u8
+#EXTINF:-0,paka paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
+#EXTINF:-0, dxtv
+http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w1848214438_b800000_slesp.m3u8
+
+#EXTINF:-0, viajar
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/index_814_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-0,
+
+#EXTINF:-0,
+
 #EXTINF:-0,
 
 #EXTINF:-0,
