@@ -29,8 +29,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1,Azteca Trece
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:0 tvg-name="TN8 Nicaragua" tvg-logo="http://i.imgur.com/HHds0wC.png?1", TN8 el canal joven de nicaragua
-http://cdn5.iviplanet.com:1935/TN8MBR/myStream.sdp_source/playlist.m3u8
-
+http://cdn6.iviplanet.com:1935/TN8/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1, Azteca 7
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
