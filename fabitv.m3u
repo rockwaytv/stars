@@ -39,10 +39,11 @@ http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/m
 #EXTINF:-1, Unimas
 http://78.129.192.136:1935/app/turbomax01s-channel/playlist.m3u8
 #EXTINF:0 tvg-name="Univision" tvg-logo="http://i.imgur.com/2Hsatjl.png", Univision
-http://199.167.151.133:1935/app/univision1xchivas_69s-channel/playlist.m3u8
+http://109.169.22.20:1935/app/univision1xchivas_69s-channel/playlist.m3u8
 
 #EXTINF:-1, Telemundo
-http://209.133.208.50:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
+http://109.169.22.20:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
+
 #EXTINF:0 tvg-name="Americateve usa" tvg-logo="http://i.imgur.com/ZSMiqad.png", Americateve  usa
 http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3u8
 #EXTINF:0 tvg-name="Estrella tv" tvg-logo="http://i.imgur.com/nMqYK9w.png", Estrella tv
@@ -221,7 +222,8 @@ http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 #EXTINF:0, Nova
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
 #EXTINF:0, Neox
-http://a3live-lh.akamaihd.net/i/neox_1@35261/index_2_av-b.m3u8?sd=10&rebase=on#EXTINF:0 tvg-name="MEGA Television" tvg-logo="http://i.imgur.com/rX4R0mU.png", MEGA Television
+http://a3live-lh.akamaihd.net/i/neox_1@35261/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-name="MEGA Television" tvg-logo="http://i.imgur.com/rX4R0mU.png", MEGA Television
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
 #EXTINF:0,Extremadura Tv
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
@@ -420,7 +422,8 @@ http://149.11.34.78:1935/live/singletv.stream/playlist.m3u8
 
 
 #EXTINF:0 tvg-name="Telearagua" tvg-logo="http://telearagua.com/network/images/logo-dark.png", Telearagua
-http://telearagua.lorini.net:1935/telearagua/telearagua1/playlist.m3u8
+http://204.12.206.66/telearagua/smil:telearagua.smil/chunklist_w613568973_b832000_sleng.m3u8
+
 #EXTINF:0 tvg-name="Venezolana TV" tvg-logo="http://i.imgur.com/ISAFMW7.png", Venezolana tv
 http://cast.streamingconnect.tv:1935/vtvweb2/vtvweb2/playlist.m3u8
 
