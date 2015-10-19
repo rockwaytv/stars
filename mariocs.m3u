@@ -19,19 +19,19 @@ http://wcm777.la/tp.php?canal=522&m=mariocs.m3u8
 http://wcm777.la/tp.php?canal=527&m=mariocs.m3u8
 
 #EXTINF:-1,Fox Sports 3
-http://wcm777.la/mariocs.php?canal=FoxSports3SD&id=3806
+http://wcm777.la/mariocs.php?canal=FoxSports3SD&cm=3806
 
 #EXTINF:-1,Bein Ñ Sports
 http://wcm777.la/mariocs.php?canal=BeinSportsLA&cm=2527&f=mariocs.m3u8
 
 #EXTINF:-1,UFC Network
-http://wcm777.la/mariocs.php?canal=UFCNetworkLA&id=1047
+http://wcm777.la/mariocs.php?canal=UFCNetworkLA&cm=1047
 
 #EXTINF:0,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0,Planeta Futbol
-http://wcm777.la/mariocs.php?canal=PlanetaFutbolLA&id=1477
+http://wcm777.la/mariocs.php?canal=PlanetaFutbolLA&cm=1477
 
 #EXTINF:0,F1 Latino
 http://wcm777.la/miguel.php?canal=F1LA&cm=1695&f=mariocs.m3u8
@@ -61,37 +61,37 @@ http://wcm777.la/tp.php?canal=213&m=mariocs.m3u8
 http://wcm777.la/tp.php?canal=207&m=mariocs.m3u8
 
 #EXTINF:-1,HBO
-http://wcm777.la/mariocs.php?canal=HBOLASD&id=385
+http://wcm777.la/mariocs.php?canal=HBOLASD&cm=385
 
 #EXTINF:-1,HBO 2
-http://wcm777.la/mariocs.php?canal=HBO2SD&id=365
+http://wcm777.la/mariocs.php?canal=HBO2SD&cm=365
 
 #EXTINF:-1,HBO Plus
-http://wcm777.la/mariocs.php?canal=HBOPlusLASD&id=453
+http://wcm777.la/mariocs.php?canal=HBOPlusLASD&cm=453
 
 #EXTINF:-1,HBO Plus 2
-http://wcm777.la/mariocs.php?canal=HBOPus2LASD&id=369
+http://wcm777.la/mariocs.php?canal=HBOPus2LASD&cm=369
 
 #EXTINF:-1,HBO Family
-http://wcm777.la/mariocs.php?canal=HBOFamilyLASD&id=449
+http://wcm777.la/mariocs.php?canal=HBOFamilyLASD&cm=449
 
 #EXTINF:-1,HBO Signature
-http://wcm777.la/mariocs.php?canal=HBOSignatureLASD&id=451
+http://wcm777.la/mariocs.php?canal=HBOSignatureLASD&cm=451
 
 #EXTINF:-1,MaxPrime
-http://wcm777.la/mariocs.php?canal=MaxPrimeLASD&id=377
+http://wcm777.la/mariocs.php?canal=MaxPrimeLASD&cm=377
 
 #EXTINF:-1,MAX
-http://wcm777.la/mariocs.php?canal=MaxLASD&id=381
+http://wcm777.la/mariocs.php?canal=MaxLASD&cm=381
 
 #EXTINF:-1,Max UP
-http://wcm777.la/mariocs.php?canal=MaxUPSD&id=469
+http://wcm777.la/mariocs.php?canal=MaxUPSD&cm=469
 
 #EXTINF:-1,TNT
 http://wcm777.la/tp.php?canal=435&m=mariocs.m3u8
 
 #EXTINF:-1,TNT HD
-http://wcm777.la/mariocs.php?canal=TNTAmericaLatinaHD&id=262
+http://wcm777.la/mariocs.php?canal=TNTAmericaLatinaHD&cm=262
 
 #EXTINF:-1,TNT Series
 http://wcm777.la/tp.php?canal=266&m=mariocs.m3u8
@@ -130,7 +130,7 @@ http://wcm777.la/tp.php?canal=421&m=mariocs.m3u8
 http://wcm777.la/tp.php?canal=424&m=mariocs.m3u8
 
 #EXTINF:-1,Fox Family
-http://wcm777.la/mariocs.php?canal=FOXFamilyLASD&id=467
+http://wcm777.la/mariocs.php?canal=FOXFamilyLASD&cm=467
 
 #EXTINF:-1,Fox Movies HD
 http://wcm777.la/tp.php?canal=417&m=mariocs.m3u8
@@ -142,16 +142,16 @@ http://wcm777.la/tp.php?canal=436&m=mariocs.m3u8
 http://wcm777.la/tp.php?canal=484&m=mariocs.m3u8
 
 #EXTINF:-1,Golden Premier 1
-http://wcm777.la/mariocs.php?canal=GoldenPremier1LA&id=4777
+http://wcm777.la/mariocs.php?canal=GoldenPremier1LA&cm=4777
 
 #EXTINF:-1,Golden Premier 2
-http://wcm777.la/mariocs.php?canal=GoldenPremiere2LA&id=4772
+http://wcm777.la/mariocs.php?canal=GoldenPremiere2LA&cm=4772
 
 #EXTINF:-1,Studio Universal
 http://wcm777.la/tp.php?canal=492&m=mariocs.m3u8
 
 #EXTINF:-1,Paramount Channel
-http://wcm777.la/mariocs.php?canal=ParamountChannelLatinAmericaHD&id=260
+http://wcm777.la/mariocs.php?canal=ParamountChannelLatinAmericaHD&cm=260
 
 #EXTINF:0,Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
@@ -166,7 +166,7 @@ http://wcm777.la/tp.php?canal=726&m=mariocs.m3u8
 http://wcm777.la/tp.php?canal=727&m=mariocs.m3u8
 
 #EXTINF:-1,Cine Dinamita
-http://wcm777.la/mariocs.php?canal=CineDinamitaLA&id=3465
+http://wcm777.la/mariocs.php?canal=CineDinamitaLA&cm=3465
 
 #EXTINF:-1,CineLatino
 http://wcm777.la/mariocs.php?canal=CineLatinoSD&cm=477&f=mariocs.m3u8
@@ -181,10 +181,10 @@ http://wcm777.la/tp.php?canal=255&m=mariocs.m3u8
 http://wcm777.la/tp.php?canal=440&m=mariocs.m3u8
 
 #EXTINF:-1,MundoFox
-http://wcm777.la/mariocs.php?canal=MundoFoxSD&id=429
+http://wcm777.la/mariocs.php?canal=MundoFoxSD&cm=429
 
 #EXTINF:-1,MultiPremier
-http://wcm777.la/mariocs.php?canal=MultiPremierLA&id=3293
+http://wcm777.la/mariocs.php?canal=MultiPremierLA&cm=3293
 
 #EXTINF:-1,Discovery Channel
 http://wcm777.la/tp.php?canal=371&m=mariocs.m3u8
@@ -202,7 +202,7 @@ http://wcm777.la/tp.php?canal=355&m=mariocs.m3u8
 http://wcm777.la/tp.php?canal=353&m=mariocs.m3u8
 
 #EXTINF:-1,H2
-http://wcm777.la/mariocs.php?canal=H2LASD&id=297
+http://wcm777.la/mariocs.php?canal=H2LASD&cm=297
 
 #EXTINF:-1,Animal Planet
 http://wcm777.la/tp.php?canal=373&m=mariocs.m3u8
@@ -238,7 +238,7 @@ http://wcm777.la/tp.php?canal=383&m=mariocs.m3u8
 http://wcm777.la/tp.php?canal=374&m=mariocs.m3u8
 
 #EXTINF:-1,El Gourmet
-http://wcm777.la/mariocs.php?canal=ElgourmetLA&id=1033
+http://wcm777.la/mariocs.php?canal=ElgourmetLA&cm=1033
 
 #EXTINF:-1,TruTV
 http://wcm777.la/tp.php?canal=215&m=mariocs.m3u8
@@ -301,25 +301,25 @@ http://wcm777.la/tp.php?canal=308&m=mariocs.m3u8
 http://wcm777.la/tp.php?canal=310&m=mariocs.m3u8
 
 #EXTINF:-1,BabyTV
-http://wcm777.la/mariocs.php?canal=BabyTVLASD&id=317
+http://wcm777.la/mariocs.php?canal=BabyTVLASD&cm=317
 
 #EXTINF:-1,CNN En Español
-http://wcm777.la/mariocs.php?canal=CNNLASD&id=1855
+http://wcm777.la/mariocs.php?canal=CNNLASD&cm=1855
 
 #EXTINF:0,RCN Novelas
-http://wcm777.la/mariocs.php?canal=RCNnovelasLA&id=1493
+http://wcm777.la/mariocs.php?canal=RCNnovelasLA&cm=1493
 
 #EXTINF:-1,Pasiones
-http://wcm777.la/mariocs.php?canal=PasionesSD&id=295
+http://wcm777.la/mariocs.php?canal=PasionesSD&cm=295
 
 #EXTINF:0,Telemundo Internacional
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 
 #EXTINF:-1,NTN 24
-http://wcm777.la/mariocs.php?canal=NTN24LA&id=1601
+http://wcm777.la/mariocs.php?canal=NTN24LA&cm=1601
 
 #EXTINF:-1,TCM
-http://wcm777.la/mariocs.php?canal=TCMSD&id=481
+http://wcm777.la/mariocs.php?canal=TCMSD&cm=481
 
 #EXTINF:-1,Vevo HD 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
@@ -331,13 +331,13 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1,Multimedios
-http://wcm777.la/mariocs.php?canal=MultimediosLA&id=1459
+http://wcm777.la/mariocs.php?canal=MultimediosLA&cm=1459
 
 #EXTINF:-1,TV Publica HD
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 
 #EXTINF:-1,TVE
-http://wcm777.la/mariocs.php?canal=TVELASD&id=981
+http://wcm777.la/mariocs.php?canal=TVELASD&cm=981
 
 #EXTINF:0,Caracol HD
 rtmp://209.133.208.170/app// playpath=jhan1238s-channel swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.canalesdelpueblotv.info/caracol1.htm
@@ -421,7 +421,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
 #EXTINF:0,TDN Mexico
-http://wcm777.la/mariocs.php?canal=TDNMXLA&id=1059
+http://wcm777.la/mariocs.php?canal=TDNMXLA&cm=1059
 
 #EXTINF:-1,Canal 2
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
