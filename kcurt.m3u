@@ -1,0 +1,672 @@
+#EXTM3U
+#‎EXTINF‬:-1,FOX
+http://www.jdmsociety.net/test/tp.m3u8?c=251&p=03&f=.m3u8
+#EXTINF:-1,FOX1
+http://www.jdmsociety.net/test/tp.m3u8?c=415&p=03&f=.m3u8
+#EXTINF:-1,FOX
+http://www.jdmsociety.net/test/tp.m3u8?c=201&p=03&f=.m3u8
+#EXTINF:-1,FOX ACTION HD
+http://www.jdmsociety.net/test/tp.m3u8?c=416&p=03&f=.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://www.jdmsociety.net/test/tp.m3u8?c=417&p=03&f=.m3u8
+#EXTINF:-1,FOX CINEMA
+http://www.jdmsociety.net/test/tp.m3u8?c=421&p=03&f=.m3u8
+#EXTINF:-1,FOX FAMILY
+http://www.jdmsociety.net/test/tp.m3u8?c=475&p=03&f=.m3u8
+#EXTINF:-1,FOX CLASSIC
+http://www.jdmsociety.net/test/tp.m3u8?c=478&p=03&f=.m3u8
+#EXTINF:-1,FOX LIFE
+http://www.jdmsociety.net/test/tp.m3u8?c=271&p=03&f=.m3u8
+#EXTINF:-1,FX HD
+http://www.jdmsociety.net/test/tp.m3u8?c=209&p=03&f=.m3u8
+#EXTINF:-1,CINECANAL+
+http://www.jdmsociety.net/test/tp.m3u8?c=430&p=03&f=.m3u8
+#EXTINF:-1,CINECANAL
+http://www.jdmsociety.net/test/tp.m3u8?c=480&p=03&f=.m3u8
+#EXTINF:-1,TNT HD
+http://www.jdmsociety.net/test/tp.m3u8?c=435&p=03&f=.m3u8
+#EXTINF:-1,TNT LA
+http://www.jdmsociety.net/test/tp.m3u8?c=482&p=03&f=.m3u8
+#EXTINF:-1,TNT SERIES
+http://www.jdmsociety.net/test/tp.m3u8?c=266&p=03&f=.m3u8
+#EXTINF:-1,GOLDEN HD
+http://www.jdmsociety.net/test/tp.m3u8?c=436&p=03&f=.m3u8
+#EXTINF:-1,FILM ZONE HD
+http://www.jdmsociety.net/test/tp.m3u8?c=440&p=03&f=.m3u8
+#EXTINF:-1,DP HD
+http://www.jdmsociety.net/test/tp.m3u8?c=442&p=03&f=.m3u8
+#EXTINF:-1,AMC
+http://www.jdmsociety.net/test/tp.m3u8?c=444&p=03&f=.m3u8
+#EXTINF:-1,SPACE
+http://www.jdmsociety.net/test/tp.m3u8?c=445&p=03&f=.m3u8
+#EXTINF:-1,CINEMAX
+http://www.jdmsociety.net/test/tp.m3u8?c=481&p=03&f=.m3u8
+#EXTINF:-1,EDGE
+http://www.jdmsociety.net/test/tp.m3u8?c=484&p=03&f=.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://www.jdmsociety.net/test/tp.m3u8?c=492&p=03&f=.m3u8
+#EXTINF:-1,TCM
+http://www.jdmsociety.net/test/tp.m3u8?c=496&p=03&f=.m3u8
+#EXTINF:-1,A&E HD
+http://www.jdmsociety.net/test/tp.m3u8?c=211&p=03&f=.m3u8
+#EXTINF:-1,AXN HD
+http://www.jdmsociety.net/test/tp.m3u8?c=213&p=03&f=.m3u8
+#EXTINF:-1,SONY HD
+http://www.jdmsociety.net/test/tp.m3u8?c=203&p=03&f=.m3u8
+#EXTINF:-1,WARNER HD
+http://www.jdmsociety.net/test/tp.m3u8?c=205&p=03&f=.m3u8
+#EXTINF:-1,UNIVERSAL HD
+http://www.jdmsociety.net/test/tp.m3u8?c=207&p=03&f=.m3u8
+#EXTINF:-1,TRUE TV HD
+http://www.jdmsociety.net/test/tp.m3u8?c=215&p=03&f=.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://www.jdmsociety.net/test/tp.m3u8?c=217&p=03&f=.m3u8
+#EXTINF:-1,U UNICABLE HD
+http://www.jdmsociety.net/test/tp.m3u8?c=218&p=03&f=.m3u8
+#EXTINF:-1,AZ CORAZON HD
+http://www.jdmsociety.net/test/tp.m3u8?c=250&p=03&f=.m3u8
+#EXTINF:-1,BBC ENTERTAINMENT
+http://www.jdmsociety.net/test/tp.m3u8?c=253&p=03&f=.m3u8
+#EXTINF:-1,E!
+http://www.jdmsociety.net/test/tp.m3u8?c=255&p=03&f=.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://www.jdmsociety.net/test/tp.m3u8?c=256&p=03&f=.m3u8
+#EXTINF:-1,SyFy
+http://www.jdmsociety.net/test/tp.m3u8?c=257&p=03&f=.m3u8
+#EXTINF:-1, ID INVESTIGATION DISCOVERY
+http://www.jdmsociety.net/test/tp.m3u8?c=263&p=03&f=.m3u8
+#EXTINF:-1,GOURMET TV
+http://www.jdmsociety.net/test/tp.m3u8?c=268&p=03&f=.m3u8
+#EXTINF:-1,GARAGE TV
+http://www.jdmsociety.net/test/tp.m3u8?c=269&p=03&f=.m3u8
+#EXTINF:-1,GLITZ
+http://www.jdmsociety.net/test/tp.m3u8?c=270&p=03&f=.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+http://www.jdmsociety.net/test/tp.m3u8?c=272&p=03&f=.m3u8
+#EXTINF:-1,TBS
+http://www.jdmsociety.net/test/tp.m3u8?c=273&p=03&f=.m3u8
+#EXTINF:-1,CASA
+http://www.jdmsociety.net/test/tp.m3u8?c=274&p=03&f=.m3u8
+#EXTINF:-1,TLNOVELAS
+http://www.jdmsociety.net/test/tp.m3u8?c=275&p=03&f=.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://www.jdmsociety.net/test/tp.m3u8?c=303&p=03&f=.m3u8
+#EXTINF:-1,CBEEBIES BBC
+http://www.jdmsociety.net/test/tp.m3u8?c=305&p=03&f=.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://www.jdmsociety.net/test/tp.m3u8?c=308&p=03&f=.m3u8
+#EXTINF:-1,NICK JR
+http://www.jdmsociety.net/test/tp.m3u8?c=310&p=03&f=.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://www.jdmsociety.net/test/tp.m3u8?c=312&p=03&f=.m3u8
+#EXTINF:-1,NICKS TOONS
+http://www.jdmsociety.net/test/tp.m3u8?c=314&p=03&f=.m3u8
+#EXTINF:-1,NICK HD
+http://www.jdmsociety.net/test/tp.m3u8?c=315&p=03&f=.m3u8
+#EXTINF:-1,NICK
+http://www.jdmsociety.net/test/tp.m3u8?c=317&p=03&f=.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://www.jdmsociety.net/test/tp.m3u8?c=320&p=03&f=.m3u8
+#EXTINF:-1,DISNEY XD
+http://www.jdmsociety.net/test/tp.m3u8?c=322&p=03&f=.m3u8
+#EXTINF:-1,BOOMERANG
+http://www.jdmsociety.net/test/tp.m3u8?c=324&p=03&f=.m3u8
+#EXTINF:-1,TIIN
+http://www.jdmsociety.net/test/tp.m3u8?c=325&p=03&f=.m3u8
+#EXTINF:-1,TOON CAST
+http://www.jdmsociety.net/test/tp.m3u8?c=328&p=03&f=.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://www.jdmsociety.net/test/tp.m3u8?c=355&p=03&f=.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://www.jdmsociety.net/test/tp.m3u8?c=356&p=03&f=.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://www.jdmsociety.net/test/tp.m3u8?c=371&p=03&f=.m3u8
+#EXTINF:-1,ANIMALS PLANET DISCOVERY
+http://www.jdmsociety.net/test/tp.m3u8?c=373&p=03&f=.m3u8
+#EXTINF:-1,H&H DISCOVERY
+http://www.jdmsociety.net/test/tp.m3u8?c=374&p=03&f=.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+http://www.jdmsociety.net/test/tp.m3u8?c=377&p=03&f=.m3u8
+#EXTINF:-1,LIFETIME
+http://www.jdmsociety.net/test/tp.m3u8?c=379&p=03&f=.m3u8
+#EXTINF:-1, SCI DISCOVERY
+http://www.jdmsociety.net/test/tp.m3u8?c=381&p=03&f=.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://www.jdmsociety.net/test/tp.m3u8?c=382&p=03&f=.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://www.jdmsociety.net/test/tp.m3u8?c=383&p=03&f=.m3u8
+#EXTINF:-1,TLC DISCOVERY
+http://www.jdmsociety.net/test/tp.m3u8?c=386&p=03&f=.m3u8
+#EXTINF:-1,ESPN HD
+http://www.jdmsociety.net/test/tp.m3u8?c=516&p=03&f=.m3u8
+#EXTINF:-1,ESPN
+http://www.jdmsociety.net/test/tp.m3u8?c=558&p=03&f=.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://www.jdmsociety.net/test/tp.m3u8?c=520&p=03&f=.m3u8
+#EXTINF:-1,ESPN 2
+http://www.jdmsociety.net/test/tp.m3u8?c=561&p=03&f=.m3u8
+#EXTINF:-1,FOX SPORTS
+http://www.jdmsociety.net/test/tp.m3u8?c=522&p=03&f=.m3u8
+#EXTINF:-1,FOX 2 SPORTS
+http://www.jdmsociety.net/test/tp.m3u8?c=527&p=03&f=.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id="178" tvg-name="Baby First TV" group-title="Children's",Baby First TV (4882)
+http://www.jdmsociety.net/test/ST.m3u8?canal=BabyFirstTVUS&cm=4882
+
+
+
+#EXTINF:-1, tvg-id="883" tvg-name="Baby TV Latinoamerica" group-title="Children's",Baby TV Latinoamerica (317)
+http://www.jdmsociety.net/test/ST.m3u8?canal=BabyTVLASD&cm=317
+#EXTINF:-1, tvg-id="879" tvg-name="Boomerang Latinoamerica" group-title="Children's",Boomerang Latinoamerica (2507)
+http://www.jdmsociety.net/test/ST.m3u8?canal=BoomerangLA&cm=2507
+
+#EXTINF:-1, tvg-id="175" tvg-name="Boomerang USA" group-title="Children's",Boomerang USA
+http://www.jdmsociety.net/test/ST.m3u8?canal=BoomerangUS&cm=175
+#EXTINF:-1, tvg-id="884" tvg-name="CBeebies Latinoamerica" group-title="Children's",CBeebies Latinoamerica (1029)
+http://www.jdmsociety.net/test/ST.m3u8?canal=CbeebiesLA&cm=1029
+#EXTINF:-1, tvg-id="878" tvg-name="Cartoon Network Latinoamerica" group-title="Children's",Cartoon Network Latinoamerica (421)
+http://www.jdmsociety.net/test/ST.m3u8?canal=CartoonNetworkLASD&cm=421
+
+#EXTINF:-1, tvg-id="877" tvg-name="Discovery Kids America Latina" group-title="Children's",Discovery Kids America Latina (309)
+http://www.jdmsociety.net/test/ST.m3u8?canal=DiscoveryKidsSD&cm=309
+
+#EXTINF:-1, tvg-id="172" tvg-name="Disney Channel East" group-title="Children's",Disney Channel East (196)
+http://www.jdmsociety.net/test/ST.m3u8?canal=DisneyChannelEastHD&cm=196
+
+#EXTINF:-1, tvg-id="872" tvg-name="Disney Channel Norte" group-title="Children's",Disney Channel Norte (256)
+http://www.jdmsociety.net/test/ST.m3u8?canal=DisneyChannelNorteHD&cm=256
+
+#EXTINF:-1, tvg-id="173" tvg-name="Disney Channel West" group-title="Children's",Disney Channel West (4862)
+http://www.jdmsociety.net/test/ST.m3u8?canal=DisneyChannelWestUS&cm=4862
+
+#EXTINF:-1, tvg-id="168" tvg-name="Disney Jr" group-title="Children's",Disney Jr (4852)
+http://www.jdmsociety.net/test/ST.m3u8?canal=DisneyJrUS&cm=4852
+
+#EXTINF:-1, tvg-id="874" tvg-name="Disney Junior Norte" group-title="Children's",Disney Junior Norte (1455)
+http://www.jdmsociety.net/test/ST.m3u8?canal=DisneyJrLASD&cm=1455
+#EXTINF:-1, tvg-id="174" tvg-name="Disney XD" group-title="Children's",Disney XD (4860)
+http://www.jdmsociety.net/test/ST.m3u8?canal=DisneyXDUS&cm=4860
+
+#EXTINF:-1, tvg-id="873" tvg-name="Disney XD Norte" group-title="Children's",Disney XD Norte (499)
+http://www.jdmsociety.net/test/ST.m3u8?canal=DisneyXDSD&cm=499
+#EXTINF:-1, tvg-id="169" tvg-name="Nick Jr" group-title="Children's",Nick Jr (4872)
+http://www.jdmsociety.net/test/ST.m3u8?canal=NickJrUS&cm=4872
+
+#EXTINF:-1, tvg-id="876" tvg-name="Nick Jr Latinoamerica" group-title="Children's",Nick Jr Latinoamerica (417)
+http://www.jdmsociety.net/test/ST.m3u8?canal=NickJrLASD&cm=417
+#EXTINF:-1, tvg-id="170" tvg-name="Nickelodeon East" group-title="Children's",Nickelodeon East (1701)
+http://www.jdmsociety.net/test/ST.m3u8?canal=NickelodeonEastUS&cm=1701
+
+#EXTINF:-1, tvg-id="875" tvg-name="Nickelodeon Latinoamerica" group-title="Children's",Nickelodeon Latinoamerica (1423)
+http://www.jdmsociety.net/test/ST.m3u8?canal=NickelodeonLA&cm=1423
+
+#EXTINF:-1, tvg-id="362" tvg-name="SKY Disney" group-title="Children's",SKY Disney (523)
+http://www.jdmsociety.net/test/ST.m3u8?canal=movdisney.stream&cm=523
+
+#EXTINF:-1, tvg-id="181" tvg-name="Teen Nick" group-title="Children's",Teen Nick (4877)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TeenNickUS&cm=4877
+
+#EXTINF:-1, tvg-id="881" tvg-name="Tooncast" group-title="Children's",Tooncast (443)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TooncastSD&cm=443
+#EXTINF:-1 tvg-id="314" tvg-name="===CINEMA===" group-title="Cinema",===CINEMA===
+http://www.jdmsociety.net/test/ST.m3u8?canal=5StarMaxUS&cm=5cda739d02dbbd7d49c24bfb58077cf9
+
+#EXTINF:-1, tvg-id="314" tvg-name="5 StarMax" group-title="Cinema",5 StarMax (4895)
+http://www.jdmsociety.net/test/ST.m3u8?canal=5StarMaxUS&cm=4895
+
+#EXTINF:-1, tvg-id="944" tvg-name="AMC" group-title="Cinema",AMC (485)
+http://www.jdmsociety.net/test/ST.m3u8?canal=AMCLASD&cm=485
+
+#EXTINF:-1, tvg-id="313" tvg-name="ActionMax East" group-title="Cinema",ActionMax East (2337)
+http://www.jdmsociety.net/test/ST.m3u8?canal=ActionMaxEastUS&cm=2337
+
+#EXTINF:-1, tvg-id="135" tvg-name="BBC America" group-title="Cinema",BBC America (184)
+http://www.jdmsociety.net/test/ST.m3u8?canal=BBCAmericaHD&cm=184
+
+#EXTINF:-1, tvg-id="932" tvg-name="Cine Dinamita" group-title="Cinema",Cine Dinamita (3465)
+http://www.jdmsociety.net/test/ST.m3u8?canal=CineDinamitaLA&cm=3465
+
+#EXTINF:-1, tvg-id="941" tvg-name="CineCanal" group-title="Cinema",CineCanal (2495)
+http://www.jdmsociety.net/test/ST.m3u8?canal=CineCanalLA&cm=2495
+
+#EXTINF:-1, tvg-id="934" tvg-name="CineLatino" group-title="Cinema",CineLatino (477)
+http://www.jdmsociety.net/test/ST.m3u8?canal=CineLatinoSD&cm=477
+
+#EXTINF:-1, tvg-id="310" tvg-name="Cinemax East" group-title="Cinema",Cinemax East (953)
+http://www.jdmsociety.net/test/ST.m3u8?canal=CinemaxEastUS&cm=953
+
+#EXTINF:-1, tvg-id="942" tvg-name="Cinemax Latinoamerica" group-title="Cinema",Cinemax Latinoamerica (343)
+http://www.jdmsociety.net/test/ST.m3u8?canal=CinemaxLASD&cm=343
+
+#EXTINF:-1, tvg-id="311" tvg-name="Cinemax West" group-title="Cinema",Cinemax West (955)
+http://www.jdmsociety.net/test/ST.m3u8?canal=CinemaxWestUS&cm=955
+
+#EXTINF:-1, tvg-id="343" tvg-name="Encore Action East" group-title="Cinema",Encore Action East (4897)
+http://www.jdmsociety.net/test/ST.m3u8?canal=EncoreActionEastUS&cm=4897
+
+#EXTINF:-1, tvg-id="340" tvg-name="Encore East" group-title="Cinema",Encore East (222)
+http://www.jdmsociety.net/test/ST.m3u8?canal=EncoreEastHD&cm=222
+#EXTINF:-1, tvg-id="948" tvg-name="Europa Europa" group-title="Cinema",Europa Europa (1597)
+http://www.jdmsociety.net/test/ST.m3u8?canal=EuropaEuropaLA&cm=1597
+
+#EXTINF:-1, tvg-id="949" tvg-name="Film & Arts Latinoamerica" group-title="Cinema",Film & Arts Latinoamerica (1599)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FilmArtsLA&cm=1599
+
+#EXTINF:-1, tvg-id="373" tvg-name="Film 4" group-title="Cinema",Film 4 (497)
+http://www.jdmsociety.net/test/ST.m3u8?canal=film4.stream&cm=497
+
+#EXTINF:-1, tvg-id="950" tvg-name="Film Zone" group-title="Cinema",Film Zone (1055)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FilmZoneLASD&cm=1055
+
+#EXTINF:-1, tvg-id="951" tvg-name="Fox 1 Este" group-title="Cinema",Fox 1 Este (433)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FOX1LASD&cm=433
+
+#EXTINF:-1, tvg-id="952" tvg-name="Fox 1 Oeste" group-title="Cinema",Fox 1 Oeste (439)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FOX1OesteLASD&cm=439
+
+#EXTINF:-1, tvg-id="956" tvg-name="Fox Action Este" group-title="Cinema",Fox Action Este (435)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FOXACTIONLASD&cm=435
+#EXTINF:-1, tvg-id="957" tvg-name="Fox Action Oeste" group-title="Cinema",Fox Action Oeste (437)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FOXActionOesteLASD&cm=437
+
+#EXTINF:-1, tvg-id="955" tvg-name="Fox Cinema" group-title="Cinema",Fox Cinema (457)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FoxCinemaSD&cm=457
+
+#EXTINF:-1, tvg-id="959" tvg-name="Fox Classics Latinoamerica" group-title="Cinema",Fox Classics Latinoamerica (465)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FOXClassicsLASD&cm=465
+
+#EXTINF:-1, tvg-id="954" tvg-name="Fox Comedy" group-title="Cinema",Fox Comedy (461)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FOXComedyLASD&cm=461
+
+#EXTINF:-1, tvg-id="953" tvg-name="Fox Family" group-title="Cinema",Fox Family (467)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FOXFamilyLASD&cm=467
+
+#EXTINF:-1, tvg-id="958" tvg-name="Fox Movies Latinoamerica" group-title="Cinema",Fox Movies Latinoamerica (463)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FOXMoviesLASD&cm=f6076abc7bed61175976401ebbc7907d
+
+#EXTINF:-1, tvg-id="935" tvg-name="Golden" group-title="Cinema",Golden (264)
+http://www.jdmsociety.net/test/ST.m3u8?canal=GoldenHD&cm=463
+
+#EXTINF:-1, tvg-id="936" tvg-name="Golden Edge" group-title="Cinema",Golden Edge (1465)
+http://www.jdmsociety.net/test/ST.m3u8?canal=GoldenEdgeLA&cm=1465
+
+#EXTINF:-1, tvg-id="937" tvg-name="Golden Multiplex" group-title="Cinema",Golden Multiplex (1035)
+http://www.jdmsociety.net/test/ST.m3u8?canal=GoldenMPLXLA&cm=1035
+
+#EXTINF:-1, tvg-id="971" tvg-name="Golden Premier 1" group-title="Cinema",Golden Premier 1 (4777)
+http://www.jdmsociety.net/test/ST.m3u8?canal=GoldenPremier1LA&cm=4777
+#EXTINF:-1, tvg-id="972" tvg-name="Golden Premier 2" group-title="Cinema",Golden Premier 2 (4772)
+http://www.jdmsociety.net/test/ST.m3u8?canal=GoldenPremiere2LA&cm=4772
+
+#EXTINF:-1, tvg-id="301" tvg-name="HBO 2 East" group-title="Cinema",HBO 2 East (216)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBO2EastHD&cm=216
+#EXTINF:-1, tvg-id="961" tvg-name="HBO 2 Latinoamerica" group-title="Cinema",HBO 2 Latinoamerica (365)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBO2SD&cm=365
+#EXTINF:-1, tvg-id="304" tvg-name="HBO 2 West" group-title="Cinema",HBO 2 West (1095)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBO2WestUS&cm=1095
+#EXTINF:-1, tvg-id="307" tvg-name="HBO Comedy East" group-title="Cinema",HBO Comedy East (1001)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBOComedyEastUS&cm=1001
+
+#EXTINF:-1, tvg-id="300" tvg-name="HBO East" group-title="Cinema",HBO East (4765)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBOEastUS&cm=4765
+#EXTINF:-1, tvg-id="305" tvg-name="HBO Family East" group-title="Cinema",HBO Family East (4415)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBOFamilyEastUS&cm=4415
+
+#EXTINF:-1, tvg-id="964" tvg-name="HBO Family Latinoamerica" group-title="Cinema",HBO Family Latinoamerica (449)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBOFamilyLASD&cm=449
+
+#EXTINF:-1, tvg-id="960" tvg-name="HBO Latinoamerica" group-title="Cinema",HBO Latinoamerica (385)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBOLASD&cm=385
+
+#EXTINF:-1, tvg-id="962" tvg-name="HBO Plus Este" group-title="Cinema",HBO Plus Este (453)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBOPlusLASD&cm=453
+
+#EXTINF:-1, tvg-id="963" tvg-name="HBO Plus Oeste" group-title="Cinema",HBO Plus Oeste (369)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBOPus2LASD&cm=369
+
+#EXTINF:-1, tvg-id="302" tvg-name="HBO Signature East" group-title="Cinema",HBO Signature East (959)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBOSignatureEastUS&cm=959
+
+#EXTINF:-1, tvg-id="965" tvg-name="HBO Signature Latinoamerica" group-title="Cinema",HBO Signature Latinoamerica (451)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBOSignatureLASD&cm=451
+
+#EXTINF:-1, tvg-id="303" tvg-name="HBO West" group-title="Cinema",HBO West (4767)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBOWestUS&cm=4767
+
+#EXTINF:-1, tvg-id="308" tvg-name="HBO Zone" group-title="Cinema",HBO Zone
+http://www.jdmsociety.net/test/ST.m3u8?canal=HBOZoneUS&cm=308
+
+#EXTINF:-1, tvg-id="377" tvg-name="Hallmark Movie Channel" group-title="Cinema",Hallmark Movie Channel (1005)
+http://www.jdmsociety.net/test/ST.m3u8?canal=HallmarkMovieChannelUS&cm=1005
+
+#EXTINF:-1, tvg-id="947" tvg-name="I-Sat" group-title="Cinema",I-Sat (1703)
+http://www.jdmsociety.net/test/ST.m3u8?canal=ISATLA&cm=1703
+
+#EXTINF:-1, tvg-id="969" tvg-name="MAX" group-title="Cinema",MAX (381)
+http://www.jdmsociety.net/test/ST.m3u8?canal=MAXLASD&cm=381
+
+#EXTINF:-1, tvg-id="967" tvg-name="Max Prime Este" group-title="Cinema",Max Prime Este (377)
+http://www.jdmsociety.net/test/ST.m3u8?canal=MaxPrimeLASD&cm=377
+
+#EXTINF:-1, tvg-id="968" tvg-name="Max Prime Oeste" group-title="Cinema",Max Prime Oeste (379)
+http://www.jdmsociety.net/test/ST.m3u8?canal=MaxPrime2LASD&cm=379
+#EXTINF:-1, tvg-id="966" tvg-name="Max UP Latinoamerica" group-title="Cinema",Max UP Latinoamerica (469)
+http://www.jdmsociety.net/test/ST.m3u8?canal=MaxUPSD&cm=469
+
+#EXTINF:-1, tvg-id="372" tvg-name="Movies 24" group-title="Cinema",Movies 24 (549)
+http://www.jdmsociety.net/test/ST.m3u8?canal=movies24.stream&cm=549
+#EXTINF:-1, tvg-id="364" tvg-name="SKY Action & Adventure" group-title="Cinema",SKY Action & Adventure (527)
+http://www.jdmsociety.net/test/ST.m3u8?canal=movaction.stream&cm=527
+
+#EXTINF:-1, tvg-id="365" tvg-name="SKY Comedy" group-title="Cinema",SKY Comedy (529)
+http://www.jdmsociety.net/test/ST.m3u8?canal=movcomedy.stream&cm=529
+
+#EXTINF:-1, tvg-id="366" tvg-name="SKY Crime & Thriller" group-title="Cinema",SKY Crime & Thriller (531)
+http://www.jdmsociety.net/test/ST.m3u8?canal=movthriller.stream&cm=531
+
+#EXTINF:-1, tvg-id="363" tvg-name="SKY Family" group-title="Cinema",SKY Family (525)
+http://www.jdmsociety.net/test/ST.m3u8?canal=movfamily.stream&cm=525
+
+#EXTINF:-1, tvg-id="361" tvg-name="SKY Modern Greats" group-title="Cinema",SKY Modern Greats (3301)
+http://www.jdmsociety.net/test/ST.m3u8?canal=mgreats.stream&cm=3301
+
+#EXTINF:-1, tvg-id="367" tvg-name="SKY Movies Drama" group-title="Cinema",SKY Movies Drama (545)
+http://www.jdmsociety.net/test/ST.m3u8?canal=movdrama.stream&cm=545
+
+#EXTINF:-1, tvg-id="359" tvg-name="SKY Premiere" group-title="Cinema",SKY Premiere (521)
+http://www.jdmsociety.net/test/ST.m3u8?canal=movpremier.stream&cm=521
+#EXTINF:-1, tvg-id="368" tvg-name="SKY Scifi & Horror" group-title="Cinema",SKY Scifi & Horror (533)
+http://www.jdmsociety.net/test/ST.m3u8?canal=movscifi.stream&cm=533
+
+#EXTINF:-1, tvg-id="369" tvg-name="SKY Select" group-title="Cinema",SKY Select (535)
+http://www.jdmsociety.net/test/ST.m3u8?canal=movselect.stream&cm=535
+
+#EXTINF:-1, tvg-id="943" tvg-name="SPACE" group-title="Cinema",SPACE (2489)
+http://www.jdmsociety.net/test/ST.m3u8?canal=SpaceLA&cm=2489
+#EXTINF:-1, tvg-id="320" tvg-name="Showtime 2 East" group-title="Cinema",Showtime 2 East (971)
+http://www.jdmsociety.net/test/ST.m3u8?canal=Showtime2EastUS&cm=971
+
+#EXTINF:-1, tvg-id="323" tvg-name="Showtime Beyond East" group-title="Cinema",Showtime Beyond East (975)
+http://www.jdmsociety.net/test/ST.m3u8?canal=ShowtimeBeyondEastUS&cm=975
+
+#EXTINF:-1, tvg-id="322" tvg-name="Showtime Extreme East" group-title="Cinema",Showtime Extreme East (973)
+http://www.jdmsociety.net/test/ST.m3u8?canal=ShowtimeExtremeEastUS&cm=973
+#EXTINF:-1, tvg-id="324" tvg-name="Showtime Next" group-title="Cinema",Showtime Next (1097)
+http://www.jdmsociety.net/test/ST.m3u8?canal=ShowtimeNextUS&cm=1097
+
+#EXTINF:-1, tvg-id="321" tvg-name="Showtime Showcase East" group-title="Cinema",Showtime Showcase East (1085)
+http://www.jdmsociety.net/test/ST.m3u8?canal=ShowtimeShowcaseEastUS&cm=1085
+
+#EXTINF:-1, tvg-id="319" tvg-name="Showtime West" group-title="Cinema",Showtime West (969)
+http://www.jdmsociety.net/test/ST.m3u8?canal=ShowtimeWestUS&cm=969
+
+#EXTINF:-1, tvg-id="386" tvg-name="Sony Movie Channel USA" group-title="Cinema",Sony Movie Channel USA (1101)
+http://www.jdmsociety.net/test/ST.m3u8?canal=SonyMovieChannelUS&cm=1101
+
+#EXTINF:-1, tvg-id="353" tvg-name="Starz Cinema East" group-title="Cinema",Starz Cinema East (985)
+http://www.jdmsociety.net/test/ST.m3u8?canal=StarzCinemaEastUS&cm=985
+
+#EXTINF:-1, tvg-id="354" tvg-name="Starz Comedy East" group-title="Cinema",Starz Comedy East (987)
+http://www.jdmsociety.net/test/ST.m3u8?canal=StarzComedyEastUS&cm=987
+
+#EXTINF:-1, tvg-id="350" tvg-name="Starz East" group-title="Cinema",Starz East (224)
+http://www.jdmsociety.net/test/ST.m3u8?canal=StarzEastHD&cm=224
+
+#EXTINF:-1, tvg-id="352" tvg-name="Starz Edge East" group-title="Cinema",Starz Edge East (983)
+http://www.jdmsociety.net/test/ST.m3u8?canal=StarzEdgeEastUS&cm=983
+
+#EXTINF:-1, tvg-id="355" tvg-name="Starz In Black East" group-title="Cinema",Starz In Black East (989)
+http://www.jdmsociety.net/test/ST.m3u8?canal=StarzInBlackEastUS&cm=989
+
+#EXTINF:-1, tvg-id="356" tvg-name="Starz Kids & Family East" group-title="Cinema",Starz Kids & Family East (1099)
+http://www.jdmsociety.net/test/ST.m3u8?canal=StarzKidsFamilyEastUS&cm=1099
+
+#EXTINF:-1, tvg-id="351" tvg-name="Starz West" group-title="Cinema",Starz West (981)
+http://www.jdmsociety.net/test/ST.m3u8?canal=StarzWestUS&cm=981
+
+#EXTINF:-1, tvg-id="945" tvg-name="Studio Universal" group-title="Cinema",Studio Universal (345)
+http://www.jdmsociety.net/test/ST.m3u8?canal=StudioUniversalSD&cm=345
+
+#EXTINF:-1, tvg-id="939" tvg-name="Sundance Channel Latinoamerica" group-title="Cinema",Sundance Channel Latinoamerica (1041)
+http://www.jdmsociety.net/test/ST.m3u8?canal=SundanceLA&cm=1041
+
+#EXTINF:-1, tvg-id="946" tvg-name="TCM America Latina" group-title="Cinema",TCM America Latina (481)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TCMSD&cm=481
+
+#EXTINF:-1, tvg-id="132" tvg-name="TCM US" group-title="Cinema",TCM US (1105)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TCMUS&cm=1105
+
+#EXTINF:-1, tvg-id="327" tvg-name="The Movie Channel East" group-title="Cinema",The Movie Channel East (220)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TheMovieChannelEastHD&cm=220
+
+#EXTINF:-1, tvg-id="328" tvg-name="The Movie Channel Xtra East" group-title="Cinema",The Movie Channel Xtra East (1009)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TheMovieChannelXtraEastUS&cm=1009
+
+#EXTINF:-1, tvg-id="316" tvg-name="ThrillerMax East" group-title="Cinema",ThrillerMax East
+http://www.jdmsociety.net/test/ST.m3u8?canal=ThrillerMaxEasUS/playlist.m3u8
+
+#EXTINF:-1, tvg-id="370" tvg-name="True Movies 1" group-title="Cinema",True Movies 1 (2453)
+http://www.jdmsociety.net/test/ST.m3u8?canal=true1.stream&cm=2453
+
+#EXTINF:-1, tvg-id="371" tvg-name="True Movies 2" group-title="Cinema",True Movies 2 (2455)
+http://www.jdmsociety.net/test/ST.m3u8?canal=true2.stream&cm=2455
+
+#EXTINF:-1, tvg-id="105" tvg-name="USA Network East" group-title="Cinema",USA Network East (2579)
+http://www.jdmsociety.net/test/ST.m3u8?canal=USANetworkEastHD&cm=2579
+
+#EXTINF:-1, tvg-id="891" tvg-name="Universal Channel America Latina" group-title="Cinema",Universal Channel America Latina (387)
+http://www.jdmsociety.net/test/ST.m3u8?canal=UniversalLASD&cm=387
+
+#EXTINF:-1 tvg-id="184" tvg-name="===CULTURE===" group-title="Culture",===CULTURE===
+http://www.jdmsociety.net/test/ST.m3u8?canal=AnimalPlanetUS&cm=32603715f5361438edd6ebfee5c0f2e0
+
+#EXTINF:-1, tvg-id="184" tvg-name="Animal Planet" group-title="Culture",Animal Planet (4845)
+http://www.jdmsociety.net/test/ST.m3u8?canal=AnimalPlanetUS&cm=4845
+
+#EXTINF:-1, tvg-id="903" tvg-name="Elgourmet" group-title="Culture",Elgourmet (1033)
+http://www.jdmsociety.net/test/ST.m3u8?canal=ElgourmetLA&cm=1033
+
+#EXTINF:-1, tvg-id="113" tvg-name="Good Food" group-title="Culture",Good Food (2587)
+http://www.jdmsociety.net/test/ST.m3u8?canal=goodfood.stream&cm=2587
+
+#EXTINF:-1, tvg-id="190" tvg-name="Nat Geo Wild" group-title="Culture",Nat Geo Wild (4830)
+http://www.jdmsociety.net/test/ST.m3u8?canal=NatGeoWildUS&cm=4830
+
+#EXTINF:-1, tvg-id="852" tvg-name="Nat Geo Wild Latino America" group-title="Culture",Nat Geo Wild Latino America (254)
+http://www.jdmsociety.net/test/ST.m3u8?canal=NatGeoWildLAHD&cm=254
+#EXTINF:-1, tvg-id="196" tvg-name="Travel Channel UK" group-title="Culture",Travel Channel UK (4422)
+http://www.jdmsociety.net/test/ST.m3u8?canal=travel.stream&cm=4422
+
+
+
+#EXTINF:-1, tvg-id="118" tvg-name="A&E East" group-title="Entertainments",A&E East (995)
+http://www.jdmsociety.net/test/ST.m3u8?canal=AEEastUS&cm=995
+#EXTINF:-1, tvg-id="894" tvg-name="A&E Latinoamerica" group-title="Entertainments",A&E Latinoamerica (258)
+http://www.jdmsociety.net/test/ST.m3u8?canal=AELatinoamericaHD&cm=258
+
+#EXTINF:-1, tvg-id="180" tvg-name="ABC Family" group-title="Entertainments",ABC Family (4855)
+http://www.jdmsociety.net/test/ST.m3u8?canal=ABCFamilyUS&cm=4855
+
+#EXTINF:-1, tvg-id="131" tvg-name="AMC East" group-title="Entertainments",AMC East (5629)
+http://www.jdmsociety.net/test/ST.m3u8?canal=AMCEastUS&cm=5629
+
+#EXTINF:-1, tvg-id="897" tvg-name="AXN Latinoamerica" group-title="Entertainments",AXN Latinoamerica (2493)
+http://www.jdmsociety.net/test/ST.m3u8?canal=AXNLA&cm=2493
+
+#EXTINF:-1, tvg-id="886" tvg-name="BBC Entertainment Latinoamerica" group-title="Entertainments",BBC Entertainment Latinoamerica (1407)
+http://www.jdmsociety.net/test/ST.m3u8?canal=BBCEntLA&cm=1407
+
+#EXTINF:-1, tvg-id="129" tvg-name="Bravo East" group-title="Entertainments",Bravo East (4890)
+http://www.jdmsociety.net/test/ST.m3u8?canal=BravoEastUS&cm=4890
+
+#EXTINF:-1, tvg-id="229" tvg-name="CBS Action" group-title="Entertainments",CBS Action (2433)
+http://www.jdmsociety.net/test/ST.m3u8?canal=cbsaction.stream&cm=2433
+
+#EXTINF:-1, tvg-id="228" tvg-name="CBS Drama" group-title="Entertainments",CBS Drama (2431)
+http://www.jdmsociety.net/test/ST.m3u8?canal=cbsdrama.stream&cm=2431
+
+#EXTINF:-1, tvg-id="227" tvg-name="CBS Reality" group-title="Entertainments",CBS Reality (2435)
+http://www.jdmsociety.net/test/ST.m3u8?canal=cbsreality.stream&cm=2435
+
+
+
+#EXTINF:-1, tvg-id="107" tvg-name="Comedy Central East" group-title="Entertainments",Comedy Central East (2575)
+http://www.jdmsociety.net/test/ST.m3u8?canal=ComedyCentralHD&cm=2575
+
+#EXTINF:-1, tvg-id="909" tvg-name="Comedy Central Latinoamerica" group-title="Entertainments",Comedy Central Latinoamerica (1037)
+http://www.jdmsociety.net/test/ST.m3u8?canal=ComedyCentralLA&cm=1037
+
+#EXTINF:-1, tvg-id="842" tvg-name="DW Latinoamerica" group-title="Entertainments",DW Latinoamerica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+#EXTINF:-1, tvg-id="183" tvg-name="Discovery Family" group-title="Entertainments",Discovery Family (4867)
+http://www.jdmsociety.net/test/ST.m3u8?canal=DiscoveryFamilyUS&cm=4867
+
+#EXTINF:-1, tvg-id="848" tvg-name="Discovery Home & Health Latinoamerica" group-title="Entertainments",Discovery Home & Health Latinoamerica (252)
+http://www.jdmsociety.net/test/ST.m3u8?canal=DiscoveryHomeHealthLAHD&cm=252
+
+#EXTINF:-1, tvg-id="908" tvg-name="Distrito Comedia" group-title="Entertainments",Distrito Comedia (1491)
+http://www.jdmsociety.net/test/ST.m3u8?canal=DistritoComediaLA&cm=1491
+#EXTINF:-1, tvg-id="114" tvg-name="E!" group-title="Entertainments",E! (2341)
+http://www.jdmsociety.net/test/ST.m3u8?canal=eEntUS&cm=2341
+
+#EXTINF:-1, tvg-id="889" tvg-name="E! Latinoamerica" group-title="Entertainments",E! Latinoamerica (427)
+http://www.jdmsociety.net/test/ST.m3u8?canal=EentertaimentSD&cm=427
+#EXTINF:-1, tvg-id="198" tvg-name="Eden" group-title="Entertainments",Eden (513)
+http://www.jdmsociety.net/test/ST.m3u8?canal=Eden.stream&cm=513
+
+#EXTINF:-1, tvg-id="907" tvg-name="FOX Life" group-title="Entertainments",FOX Life (425)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FoxLifeSD&cm=425
+#EXTINF:-1, tvg-id="136" tvg-name="FX East" group-title="Entertainments",FX East (997)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FXEastUS&cm=997
+
+#EXTINF:-1, tvg-id="890" tvg-name="FX Latino" group-title="Entertainments",FX Latino (431)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FXLASD&cm=431
+#EXTINF:-1, tvg-id="240" tvg-name="FXX East" group-title="Entertainments",FXX East (2339)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FXXUS&cm=2339
+
+#EXTINF:-1, tvg-id="892" tvg-name="Fox Latinoamerica" group-title="Entertainments",Fox Latinoamerica (3947)
+http://www.jdmsociety.net/test/ST.m3u8?canal=FOXHDLA&cm=3947
+
+#EXTINF:-1, tvg-id="906" tvg-name="Glitz Latinoamerica" group-title="Entertainments",Glitz Latinoamerica (1473)
+http://www.jdmsociety.net/test/ST.m3u8?canal=GlitzLA&cm=1473
+
+
+#EXTINF:-1, tvg-id="133" tvg-name="IFC East" group-title="Entertainments",IFC East (164)
+http://www.jdmsociety.net/test/ST.m3u8?canal=IFCHD&cm=164
+
+#EXTINF:-1, tvg-id="250" tvg-name="ION Television East" group-title="Entertainments",ION Television East (4902)
+http://www.jdmsociety.net/test/ST.m3u8?canal=IONTVEastUS&cm=4902
+#EXTINF:-1, tvg-id="115" tvg-name="ITV B" group-title="Entertainments",ITV B (4737)
+http://www.jdmsociety.net/test/ST.m3u8?canal=itvbe.stream&cm=4737
+
+#EXTINF:-1, tvg-id="109" tvg-name="ITV Encore" group-title="Entertainments",ITV Encore (501)
+http://www.jdmsociety.net/test/ST.m3u8?canal=itvencore.stream&cm=501
+
+#EXTINF:-1, tvg-id="108" tvg-name="Lifetime East" group-title="Entertainments",Lifetime East (2581)
+http://www.jdmsociety.net/test/ST.m3u8?canal=LifetimeEastUS&cm=2581
+
+#EXTINF:-1, tvg-id="914" tvg-name="Lifetime Latinoamerica" group-title="Entertainments",Lifetime Latinoamerica (423)
+http://www.jdmsociety.net/test/ST.m3u8?canal=LifetimeLASD&cm=423
+
+#EXTINF:-1, tvg-id="900" tvg-name="MundoFox" group-title="Entertainments",MundoFox (429)
+http://www.jdmsociety.net/test/ST.m3u8?canal=MundoFoxSD&cm=429
+
+#EXTINF:-1, tvg-id="829" tvg-name="NBC Universo" group-title="Entertainments",NBC Universo (4825)
+http://www.jdmsociety.net/test/ST.m3u8?canal=NBCUniversoUS&cm=4825
+
+#EXTINF:-1, tvg-id="245" tvg-name="Ovation" group-title="Entertainments",Ovation (2349)
+http://www.jdmsociety.net/test/ST.m3u8?canal=OvationUS&cm=2349
+
+#EXTINF:-1, tvg-id="127" tvg-name="Oxygen" group-title="Entertainments",Oxygen (180)
+http://www.jdmsociety.net/test/ST.m3u8?canal=OxygenSD&cm=180
+
+#EXTINF:-1, tvg-id="374" tvg-name="Palladia" group-title="Entertainments",Palladia (991)
+http://www.jdmsociety.net/test/ST.m3u8?canal=PalladiaHDUS&cm=991
+
+#EXTINF:-1, tvg-id="834" tvg-name="Pasiones" group-title="Entertainments",Pasiones (295)
+http://www.jdmsociety.net/test/ST.m3u8?canal=PasionesSD&cm=295
+
+#EXTINF:-1, tvg-id="838" tvg-name="RCN Novelas" group-title="Entertainments",RCN Novelas (1493)
+http://www.jdmsociety.net/test/ST.m3u8?canal=RCNnovelasLA&cm=1493
+#EXTINF:-1, tvg-id="126" tvg-name="Really" group-title="Entertainments",Really (505)
+http://www.jdmsociety.net/test/ST.m3u8?canal=Really.stream&cm=505
+
+#EXTINF:-1, tvg-id="241" tvg-name="Spike TV" group-title="Entertainments",Spike TV (4410)
+http://www.jdmsociety.net/test/ST.m3u8?canal=SpikeUS&cm=4410
+
+#EXTINF:-1, tvg-id="893" tvg-name="Syfy Latinoamerica" group-title="Entertainments",Syfy Latinoamerica (447)
+http://www.jdmsociety.net/test/ST.m3u8?canal=SyFyLASD&cm=447
+
+#EXTINF:-1, tvg-id="905" tvg-name="TBS America Latina" group-title="Entertainments",TBS America Latina (333)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TBSLASD&cm=333
+
+#EXTINF:-1, tvg-id="139" tvg-name="TBS East" group-title="Entertainments",TBS East (967)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TBSEastUS&cm=967
+
+#EXTINF:-1, tvg-id="123" tvg-name="TLC" group-title="Entertainments",TLC (503)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TLC.stream&cm=503
+
+#EXTINF:-1, tvg-id="896" tvg-name="TLC Latinoamerica" group-title="Entertainments",TLC Latinoamerica (327)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TLCLASD&cm=327
+
+#EXTINF:-1, tvg-id="940" tvg-name="TNT America Latina" group-title="Entertainments",TNT America Latina (262)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TNTAmericaLatinaHD&cm=262
+#EXTINF:-1, tvg-id="138" tvg-name="TNT Drama" group-title="Entertainments",TNT Drama (977)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TNTDramaUS&cm=977
+
+#EXTINF:-1, tvg-id="902" tvg-name="TNT Series Latinoamerica" group-title="Entertainments",TNT Series Latinoamerica (331)
+http://www.jdmsociety.net/test/ST.m3u8?canal=infinitoSD&cm=331
+
+#EXTINF:-1, tvg-id="835" tvg-name="Telemundo" group-title="Entertainments",Telemundo (4417)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TelemundoUS&cm=4417
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id="837" tvg-name="Tlnovelas America" group-title="Entertainments",Tlnovelas America (1461)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TlnovelasLA&cm=1461
+#EXTINF:-1, tvg-id="910" tvg-name="Tru TV America Latina" group-title="Entertainments",Tru TV America Latina (337)
+http://www.jdmsociety.net/test/ST.m3u8?canal=TruTVSD&cm=337
+#EXTINF:-1, tvg-id="242" tvg-name="Tru TV East" group-title="Entertainments",Tru TV East
+http://www.jdmsociety.net/test/ST.m3u8?canal=TruTVUS/playlist.m3u8
+
+
+
+#EXTINF:-1, tvg-id="828" tvg-name="UniMas" group-title="Entertainments",UniMas (3602)
+http://www.jdmsociety.net/test/ST.m3u8?canal=UniMasUS&cm=3602
+
+#EXTINF:-1, tvg-id="827" tvg-name="Univision" group-title="Entertainments",Univision (6299)
+http://www.jdmsociety.net/test/ST.m3u8?canal=UnivisionEastUS&cm=6299
+#EXTINF:-1, tvg-id="925" tvg-name="VH1 Classic Europe" group-title="Entertainments",VH1 Classic Europe (415)
+http://www.jdmsociety.net/test/ST.m3u8?canal=VH1ClassicLASD&cm=415
+
+#EXTINF:-1, tvg-id="926" tvg-name="VH1 Latino Norte" group-title="Entertainments",VH1 Latino Norte (483)
+http://www.jdmsociety.net/test/ST.m3u8?canal=VH1LatinoSD&cm=483
+
+#EXTINF:-1, tvg-id="128" tvg-name="WE TV" group-title="Entertainments",WE TV (182)
+http://www.jdmsociety.net/test/ST.m3u8?canal=WETVSD&cm=182
+
+#EXTINF:-1, tvg-id="239" tvg-name="WGN America" group-title="Entertainments",WGN America (1771)
+http://www.jdmsociety.net/test/ST.m3u8?canal=WGNAmericaUS&cm=1771
+
+#EXTINF:-1, tvg-id="888" tvg-name="Warner Channel Latinoamerica" group-title="Entertainments",Warner Channel Latinoamerica (2499)
+http://www.jdmsociety.net/test/ST.m3u8?canal=WarnerLA&cm=2499
+
+
+
+
