@@ -161,6 +161,16 @@ http://www.jdmsociety.net/test/tp.m3u8?c=527&p=03&f=.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, tvg-id="178" tvg-name="Baby First TV" group-title="Children's",Baby First TV (4882)
 http://www.jdmsociety.net/test/ST.m3u8?canal=BabyFirstTVUS&cm=4882
 
@@ -453,8 +463,8 @@ http://www.jdmsociety.net/test/ST.m3u8?canal=TheMovieChannelEastHD&cm=220
 #EXTINF:-1, tvg-id="328" tvg-name="The Movie Channel Xtra East" group-title="Cinema",The Movie Channel Xtra East (1009)
 http://www.jdmsociety.net/test/ST.m3u8?canal=TheMovieChannelXtraEastUS&cm=1009
 
-#EXTINF:-1, tvg-id="316" tvg-name="ThrillerMax East" group-title="Cinema",ThrillerMax East
-http://www.jdmsociety.net/test/ST.m3u8?canal=ThrillerMaxEasUS/playlist.m3u8
+#EXTINF:-1, tvg-id="316" tvg-name="ThrillerMax East" group-title="Cinema",ThrillerMax East (2533)
+http://www.jdmsociety.net/test/ST.m3u8?canal=ThrillerMaxEasUS&cm=2533
 
 #EXTINF:-1, tvg-id="370" tvg-name="True Movies 1" group-title="Cinema",True Movies 1 (2453)
 http://www.jdmsociety.net/test/ST.m3u8?canal=true1.stream&cm=2453
@@ -666,7 +676,3 @@ http://www.jdmsociety.net/test/ST.m3u8?canal=WGNAmericaUS&cm=1771
 
 #EXTINF:-1, tvg-id="888" tvg-name="Warner Channel Latinoamerica" group-title="Entertainments",Warner Channel Latinoamerica (2499)
 http://www.jdmsociety.net/test/ST.m3u8?canal=WarnerLA&cm=2499
-
-
-
-
