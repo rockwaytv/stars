@@ -1,0 +1,151 @@
+#EXTM3U
+#‎EXTINF‬:-1,FOX
+http://www.jdmsociety.net/test/tp.m3u8?c=251&p=03&f=.m3u8
+#EXTINF:-1,FOX1
+http://www.jdmsociety.net/test/tp.m3u8?c=415&p=03&f=.m3u8
+#EXTINF:-1,FOX
+http://www.jdmsociety.net/test/tp.m3u8?c=201&p=03&f=.m3u8
+#EXTINF:-1,FOX ACTION HD
+http://www.jdmsociety.net/test/tp.m3u8?c=416&p=03&f=.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://www.jdmsociety.net/test/tp.m3u8?c=417&p=03&f=.m3u8
+#EXTINF:-1,FOX CINEMA
+http://www.jdmsociety.net/test/tp.m3u8?c=421&p=03&f=.m3u8
+#EXTINF:-1,FOX FAMILY
+http://www.jdmsociety.net/test/tp.m3u8?c=475&p=03&f=.m3u8
+#EXTINF:-1,FOX CLASSIC
+http://www.jdmsociety.net/test/tp.m3u8?c=478&p=03&f=.m3u8
+#EXTINF:-1,FOX LIFE
+http://www.jdmsociety.net/test/tp.m3u8?c=271&p=03&f=.m3u8
+#EXTINF:-1,FX HD
+http://www.jdmsociety.net/test/tp.m3u8?c=209&p=03&f=.m3u8
+#EXTINF:-1,CINECANAL+
+http://www.jdmsociety.net/test/tp.m3u8?c=430&p=03&f=.m3u8
+#EXTINF:-1,CINECANAL
+http://www.jdmsociety.net/test/tp.m3u8?c=480&p=03&f=.m3u8
+#EXTINF:-1,TNT HD
+http://www.jdmsociety.net/test/tp.m3u8?c=435&p=03&f=.m3u8
+#EXTINF:-1,TNT LA
+http://www.jdmsociety.net/test/tp.m3u8?c=482&p=03&f=.m3u8
+#EXTINF:-1,TNT SERIES
+http://www.jdmsociety.net/test/tp.m3u8?c=266&p=03&f=.m3u8
+#EXTINF:-1,GOLDEN HD
+http://www.jdmsociety.net/test/tp.m3u8?c=436&p=03&f=.m3u8
+#EXTINF:-1,FILM ZONE HD
+http://www.jdmsociety.net/test/tp.m3u8?c=440&p=03&f=.m3u8
+#EXTINF:-1,DP HD
+http://www.jdmsociety.net/test/tp.m3u8?c=442&p=03&f=.m3u8
+#EXTINF:-1,AMC
+http://www.jdmsociety.net/test/tp.m3u8?c=444&p=03&f=.m3u8
+#EXTINF:-1,SPACE
+http://www.jdmsociety.net/test/tp.m3u8?c=445&p=03&f=.m3u8
+#EXTINF:-1,CINEMAX
+http://www.jdmsociety.net/test/tp.m3u8?c=481&p=03&f=.m3u8
+#EXTINF:-1,EDGE
+http://www.jdmsociety.net/test/tp.m3u8?c=484&p=03&f=.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://www.jdmsociety.net/test/tp.m3u8?c=492&p=03&f=.m3u8
+#EXTINF:-1,TCM
+http://www.jdmsociety.net/test/tp.m3u8?c=496&p=03&f=.m3u8
+#EXTINF:-1,A&E HD
+http://www.jdmsociety.net/test/tp.m3u8?c=211&p=03&f=.m3u8
+#EXTINF:-1,AXN HD
+http://www.jdmsociety.net/test/tp.m3u8?c=213&p=03&f=.m3u8
+#EXTINF:-1,SONY HD
+http://www.jdmsociety.net/test/tp.m3u8?c=203&p=03&f=.m3u8
+#EXTINF:-1,WARNER HD
+http://www.jdmsociety.net/test/tp.m3u8?c=205&p=03&f=.m3u8
+#EXTINF:-1,UNIVERSAL HD
+http://www.jdmsociety.net/test/tp.m3u8?c=207&p=03&f=.m3u8
+#EXTINF:-1,TRUE TV HD
+http://www.jdmsociety.net/test/tp.m3u8?c=215&p=03&f=.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://www.jdmsociety.net/test/tp.m3u8?c=217&p=03&f=.m3u8
+#EXTINF:-1,U UNICABLE HD
+http://www.jdmsociety.net/test/tp.m3u8?c=218&p=03&f=.m3u8
+#EXTINF:-1,AZ CORAZON HD
+http://www.jdmsociety.net/test/tp.m3u8?c=250&p=03&f=.m3u8
+#EXTINF:-1,BBC ENTERTAINMENT
+http://www.jdmsociety.net/test/tp.m3u8?c=253&p=03&f=.m3u8
+#EXTINF:-1,E!
+http://www.jdmsociety.net/test/tp.m3u8?c=255&p=03&f=.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://www.jdmsociety.net/test/tp.m3u8?c=256&p=03&f=.m3u8
+#EXTINF:-1,SyFy
+http://www.jdmsociety.net/test/tp.m3u8?c=257&p=03&f=.m3u8
+#EXTINF:-1, ID INVESTIGATION DISCOVERY
+http://www.jdmsociety.net/test/tp.m3u8?c=263&p=03&f=.m3u8
+#EXTINF:-1,GOURMET TV
+http://www.jdmsociety.net/test/tp.m3u8?c=268&p=03&f=.m3u8
+#EXTINF:-1,GARAGE TV
+http://www.jdmsociety.net/test/tp.m3u8?c=269&p=03&f=.m3u8
+#EXTINF:-1,GLITZ
+http://www.jdmsociety.net/test/tp.m3u8?c=270&p=03&f=.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+http://www.jdmsociety.net/test/tp.m3u8?c=272&p=03&f=.m3u8
+#EXTINF:-1,TBS
+http://www.jdmsociety.net/test/tp.m3u8?c=273&p=03&f=.m3u8
+#EXTINF:-1,CASA
+http://www.jdmsociety.net/test/tp.m3u8?c=274&p=03&f=.m3u8
+#EXTINF:-1,TLNOVELAS
+http://www.jdmsociety.net/test/tp.m3u8?c=275&p=03&f=.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://www.jdmsociety.net/test/tp.m3u8?c=303&p=03&f=.m3u8
+#EXTINF:-1,CBEEBIES BBC
+http://www.jdmsociety.net/test/tp.m3u8?c=305&p=03&f=.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://www.jdmsociety.net/test/tp.m3u8?c=308&p=03&f=.m3u8
+#EXTINF:-1,NICK JR
+http://www.jdmsociety.net/test/tp.m3u8?c=310&p=03&f=.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://www.jdmsociety.net/test/tp.m3u8?c=312&p=03&f=.m3u8
+#EXTINF:-1,NICKS TOONS
+http://www.jdmsociety.net/test/tp.m3u8?c=314&p=03&f=.m3u8
+#EXTINF:-1,NICK HD
+http://www.jdmsociety.net/test/tp.m3u8?c=315&p=03&f=.m3u8
+#EXTINF:-1,NICK
+http://www.jdmsociety.net/test/tp.m3u8?c=317&p=03&f=.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://www.jdmsociety.net/test/tp.m3u8?c=320&p=03&f=.m3u8
+#EXTINF:-1,DISNEY XD
+http://www.jdmsociety.net/test/tp.m3u8?c=322&p=03&f=.m3u8
+#EXTINF:-1,BOOMERANG
+http://www.jdmsociety.net/test/tp.m3u8?c=324&p=03&f=.m3u8
+#EXTINF:-1,TIIN
+http://www.jdmsociety.net/test/tp.m3u8?c=325&p=03&f=.m3u8
+#EXTINF:-1,TOON CAST
+http://www.jdmsociety.net/test/tp.m3u8?c=328&p=03&f=.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://www.jdmsociety.net/test/tp.m3u8?c=355&p=03&f=.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://www.jdmsociety.net/test/tp.m3u8?c=356&p=03&f=.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://www.jdmsociety.net/test/tp.m3u8?c=371&p=03&f=.m3u8
+#EXTINF:-1,ANIMALS PLANET DISCOVERY
+http://www.jdmsociety.net/test/tp.m3u8?c=373&p=03&f=.m3u8
+#EXTINF:-1,H&H DISCOVERY
+http://www.jdmsociety.net/test/tp.m3u8?c=374&p=03&f=.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+http://www.jdmsociety.net/test/tp.m3u8?c=377&p=03&f=.m3u8
+#EXTINF:-1,LIFETIME
+http://www.jdmsociety.net/test/tp.m3u8?c=379&p=03&f=.m3u8
+#EXTINF:-1, SCI DISCOVERY
+http://www.jdmsociety.net/test/tp.m3u8?c=381&p=03&f=.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://www.jdmsociety.net/test/tp.m3u8?c=382&p=03&f=.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://www.jdmsociety.net/test/tp.m3u8?c=383&p=03&f=.m3u8
+#EXTINF:-1,TLC DISCOVERY
+http://www.jdmsociety.net/test/tp.m3u8?c=386&p=03&f=.m3u8
+#EXTINF:-1,ESPN HD
+http://www.jdmsociety.net/test/tp.m3u8?c=516&p=03&f=.m3u8
+#EXTINF:-1,ESPN
+http://www.jdmsociety.net/test/tp.m3u8?c=558&p=03&f=.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://www.jdmsociety.net/test/tp.m3u8?c=520&p=03&f=.m3u8
+#EXTINF:-1,ESPN 2
+http://www.jdmsociety.net/test/tp.m3u8?c=561&p=03&f=.m3u8
+#EXTINF:-1,FOX SPORTS
+http://www.jdmsociety.net/test/tp.m3u8?c=522&p=03&f=.m3u8
+#EXTINF:-1,FOX 2 SPORTS
+http://www.jdmsociety.net/test/tp.m3u8?c=527&p=03&f=.m3u8
