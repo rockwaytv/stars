@@ -20,7 +20,7 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 
 #EXTINF:0, Canal de las estrellas 
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8?sd=&rebase=on
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8?sd=&rebase=on&f=.m3u8
 
 
 #EXTINF:0 tvg-name="Canal de las Estrellas" tvg-logo="http://i.imgur.com/JdJXZFG.png", Canal de las Estrellas
