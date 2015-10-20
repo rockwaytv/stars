@@ -714,12 +714,39 @@ http://eventshd-lh.akamaihd.net/i/viajar_1@168433/index_814_av-b.m3u8?sd=10&reba
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
 #EXTINF:-0, fox1 hd
 http://199.180.114.174:8000/1157.m3u8
+#EXTINF:-0,kcurth 1
+http://www.jdmsociety.net/test/tp.m3u8?c=201&p=02&f=.m3u8
+
+#EXTINF:-0, kcurth2
+http://www.jdmsociety.net/test/ST.m3u8?canal=CinemaxLASD&cm=343
+#EXTINF:-0, estrellas
+http://95.211.184.231:8088/live/stasoct2015/playlist.m3u8?id=236885&wowzasessionid=056807&pk=b1fad55fb1c9eed6ab4ff2da96baede3ad76cafd8d96f2090c90a54db331524f
+#EXTINF:-0, canal 5
+http://109.123.95.180:8088/live/zinco2015sep/playlist.m3u8?id=83300&pk=b1fad55fb1c9eed6ab4ff2da96baede3ad76cafd8d96f2090c90a54db331524f
+
+#EXTINF:-0, telehit
+http://46.165.220.232:8088/live/telehit2019/playlist.m3u8?id=227915&pk=b1fad55fb1c9eed6ab4ff2da96baede3ad76cafd8d96f2090c90a54db331524f
+
+#EXTINF:-0, azteca 7
+http://46.28.53.142:8088/live/ziete2015sep/playlist.m3u8?id=83301&pk=b1fad55fb1c9eed6ab4ff2da96baede3ad76cafd8d96f2090c90a54db331524f
+
+#EXTINF:-0,caracol
+http://95.211.184.231:8088/live/ckolhd/playlist.m3u8?id=236880&pk=b1fad55fb1c9eed6ab4ff2da96baede3ad76cafd8d96f2090c90a54db331524f
+
+#EXTINF:-0,rcn
+http://178.162.202.6:8088/live/rkolhd/playlist.m3u8?id=236881&pk=b1fad55fb1c9eed6ab4ff2da96baede3ad76cafd8d96f2090c90a54db331524f
+
+#EXTINF:-0,
+
+#EXTINF:-0,
+#EXTINF:-0,
 #EXTINF:-0,
 
 #EXTINF:-0,
 
+#EXTINF:-0,
 
-
+#EXTINF:-0,
 
 
 
