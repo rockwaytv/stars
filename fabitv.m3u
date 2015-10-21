@@ -158,6 +158,8 @@ http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:0 tvg-name="RCN" tvg-logo="http://i.imgur.com/cuJE1Gb.png", RCN
 http://o12team.tk:8080/rcnhd/index.m3u8
+#EXTINF:0 tvg-name="RCN2" tvg-logo="http://i.imgur.com/cuJE1Gb.png", RCN
+http://o12team.tk:8080/rcnhd2/index.m3u8
 #EXTINF:0, Caracol
 http://78.129.187.39:1935/app/jhan1238s-channel/chunklist_w1443222480.m3u8
 
@@ -232,7 +234,8 @@ http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/
 #EXTINF:0, tve
 http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
 #EXTINF:0, tve2
-http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8#EXTINF:0, TDP
+http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0, TDP
 http://hlslive.rtve.es/TDP_LV3_IPH/master.m3u8
 
 
@@ -358,7 +361,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/11206723/streams/live/playlist.m
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
 #EXTINF:0, Canal de las estrellas (master)
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8&rebase=on&f=.m3u8
 
 
 #EXTINF:0, Nat geo wild
