@@ -87,7 +87,7 @@ http://streaming.enetres.net/B7456E01B090498DAF2F191C36DF29DC024/smil:live.smil/
 
 #EXTINF:0 tvg-name="REC TV" audio-track="es" tvg-logo="http://i.imgur.com/Vegj2Zs.png", REC tv
 http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
-#EXTINF:0 tvg-name="ETC" audio-track="es" tvg-logo="http://i.imgur.com/q2tonxO.png", ETC
+#EXTINF:0 tvg-name="ETC" audio-track="es" tvg-logo="http://i.imgur.com/teLYyow.png", ETC
 http://movilstream.digitalproserver.com/etctv/etctvvivo/etctv.smil/chunklist-b948000.m3u8
 #EXTINF:0 tvg-name="Anime" audio-track="es" tvg-logo="http://i.imgur.com/jTyREQZ.png", Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
@@ -138,7 +138,8 @@ https://www.youtube.com/watch?v=4zrg6XLcF2c
 #EXTINF:0 tvg-name="ATV" tvg-logo="http://i.imgur.com/JyNScMD.png", ATV
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 #EXTINF:0 tvg-name="Panamericana" tvg-logo="http://i.imgur.com/TwwGdb8.png", Panamericana
-http://stream-ec.sv6.dailymotion.com/04/dm/1/x18w5up/live.isml/events(live-1442266467)/live-audio=128000-video=701000.m3u8
+http://cdn11.iblups.com/hls-live/livepkgr/_definst_/liveevent/ptv1.m3u8
+
 #EXTINF:0 tvg-name="UCV Satelital" tvg-logo="https://i.vimeocdn.com/portrait/7857459_300x300.jpg", UCV satelital
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 #EXTINF:0, RBC satelital
@@ -158,7 +159,7 @@ http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:0 tvg-name="RCN" tvg-logo="http://i.imgur.com/cuJE1Gb.png", RCN
 http://o12team.tk:8080/rcnhd/index.m3u8
-#EXTINF:0 tvg-name="RCN2" tvg-logo="http://i.imgur.com/cuJE1Gb.png", RCN
+#EXTINF:0 tvg-name="RCN2" tvg-logo="http://i.imgur.com/cuJE1Gb.png", RCN2
 http://o12team.tk:8080/rcnhd2/index.m3u8
 #EXTINF:0, Caracol
 http://78.129.187.39:1935/app/jhan1238s-channel/chunklist_w1443222480.m3u8
@@ -216,17 +217,17 @@ http://cdns840stu1010.multistream.net/canaltr3celive/amlst:live/chunklist_b50000
 
 
 #EXTINF:0,Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-b.m3u8
 #EXTINF:0,LaSexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8
 #EXTINF:0,Telecinco
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 #EXTINF:0, Nova
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
+http://a3live-lh.akamaihd.net/i/nova_1@379404/index_2_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, Neox
 http://a3live-lh.akamaihd.net/i/neox_1@35261/index_2_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-name="MEGA Television" tvg-logo="http://i.imgur.com/rX4R0mU.png", MEGA Television
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_3_av-b.m3u8
 #EXTINF:0,Extremadura Tv
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 #EXTINF:0, 13 tv
@@ -717,11 +718,7 @@ http://eventshd-lh.akamaihd.net/i/viajar_1@168433/index_814_av-b.m3u8?sd=10&reba
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
 #EXTINF:-0, fox1 hd
 http://199.180.114.174:8000/1157.m3u8
-#EXTINF:-0,kcurth 1
-http://www.jdmsociety.net/test/tp.m3u8?c=201&p=02&f=.m3u8
 
-#EXTINF:-0, kcurth2
-http://www.jdmsociety.net/test/ST.m3u8?canal=CinemaxLASD&cm=343
 
 #EXTINF:-0,
 
