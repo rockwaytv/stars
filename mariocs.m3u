@@ -1,466 +1,777 @@
+
+
+
 #EXTM3U
 
-#EXTINF:-1,ESPN HD
-http://wcm777.la/tp.php?canal=516&m=mariocs.m3u8
 
-#EXTINF:-1,ESPN
-http://wcm777.la/tp.php?canal=558&m=mariocs.m3u8
+#EXTINF:-1, Baby First TV (4882)
+http://wcm777.la/mariocs.php?canal=BabyFirstTVUS&cm=4882
 
-#EXTINF:-1,ESPN 2
-http://wcm777.la/tp.php?canal=561&m=mariocs.m3u8
 
-#EXTINF:-1,ESPN 3
-http://wcm777.la/tp.php?canal=520&m=mariocs.m3u8
 
-#EXTINF:-1,Fox Sports
-http://wcm777.la/tp.php?canal=522&m=mariocs.m3u8
+#EXTINF:-1, Baby TV Latinoamerica (317)
+http://wcm777.la/mariocs.php?canal=BabyTVLASD&cm=317
+#EXTINF:-1, Boomerang Latinoamerica (2507)
+http://wcm777.la/mariocs.php?canal=BoomerangLA&cm=2507
 
-#EXTINF:-1,Fox Sports 2
-http://wcm777.la/tp.php?canal=527&m=mariocs.m3u8
+#EXTINF:-1, Boomerang USA
+http://wcm777.la/mariocs.php?canal=BoomerangUS&cm=175
+#EXTINF:-1,CBeebies Latinoamerica (1029)
+http://wcm777.la/mariocs.php?canal=CbeebiesLA&cm=1029
+#EXTINF:-1, Cartoon Network (421)
+http://wcm777.la/mariocs.php?canal=CartoonNetworkLASD&cm=421
 
-#EXTINF:-1,Fox Sports 3
-http://wcm777.la/mariocs.php?canal=FoxSports3SD&cm=3806
+#EXTINF:-1, Discovery Kids America Latina (309)
+http://wcm777.la/mariocs.php?canal=DiscoveryKidsSD&cm=309
 
-#EXTINF:-1,Bein Ñ Sports
-http://wcm777.la/mariocs.php?canal=BeinSportsLA&cm=2527&f=mariocs.m3u8
+#EXTINF:-1, Disney Channel East (196)
+http://wcm777.la/mariocs.php?canal=DisneyChannelEastHD&cm=196
 
-#EXTINF:-1,UFC Network
-http://wcm777.la/mariocs.php?canal=UFCNetworkLA&cm=1047
+#EXTINF:-1, Disney Channel Norte (256)
+http://wcm777.la/mariocs.php?canal=DisneyChannelNorteHD&cm=256
 
-#EXTINF:0,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Disney Channel West (4862)
+http://wcm777.la/mariocs.php?canal=DisneyChannelWestUS&cm=4862
 
-#EXTINF:0,Planeta Futbol
-http://wcm777.la/mariocs.php?canal=PlanetaFutbolLA&cm=1477
+#EXTINF:-1, Disney Jr (4852)
+http://wcm777.la/mariocs.php?canal=DisneyJrUS&cm=4852
 
-#EXTINF:0,F1 Latino
-http://wcm777.la/miguel.php?canal=F1LA&cm=1695&f=mariocs.m3u8
+#EXTINF:-1, Disney Junior Norte (1455)
+http://wcm777.la/mariocs.php?canal=DisneyJrLASD&cm=1455
+#EXTINF:-1, Disney XD (4860)
+http://wcm777.la/mariocs.php?canal=DisneyXDUS&cm=4860
 
-#EXTINF:0,WWE
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
+#EXTINF:-1, Disney XD Norte (499)
+http://wcm777.la/mariocs.php?canal=DisneyXDSD&cm=499
+#EXTINF:-1, Nick Jr (4872)
+http://wcm777.la/mariocs.php?canal=NickJrUS&cm=4872
 
-#EXTINF:-1,Fox
-http://wcm777.la/tp.php?canal=201&m=mariocs.m3u8
+#EXTINF:-1, Nick Jr Latinoamerica (417)
+http://wcm777.la/mariocs.php?canal=NickJrLASD&cm=417
+#EXTINF:-1, Nickelodeon East (1701)
+http://wcm777.la/mariocs.php?canal=NickelodeonEastUS&cm=1701
 
-#EXTINF:-1,Fox HD
-http://wcm777.la/mariocs.php?canal=FOXHDLA&cm=3947&f=mariocs.m3u8
+#EXTINF:-1, Nickelodeon Latinoamerica (1423)
+http://wcm777.la/mariocs.php?canal=NickelodeonLA&cm=1423
 
-#EXTINF:-1,Fox 1 HD
-http://wcm777.la/tp.php?canal=415&m=mariocs.m3u8
+#EXTINF:-1, SKY Disney (523)
+http://wcm777.la/mariocs.php?canal=movdisney.stream&cm=523
 
-#EXTINF:-1,Cinecanal
-http://wcm777.la/tp.php?canal=480&m=mariocs.m3u8
+#EXTINF:-1, Teen Nick (4877)
+http://wcm777.la/mariocs.php?canal=TeenNickUS&cm=4877
 
-#EXTINF:-1,Cinecanal HD
-http://wcm777.la/tp.php?canal=430&m=mariocs.m3u8
+#EXTINF:-1, Tooncast (443)
+http://wcm777.la/mariocs.php?canal=TooncastSD&cm=443
 
-#EXTINF:-1,AXN
-http://wcm777.la/tp.php?canal=213&m=mariocs.m3u8
 
-#EXTINF:-1,Universal Channel
-http://wcm777.la/tp.php?canal=207&m=mariocs.m3u8
+#EXTINF:-1, StarMax (4895)
+http://wcm777.la/mariocs.php?canal=5StarMaxUS&cm=4895
+#EXTINF:-1, AMC (485)
+http://wcm777.la/mariocs.php?canal=AMCLASD&cm=485
 
-#EXTINF:-1,HBO
-http://wcm777.la/mariocs.php?canal=HBOLASD&cm=385
+#EXTINF:-1, ActionMax East (2337)
+http://wcm777.la/mariocs.php?canal=ActionMaxEastUS&cm=2337
 
-#EXTINF:-1,HBO 2
+#EXTINF:-1, BBC America (184)
+http://wcm777.la/mariocs.php?canal=BBCAmericaHD&cm=184
+
+#EXTINF:-1, Cine Dinamita (3465)
+http://wcm777.la/mariocs.php?canal=CineDinamitaLA&cm=3465
+
+#EXTINF:-1, CineCanal (2495)
+http://wcm777.la/mariocs.php?canal=CineCanalLA&cm=2495
+
+#EXTINF:-1, CineLatino (477)
+http://wcm777.la/mariocs.php?canal=CineLatinoSD&cm=477
+
+#EXTINF:-1, Cinemax East (953)
+http://wcm777.la/mariocs.php?canal=CinemaxEastUS&cm=953
+
+#EXTINF:-1, Cinemax (343)
+http://wcm777.la/mariocs.php?canal=CinemaxLASD&cm=343
+
+#EXTINF:-1, Cinemax West (955)
+http://wcm777.la/mariocs.php?canal=CinemaxWestUS&cm=955
+
+#EXTINF:-1, Encore Action East (4897)
+http://wcm777.la/mariocs.php?canal=EncoreActionEastUS&cm=4897
+
+#EXTINF:-1, Encore East (222)
+http://wcm777.la/mariocs.php?canal=EncoreEastHD&cm=222
+#EXTINF:-1, Europa Europa (1597)
+http://wcm777.la/mariocs.php?canal=EuropaEuropaLA&cm=1597
+
+#EXTINF:-1, Film & Arts Latinoamerica (1599)
+http://wcm777.la/mariocs.php?canal=FilmArtsLA&cm=1599
+
+#EXTINF:-1, Film 4 (497)
+http://wcm777.la/mariocs.php?canal=film4.stream&cm=497
+
+#EXTINF:-1, Film Zone (1055)
+http://wcm777.la/mariocs.php?canal=FilmZoneLASD&cm=1055
+
+#EXTINF:-1, Fox 1 Este (433)
+http://wcm777.la/mariocs.php?canal=FOX1LASD&cm=433
+
+#EXTINF:-1, Fox 1 Oeste (439)
+http://wcm777.la/mariocs.php?canal=FOX1OesteLASD&cm=439
+
+#EXTINF:-1, Fox Action (435)
+http://wcm777.la/mariocs.php?canal=FOXACTIONLASD&cm=435
+#EXTINF:-1, Fox Action Oeste (437)
+http://wcm777.la/mariocs.php?canal=FOXActionOesteLASD&cm=437
+
+#EXTINF:-1, Fox Cinema (457)
+http://wcm777.la/mariocs.php?canal=FoxCinemaSD&cm=457
+
+#EXTINF:-1, Fox Classics Latinoamerica (465)
+http://wcm777.la/mariocs.php?canal=FOXClassicsLASD&cm=465
+
+#EXTINF:-1, Fox Comedy (461)
+http://wcm777.la/mariocs.php?canal=FOXComedyLASD&cm=461
+
+#EXTINF:-1, Fox Family (467)
+http://wcm777.la/mariocs.php?canal=FOXFamilyLASD&cm=467
+
+#EXTINF:-1, Fox Movies Latinoamerica (463)
+http://wcm777.la/mariocs.php?canal=FOXMoviesLASD&cm=f6076abc7bed61175976401ebbc7907d
+
+#EXTINF:-1, Golden (264)
+http://wcm777.la/mariocs.php?canal=GoldenHD&cm=463
+
+#EXTINF:-1, Golden Edge (1465)
+http://wcm777.la/mariocs.php?canal=GoldenEdgeLA&cm=1465
+
+#EXTINF:-1, Golden Multiplex (1035)
+http://wcm777.la/mariocs.php?canal=GoldenMPLXLA&cm=1035
+
+#EXTINF:-1, Golden Premier 1 (4777)
+http://wcm777.la/mariocs.php?canal=GoldenPremier1LA&cm=4777
+#EXTINF:-1, Golden Premier 2 (4772)
+http://wcm777.la/mariocs.php?canal=GoldenPremiere2LA&cm=4772
+
+#EXTINF:-1, HBO 2 East (216)
+http://wcm777.la/mariocs.php?canal=HBO2EastHD&cm=216
+#EXTINF:-1, HBO 2 Latinoamerica (365)
 http://wcm777.la/mariocs.php?canal=HBO2SD&cm=365
+#EXTINF:-1, HBO 2 West (1095)
+http://wcm777.la/mariocs.php?canal=HBO2WestUS&cm=1095
+#EXTINF:-1, HBO Comedy East (1001)
+http://wcm777.la/mariocs.php?canal=HBOComedyEastUS&cm=1001
 
-#EXTINF:-1,HBO Plus
-http://wcm777.la/mariocs.php?canal=HBOPlusLASD&cm=453
+#EXTINF:-1, HBO East (4765)
+http://wcm777.la/mariocs.php?canal=HBOEastUS&cm=4765
+#EXTINF:-1, HBO Family East (4415)
+http://wcm777.la/mariocs.php?canal=HBOFamilyEastUS&cm=4415
 
-#EXTINF:-1,HBO Plus 2
-http://wcm777.la/mariocs.php?canal=HBOPus2LASD&cm=369
-
-#EXTINF:-1,HBO Family
+#EXTINF:-1, HBO Family Latinoamerica (449)
 http://wcm777.la/mariocs.php?canal=HBOFamilyLASD&cm=449
 
-#EXTINF:-1,HBO Signature
+#EXTINF:-1, HBO Latinoamerica (385)
+http://wcm777.la/mariocs.php?canal=HBOLASD&cm=385
+
+#EXTINF:-1, HBO Plus Este (453)
+http://wcm777.la/mariocs.php?canal=HBOPlusLASD&cm=453
+
+#EXTINF:-1, HBO Plus Oeste (369)
+http://wcm777.la/mariocs.php?canal=HBOPus2LASD&cm=369
+
+#EXTINF:-1, HBO Signature East (959)
+http://wcm777.la/mariocs.php?canal=HBOSignatureEastUS&cm=959
+
+#EXTINF:-1, HBO Signature Latinoamerica (451)
 http://wcm777.la/mariocs.php?canal=HBOSignatureLASD&cm=451
 
-#EXTINF:-1,MaxPrime
+#EXTINF:-1, HBO West (4767)
+http://wcm777.la/mariocs.php?canal=HBOWestUS&cm=4767
+
+#EXTINF:-1, HBO Zone
+http://wcm777.la/mariocs.php?canal=HBOZoneUS&cm=308
+
+#EXTINF:-1, Hallmark Movie Channel (1005)
+http://wcm777.la/mariocs.php?canal=HallmarkMovieChannelUS&cm=1005
+
+#EXTINF:-1, I-Sat (1703)
+http://wcm777.la/mariocs.php?canal=ISATLA&cm=1703
+
+#EXTINF:-1, MAX (381)
+http://wcm777.la/mariocs.php?canal=MAXLASD&cm=381
+
+#EXTINF:-1, Max Prime Este (377)
 http://wcm777.la/mariocs.php?canal=MaxPrimeLASD&cm=377
 
-#EXTINF:-1,MAX
-http://wcm777.la/mariocs.php?canal=MaxLASD&cm=381
-
-#EXTINF:-1,Max UP
+#EXTINF:-1, Max Prime Oeste (379)
+http://wcm777.la/mariocs.php?canal=MaxPrime2LASD&cm=379
+#EXTINF:-1, Max UP Latinoamerica (469)
 http://wcm777.la/mariocs.php?canal=MaxUPSD&cm=469
 
-#EXTINF:-1,TNT
-http://wcm777.la/tp.php?canal=435&m=mariocs.m3u8
+#EXTINF:-1, Movies 24 (549)
+http://wcm777.la/mariocs.php?canal=movies24.stream&cm=549
+#EXTINF:-1, SKY Action & Adventure (527)
+http://wcm777.la/mariocs.php?canal=movaction.stream&cm=527
 
-#EXTINF:-1,TNT HD
+#EXTINF:-1, SKY Comedy (529)
+http://wcm777.la/mariocs.php?canal=movcomedy.stream&cm=529
+
+#EXTINF:-1, SKY Crime & Thriller (531)
+http://wcm777.la/mariocs.php?canal=movthriller.stream&cm=531
+
+#EXTINF:-1, SKY Family (525)
+http://wcm777.la/mariocs.php?canal=movfamily.stream&cm=525
+
+#EXTINF:-1, SKY Modern Greats (3301)
+http://wcm777.la/mariocs.php?canal=mgreats.stream&cm=3301
+
+#EXTINF:-1, SKY Movies Drama (545)
+http://wcm777.la/mariocs.php?canal=movdrama.stream&cm=545
+
+#EXTINF:-1, SKY Premiere (521)
+http://wcm777.la/mariocs.php?canal=movpremier.stream&cm=521
+#EXTINF:-1, SKY Scifi & Horror (533)
+http://wcm777.la/mariocs.php?canal=movscifi.stream&cm=533
+
+#EXTINF:-1, SKY Select" group-title="Cinema",SKY Select (535)
+http://wcm777.la/mariocs.php?canal=movselect.stream&cm=535
+
+#EXTINF:-1, SPACE (2489)
+http://wcm777.la/mariocs.php?canal=SpaceLA&cm=2489
+#EXTINF:-1, Showtime 2 East (971)
+http://wcm777.la/mariocs.php?canal=Showtime2EastUS&cm=971
+
+#EXTINF:-1, Showtime Beyond East (975)
+http://wcm777.la/mariocs.php?canal=ShowtimeBeyondEastUS&cm=975
+
+#EXTINF:-1, Showtime Extreme East (973)
+http://wcm777.la/mariocs.php?canal=ShowtimeExtremeEastUS&cm=973
+#EXTINF:-1, Showtime Next (1097)
+http://wcm777.la/mariocs.php?canal=ShowtimeNextUS&cm=1097
+
+#EXTINF:-1, Showtime Showcase East (1085)
+http://wcm777.la/mariocs.php?canal=ShowtimeShowcaseEastUS&cm=1085
+
+#EXTINF:-1, Showtime West (969)
+http://wcm777.la/mariocs.php?canal=ShowtimeWestUS&cm=969
+
+#EXTINF:-1, ony Movie Channel USA (1101)
+http://wcm777.la/mariocs.php?canal=SonyMovieChannelUS&cm=1101
+
+#EXTINF:-1, Starz Cinema East (985)
+http://wcm777.la/mariocs.php?canal=StarzCinemaEastUS&cm=985
+
+#EXTINF:-1, Starz Comedy East (987)
+http://wcm777.la/mariocs.php?canal=StarzComedyEastUS&cm=987
+
+#EXTINF:-1, Starz East (224)
+http://wcm777.la/mariocs.php?canal=StarzEastHD&cm=224
+
+#EXTINF:-1, Starz Edge East (983)
+http://wcm777.la/mariocs.php?canal=StarzEdgeEastUS&cm=983
+
+#EXTINF:-1, Starz In Black East (989)
+http://wcm777.la/mariocs.php?canal=StarzInBlackEastUS&cm=989
+
+#EXTINF:-1, Starz Kids & Family East (1099)
+http://wcm777.la/mariocs.php?canal=StarzKidsFamilyEastUS&cm=1099
+
+#EXTINF:-1,Starz West (981)
+http://wcm777.la/mariocs.php?canal=StarzWestUS&cm=981
+
+#EXTINF:-1, Studio Universal (345)
+http://wcm777.la/mariocs.php?canal=StudioUniversalSD&cm=345
+
+#EXTINF:-1, Sundance Channel Latinoamerica (1041)
+http://wcm777.la/mariocs.php?canal=SundanceLA&cm=1041
+
+#EXTINF:-1, TCM America Latina (481)
+http://wcm777.la/mariocs.php?canal=TCMSD&cm=481
+
+#EXTINF:-1, TCM US (1105)
+http://wcm777.la/mariocs.php?canal=TCMUS&cm=1105
+
+#EXTINF:-1, The Movie Channel East (220)
+http://wcm777.la/mariocs.php?canal=TheMovieChannelEastHD&cm=220
+
+#EXTINF:-1, The Movie Channel Xtra East (1009)
+http://wcm777.la/mariocs.php?canal=TheMovieChannelXtraEastUS&cm=1009
+
+#EXTINF:-1, ThrillerMax East (2533)
+http://wcm777.la/mariocs.php?canal=ThrillerMaxEasUS&cm=2533
+
+#EXTINF:-1, True Movies 1 (2453)
+http://wcm777.la/mariocs.php?canal=true1.stream&cm=2453
+
+#EXTINF:-1, True Movies 2 (2455)
+http://wcm777.la/mariocs.php?canal=true2.stream&cm=2455
+
+#EXTINF:-1, USA Network East (2579)
+http://wcm777.la/mariocs.php?canal=USANetworkEastHD&cm=2579
+
+#EXTINF:-1, Universal Channel America Latina (387)
+http://wcm777.la/mariocs.php?canal=UniversalLASD&cm=387
+
+#EXTINF:-1, Animal Planet
+http://wcm777.la/mariocs.php?canal=AnimalPlanetLASD&cm=441
+
+#EXTINF:-1, Animal Planet (4845)
+http://wcm777.la/mariocs.php?canal=AnimalPlanetUS&cm=4845
+
+#EXTINF:-1, Elgourmet (1033)
+http://wcm777.la/mariocs.php?canal=ElgourmetLA&cm=1033
+
+#EXTINF:-1, Good Food (2587)
+http://wcm777.la/mariocs.php?canal=goodfood.stream&cm=2587
+
+#EXTINF:-1, Nat Geo Wild (4830)
+http://wcm777.la/mariocs.php?canal=NatGeoWildUS&cm=4830
+
+#EXTINF:-1, Nat Geo Wild Latino America (254)
+http://wcm777.la/mariocs.php?canal=NatGeoWildLAHD&cm=254
+#EXTINF:-1, Travel Channel UK (4422)
+http://wcm777.la/mariocs.php?canal=travel.stream&cm=4422
+
+
+
+#EXTINF:-1, A&E East (995)
+http://wcm777.la/mariocs.php?canal=AEEastUS&cm=995
+#EXTINF:-1, A&E Latinoamerica (258)
+http://wcm777.la/mariocs.php?canal=AELatinoamericaHD&cm=258
+
+#EXTINF:-1, ABC Family (4855)
+http://wcm777.la/mariocs.php?canal=ABCFamilyUS&cm=4855
+
+#EXTINF:-1, AMC East (5629)
+http://wcm777.la/mariocs.php?canal=AMCEastUS&cm=5629
+
+#EXTINF:-1, AXN Latinoamerica (2493)
+http://wcm777.la/mariocs.php?canal=AXNLA&cm=2493
+
+#EXTINF:-1, BBC Entertainment Latinoamerica (1407)
+http://wcm777.la/mariocs.php?canal=BBCEntLA&cm=1407
+
+#EXTINF:-1, Bravo East (4890)
+http://wcm777.la/mariocs.php?canal=BravoEastUS&cm=4890
+
+#EXTINF:-1, CBS Action (2433)
+http://wcm777.la/mariocs.php?canal=cbsaction.stream&cm=2433
+
+#EXTINF:-1, CBS Drama (2431)
+http://wcm777.la/mariocs.php?canal=cbsdrama.stream&cm=2431
+
+#EXTINF:-1, CBS Reality (2435)
+http://wcm777.la/mariocs.php?canal=cbsreality.stream&cm=2435
+
+
+
+#EXTINF:-1, Comedy Central East (2575)
+http://wcm777.la/mariocs.php?canal=ComedyCentralHD&cm=2575
+
+#EXTINF:-1, Comedy Central Latinoamerica (1037)
+http://wcm777.la/mariocs.php?canal=ComedyCentralLA&cm=1037
+
+#EXTINF:-1, DW Latinoamerica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+#EXTINF:-1, Discovery Family (4867)
+http://wcm777.la/mariocs.php?canal=DiscoveryFamilyUS&cm=4867
+
+#EXTINF:-1, Discovery Home & Health Latinoamerica (252)
+http://wcm777.la/mariocs.php?canal=DiscoveryHomeHealthLAHD&cm=252
+
+#EXTINF:-1, Distrito Comedia (1491)
+http://wcm777.la/mariocs.php?canal=DistritoComediaLA&cm=1491
+#EXTINF:-1, E! (2341)
+http://wcm777.la/mariocs.php?canal=eEntUS&cm=2341
+
+#EXTINF:-1, E! Latinoamerica (427)
+http://wcm777.la/mariocs.php?canal=EentertaimentSD&cm=427
+#EXTINF:-1,Eden (513)
+http://wcm777.la/mariocs.php?canal=Eden.stream&cm=513
+
+#EXTINF:-1, FOX Life (425)
+http://wcm777.la/mariocs.php?canal=FoxLifeSD&cm=425
+#EXTINF:-1, FX East (997)
+http://wcm777.la/mariocs.php?canal=FXEastUS&cm=997
+
+#EXTINF:-1, FX Latino (431)
+http://wcm777.la/mariocs.php?canal=FXLASD&cm=431
+#EXTINF:-1, FXX East (2339)
+http://wcm777.la/mariocs.php?canal=FXXUS&cm=2339
+
+#EXTINF:-1, Fox Latinoamerica (3947)
+http://wcm777.la/mariocs.php?canal=FOXHDLA&cm=3947
+
+#EXTINF:-1, Glitz (1473)
+http://wcm777.la/mariocs.php?canal=GlitzLA&cm=1473
+
+
+#EXTINF:-1, IFC East (164)
+http://wcm777.la/mariocs.php?canal=IFCHD&cm=164
+
+#EXTINF:-1, ION Television East (4902)
+http://wcm777.la/mariocs.php?canal=IONTVEastUS&cm=4902
+#EXTINF:-1, ITV B (4737)
+http://wcm777.la/mariocs.php?canal=itvbe.stream&cm=4737
+
+#EXTINF:-1, ITV Encore (501)
+http://wcm777.la/mariocs.php?canal=itvencore.stream&cm=501
+
+#EXTINF:-1, Lifetime East (2581)
+http://wcm777.la/mariocs.php?canal=LifetimeEastUS&cm=2581
+
+#EXTINF:-1, Lifetime Latinoamerica (423)
+http://wcm777.la/mariocs.php?canal=LifetimeLASD&cm=423
+
+#EXTINF:-1, MundoFox (429)
+http://wcm777.la/mariocs.php?canal=MundoFoxSD&cm=429
+
+#EXTINF:-1, NBC Universo (4825)
+http://wcm777.la/mariocs.php?canal=NBCUniversoUS&cm=4825
+
+#EXTINF:-1, Ovation (2349)
+http://wcm777.la/mariocs.php?canal=OvationUS&cm=2349
+
+#EXTINF:-1, Oxygen (180)
+http://wcm777.la/mariocs.php?canal=OxygenSD&cm=180
+
+#EXTINF:-1, Palladia (991)
+http://wcm777.la/mariocs.php?canal=PalladiaHDUS&cm=991
+
+#EXTINF:-1, Pasiones (295)
+http://wcm777.la/mariocs.php?canal=PasionesSD&cm=295
+
+#EXTINF:-1, RCN Novelas (1493)
+http://wcm777.la/mariocs.php?canal=RCNnovelasLA&cm=1493
+#EXTINF:-1, Really (505)
+http://wcm777.la/mariocs.php?canal=Really.stream&cm=505
+
+#EXTINF:-1, Spike TV (4410)
+http://wcm777.la/mariocs.php?canal=SpikeUS&cm=4410
+
+#EXTINF:-1, Syfy  (447)
+http://wcm777.la/mariocs.php?canal=SyFyLASD&cm=447
+
+#EXTINF:-1, TBS America Latina (333)
+http://wcm777.la/mariocs.php?canal=TBSLASD&cm=333
+
+#EXTINF:-1, TBS East (967)
+http://wcm777.la/mariocs.php?canal=TBSEastUS&cm=967
+
+#EXTINF:-1, TLC (503)
+http://wcm777.la/mariocs.php?canal=TLC.stream&cm=503
+
+#EXTINF:-1, TLC Latinoamerica (327)
+http://wcm777.la/mariocs.php?canal=TLCLASD&cm=327
+
+#EXTINF:-1, TNT America Latina (262)
 http://wcm777.la/mariocs.php?canal=TNTAmericaLatinaHD&cm=262
+#EXTINF:-1, TNT Drama (977)
+http://wcm777.la/mariocs.php?canal=TNTDramaUS&cm=977
 
+#EXTINF:-1, TNT Series Latinoamerica (331)
+http://wcm777.la/mariocs.php?canal=infinitoSD&cm=331
+
+#EXTINF:-1, Telemundo (4417)
+http://wcm777.la/mariocs.php?canal=TelemundoUS&cm=4417
+
+
+
+
+
+
+
+#EXTINF:-1, Tlnovelas  (1461)
+http://wcm777.la/mariocs.php?canal=TlnovelasLA&cm=1461
+#EXTINF:-1, Tru TV America Latina (337)
+http://wcm777.la/mariocs.php?canal=TruTVSD&cm=337
+#EXTINF:-1, Tru TV East
+http://wcm777.la/mariocs.php?canal=TruTVUS/playlist.m3u8
+
+
+
+#EXTINF:-1, UniMas (3602)
+http://wcm777.la/mariocs.php?canal=UniMasUS&cm=3602
+
+#EXTINF:-1, Univision (6299)
+http://wcm777.la/mariocs.php?canal=UnivisionEastUS&cm=6299
+#EXTINF:-1,VH1 Classic Europe (415)
+http://wcm777.la/mariocs.php?canal=VH1ClassicLASD&cm=415
+
+#EXTINF:-1, VH1 Latino Norte (483)
+http://wcm777.la/mariocs.php?canal=VH1LatinoSD&cm=483
+
+#EXTINF:-1, WE TV (182)
+http://wcm777.la/mariocs.php?canal=WETVSD&cm=182
+
+#EXTINF:-1, WGN America (1771)
+http://wcm777.la/mariocs.php?canal=WGNAmericaUS&cm=1771
+
+#EXTINF:-1, Warner Channel Latinoamerica (2499)
+http://wcm777.la/mariocs.php?canal=WarnerLA&cm=2499
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,AZ CORAZON
+http://wcm777.la/tp.php?canal=250&m=mariocs.m3u8
+#EXTINF:-1,TLNOVELAS
+http://wcm777.la/tp.php?canal=275&m=mariocs.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://wcm777.la/tp.php?canal=102&m=mariocs.m3u8
+
+#EXTINF:-1,CANAL 5
+http://wcm777.la/tp.php?canal=105&m=mariocs.m3u8
+#EXTINF:-1,AZTECA 7
+http://wcm777.la/tp.php?canal=107&m=mariocs.m3u8
+#EXTINF:-1,GALA TV
+http://wcm777.la/tp.php?canal=109&m=mariocs.m3u8
+
+#EXTINF:0, UNICABLE
+http://wcm777.la/tp.php?canal=218&m=mariocs.m3u8
+
+#EXTINF:-1,CANAL ONCE
+http://wcm777.la/tp.php?canal=111&m=mariocs.m3u8
+
+#EXTINF:-1,CADENA TRES
+http://wcm777.la/tp.php?canal=143&m=mariocs.m3u8
+
+#EXTINF:-1,Teleformula
+http://wcm777.la/tp.php?canal=161&m=mariocs.m3u8
+#EXTINF:-1,AZTECA NOTICIAS
+http://wcm777.la/tp.php?canal=2&m=mariocs.m3u8
+#EXTINF:-1,FORO TV
+http://wcm777.la/tp.php?canal=104&m=mariocs.m3u8
+#EXTINF:-1,PROYECTO 40 
+http://wcm777.la/tp.php?canal=140&m=mariocs.m3u8
+#EXTINF:-1,FOX
+http://wcm777.la/tp.php?canal=201&m=mariocs.m3u8
+#EXTINF:-1,SONY
+http://wcm777.la/tp.php?canal=203&m=mariocs.m3u8
+#EXTINF:-1,WARNER HD
+http://wcm777.la/tp.php?canal=205&m=mariocs.m3u8
+#EXTINF:-1,UNIVERSAL HD
+http://wcm777.la/tp.php?canal=207&m=mariocs.m3u8
+#EXTINF:-1,FX HD
+http://wcm777.la/tp.php?canal=209&m=mariocs.m3u8
+#EXTINF:-1,A AND E
+http://wcm777.la/tp.php?canal=211&m=mariocs.m3u8
+#EXTINF:-1,AXN HD
+http://wcm777.la/tp.php?canal=213&m=mariocs.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://wcm777.la/tp.php?canal=217&m=mariocs.m3u8
+
+#EXTINF:-1,BBC
+http://wcm777.la/tp.php?canal=253&m=mariocs.m3u8
+
+#EXTINF:-1,UNIVERSAL
+http://wcm777.la/tp.php?canal=256&m=mariocs.m3u8
+#EXTINF:-1,SYFY
+http://wcm777.la/tp.php?canal=257&m=mariocs.m3u8
+#EXTINF:-1,FX
+http://wcm777.la/tp.php?canal=258&m=mariocs.m3u8
+
+
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://wcm777.la/tp.php?canal=263&m=mariocs.m3u8
 #EXTINF:-1,TNT Series
 http://wcm777.la/tp.php?canal=266&m=mariocs.m3u8
 
-#EXTINF:-1,FX
-http://wcm777.la/miguel.php?canal=FXLASD&cm=431&f=mariocs.m3u8
-
-#EXTINF:-1,FX HD
-http://wcm777.la/tp.php?canal=209&m=mariocs.m3u8
-
-#EXTINF:-1,Sony
-http://wcm777.la/tp.php?canal=203&m=mariocs.m3u8
-
-#EXTINF:-1,Space
-http://wcm777.la/mariocs.php?canal=SpaceLA&cm=2489&f=mariocs.m3u8
-
-#EXTINF:-1,Space HD
-http://wcm777.la/tp.php?canal=445&m=mariocs.m3u8
-
-#EXTINF:-1,Warner Channel
-http://wcm777.la/tp.php?canal=492&m=mariocs.m3u8
-
-#EXTINF:-1,AMC
-http://wcm777.la/tp.php?canal=444&m=mariocs.m3u8
-
-#EXTINF:-1,Cinemax
-http://wcm777.la/tp.php?canal=481&m=mariocs.m3u8
-
-#EXTINF:-1,Fox Action HD
-http://wcm777.la/tp.php?canal=416&m=mariocs.m3u8
-
-#EXTINF:-1,Fox Cinèma
-http://wcm777.la/tp.php?canal=421&m=mariocs.m3u8
-
-#EXTINF:-1,Fox Classics
-http://wcm777.la/tp.php?canal=424&m=mariocs.m3u8
-
-#EXTINF:-1,Fox Family
-http://wcm777.la/mariocs.php?canal=FOXFamilyLASD&cm=467
-
-#EXTINF:-1,Fox Movies HD
-http://wcm777.la/tp.php?canal=417&m=mariocs.m3u8
-
-#EXTINF:-1,Golden HD
-http://wcm777.la/tp.php?canal=436&m=mariocs.m3u8
-
-#EXTINF:-1,Golden Edge
-http://wcm777.la/tp.php?canal=484&m=mariocs.m3u8
-
-#EXTINF:-1,Golden Premier 1
-http://wcm777.la/mariocs.php?canal=GoldenPremier1LA&cm=4777
-
-#EXTINF:-1,Golden Premier 2
-http://wcm777.la/mariocs.php?canal=GoldenPremiere2LA&cm=4772
-
-#EXTINF:-1,Studio Universal
-http://wcm777.la/tp.php?canal=492&m=mariocs.m3u8
-
-#EXTINF:-1,Paramount Channel
-http://wcm777.la/mariocs.php?canal=ParamountChannelLatinAmericaHD&cm=260
-
-#EXTINF:0,Ultra Cine
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
-
-#EXTINF:0,Peliculas HD
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-
-#EXTINF:-1,MTV
-http://wcm777.la/tp.php?canal=726&m=mariocs.m3u8
-
-#EXTINF:-1,MTV Hits
-http://wcm777.la/tp.php?canal=727&m=mariocs.m3u8
-
-#EXTINF:-1,Cine Dinamita
-http://wcm777.la/mariocs.php?canal=CineDinamitaLA&cm=3465
-
-#EXTINF:-1,CineLatino
-http://wcm777.la/mariocs.php?canal=CineLatinoSD&cm=477&f=mariocs.m3u8
-
-#EXTINF:-1,BBC Entertainment
-http://wcm777.la/tp.php?canal=253&m=mariocs.m3u8
-
-#EXTINF:-1,E!
+#EXTINF:-1,GOURMET
+http://wcm777.la/tp.php?canal=268&m=mariocs.m3u8
+#EXTINF:-1,E
 http://wcm777.la/tp.php?canal=255&m=mariocs.m3u8
-
-#EXTINF:-1,Film Zone
-http://wcm777.la/tp.php?canal=440&m=mariocs.m3u8
-
-#EXTINF:-1,MundoFox
-http://wcm777.la/mariocs.php?canal=MundoFoxSD&cm=429
-
-#EXTINF:-1,MultiPremier
-http://wcm777.la/mariocs.php?canal=MultiPremierLA&cm=3293
-
-#EXTINF:-1,Discovery Channel
-http://wcm777.la/tp.php?canal=371&m=mariocs.m3u8
-
-#EXTINF:-1,Investigacion Discovery
-http://wcm777.la/tp.php?canal=263&m=mariocs.m3u8
-
-#EXTINF:-1,National Geographic
-http://wcm777.la/tp.php?canal=377&m=mariocs.m3u8
-
-#EXTINF:-1,NatGeo Wild HD
-http://wcm777.la/tp.php?canal=355&m=mariocs.m3u8
-
-#EXTINF:-1,History HD
-http://wcm777.la/tp.php?canal=353&m=mariocs.m3u8
-
-#EXTINF:-1,H2
-http://wcm777.la/mariocs.php?canal=H2LASD&cm=297
-
-#EXTINF:-1,Animal Planet
-http://wcm777.la/tp.php?canal=373&m=mariocs.m3u8
-
-#EXTINF:-1,A&E HD
-http://wcm777.la/tp.php?canal=259&m=mariocs.m3u8
-
-#EXTINF:-1,Fox Life
+#EXTINF:-1,GLITZ
+http://wcm777.la/tp.php?canal=270&m=mariocs.m3u8
+#EXTINF:-1,FOX LIFE
 http://wcm777.la/tp.php?canal=271&m=mariocs.m3u8
-
-#EXTINF:-1,Casa Club TV
+#EXTINF:-1,DISTRITO COMEDIA
+http://wcm777.la/tp.php?canal=272&m=mariocs.m3u8
+#EXTINF:-1,TBS
+http://wcm777.la/tp.php?canal=273&m=mariocs.m3u8
+#EXTINF:-1,CASA club
 http://wcm777.la/tp.php?canal=274&m=mariocs.m3u8
 
-#EXTINF:-1,Canal de las Estrellas
-http://wcm777.la/tp.php?canal=102&m=mariocs.m3u8
 
-#EXTINF:-1,Comedy Central
-http://wcm777.la/tp.php?canal=217&m=mariocs.m3u8
 
-#EXTINF:-1,Discovery Theather HD
-http://wcm777.la/tp.php?canal=351&m=mariocs.m3u8
-
-#EXTINF:-1,Discovery Science
-http://wcm777.la/tp.php?canal=381&m=mariocs.m3u8
-
-#EXTINF:-1,Discovery Civilization
-http://wcm777.la/tp.php?canal=382&m=mariocs.m3u8
-
-#EXTINF:-1,Discovery Turbo
-http://wcm777.la/tp.php?canal=383&m=mariocs.m3u8
-
-#EXTINF:-1,Home and Health
-http://wcm777.la/tp.php?canal=374&m=mariocs.m3u8
-
-#EXTINF:-1,El Gourmet
-http://wcm777.la/mariocs.php?canal=ElgourmetLA&cm=1033
-
-#EXTINF:-1,TruTV
-http://wcm777.la/tp.php?canal=215&m=mariocs.m3u8
-
-#EXTINF:-1,Telemundo
-http://wcm777.la/tp.php?canal=277&m=mariocs.m3u8
-
-#EXTINF:-1,Lifetime
-http://wcm777.la/tp.php?canal=379&m=mariocs.m3u8
-
-#EXTINF:-1,Distrito Comedia
-http://wcm777.la/tp.php?canal=272&m=mariocs.m3u8
-
-#EXTINF:-1,Tlnovelas
-http://wcm777.la/tp.php?canal=275&m=mariocs.m3u8
-
-#EXTINF:-1,Glitz
-http://wcm777.la/tp.php?canal=270&m=mariocs.m3u8
-
-#EXTINF:-1,SyFy
-http://wcm777.la/tp.php?canal=257&m=mariocs.m3u8
-
-#EXTINF:-1,TLC
-http://wcm777.la/tp.php?canal=386&m=mariocs.m3u8
-
-#EXTINF:-1,Enlace TV
-http://wcm777.la/tp.php?canal=391&m=mariocs.m3u8
-
-#EXTINF:-1,Disney Channel
-http://wcm777.la/tp.php?canal=312&m=mariocs.m3u8
-
-#EXTINF:-1,Cartoon Network
-http://wcm777.la/tp.php?canal=320&m=mariocs.m3u8
-
-#EXTINF:-1,Disney XD
-http://wcm777.la/tp.php?canal=322&m=mariocs.m3u8
-
-#EXTINF:-1,Nickelodeon
-http://wcm777.la/tp.php?canal=317&m=mariocs.m3u8
-
-#EXTINF:-1,Nick HD
-http://wcm777.la/tp.php?canal=315&m=mariocs.m3u8
-
-#EXTINF:-1,Nicktoons
+#EXTINF:-1,DISCOVERY KIDS
+http://wcm777.la/tp.php?canal=303&m=mariocs.m3u8
+#EXTINF:-1,CBEEBIES
+http://wcm777.la/tp.php?canal=305&m=mariocs.m3u8
+#EXTINF:-1,DISNEY JR
+http://wcm777.la/tp.php?canal=308&m=mariocs.m3u8
+#EXTINF:-1,NICK JR
+http://wcm777.la/tp.php?canal=310&m=mariocs.m3u8
+#EXTINF:-1,NICK TOONS
 http://wcm777.la/tp.php?canal=314&m=mariocs.m3u8
-
-#EXTINF:-1,Boomerang
+#EXTINF:-1,DISNEY CHANNEL
+http://wcm777.la/tp.php?canal=312&m=mariocs.m3u8
+#EXTINF:-1,NICK HD
+http://wcm777.la/tp.php?canal=315&m=mariocs.m3u8
+#EXTINF:-1,NICK
+http://wcm777.la/tp.php?canal=317&m=mariocs.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://wcm777.la/tp.php?canal=320&m=mariocs.m3u8
+#EXTINF:-1,DISNEY XD
+http://wcm777.la/tp.php?canal=322&m=mariocs.m3u8
+#EXTINF:-1,BOOMERANG
 http://wcm777.la/tp.php?canal=324&m=mariocs.m3u8
 
-#EXTINF:-1,Tooncast
+#EXTINF:-1, TOONCAST
 http://wcm777.la/tp.php?canal=328&m=mariocs.m3u8
+#EXTINF:-1,TIIN
+http://wcm777.la/tp.php?canal=325&m=mariocs.m3u8
 
-#EXTINF:-1,Discovery Kids
-http://wcm777.la/tp.php?canal=303&m=mariocs.m3u8
 
-#EXTINF:-1,Disney Jr
-http://wcm777.la/tp.php?canal=308&m=mariocs.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://wcm777.la/tp.php?canal=351&m=mariocs.m3u8
+#EXTINF:-1,HISTORY
+http://wcm777.la/tp.php?canal=353&m=mariocs.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://wcm777.la/tp.php?canal=355&m=mariocs.m3u8
+#EXTINF:-1,Discovery World
+http://wcm777.la/tp.php?canal=356&m=mariocs.m3u8
+#EXTINF:-1,Home and Health
+http://wcm777.la/tp.php?canal=374/PROFILE05.m3u8?=-1
+#EXTINF:-1,DISCOVERY
+http://wcm777.la/tp.php?canal=371&m=mariocs.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://wcm777.la/tp.php?canal=373&m=mariocs.m3u8
 
-#EXTINF:-1,Nick Jr
-http://wcm777.la/tp.php?canal=310&m=mariocs.m3u8
+#EXTINF:-1,National Geografic
+http://wcm777.la/tp.php?canal=377&m=mariocs.m3u8
+#EXTINF:-1,LIFETIME
+http://wcm777.la/tp.php?canal=379&m=mariocs.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://wcm777.la/tp.php?canal=381&m=mariocs.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://wcm777.la/tp.php?canal=382&m=mariocs.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://wcm777.la/tp.php?canal=383&m=mariocs.m3u8
+#EXTINF:-1,TLC
+http://wcm777.la/tp.php?canal=386&m=mariocs.m3u8
+#EXTINF:-1,WOBI
+http://wcm777.la/tp.php?canal=387&m=mariocs.m3u8
 
-#EXTINF:-1,BabyTV
-http://wcm777.la/mariocs.php?canal=BabyTVLASD&cm=317
 
-#EXTINF:-1,CNN En Español
-http://wcm777.la/mariocs.php?canal=CNNLASD&cm=1855
+#EXTINF:-1,FOX 1 HD
+http://wcm777.la/tp.php?canal=415&m=mariocs.m3u8
+#EXTINF:-1,FOX ACTION HD
+http://wcm777.la/tp.php?canal=416&m=mariocs.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://wcm777.la/tp.php?canal=417&m=mariocs.m3u8
+#EXTINF:-1,FOX CINEMA
+http://wcm777.la/tp.php?canal=472&m=mariocs.m3u8
+#EXTINF:-1,FOX FAMILY 
+http://wcm777.la/tp.php?canal=475&m=mariocs.m3u8
+#EXTINF:-1,FOX CLASSICS
+http://wcm777.la/tp.php?canal=478&m=mariocs.m3u8
 
-#EXTINF:0,RCN Novelas
-http://wcm777.la/mariocs.php?canal=RCNnovelasLA&cm=1493
 
-#EXTINF:-1,Pasiones
-http://wcm777.la/mariocs.php?canal=PasionesSD&cm=295
 
-#EXTINF:0,Telemundo Internacional
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,CINECANAL
+http://wcm777.la/tp.php?canal=480&m=mariocs.m3u8
+#EXTINF:-1,CINECANAL +
+http://wcm777.la/tp.php?canal=430&m=mariocs.m3u8
+#EXTINF:-1, uno mas uno
+http://wcm777.la/tp.php?canal=145/PROFILE03.m3u8?
 
-#EXTINF:-1,NTN 24
-http://wcm777.la/mariocs.php?canal=NTN24LA&cm=1601
+#EXTINF:-1,Cinecanal HD
+http://wcm777.la/tp.php?canal=430/PROFILE03.m3u8?
 
+#EXTINF:-1,Space HD
+http://wcm777.la/tp.php?canal=445/PROFILE03.m3u8?
+
+#EXTINF:-1,HBO Plus
+http://wcm777.la/tp.php?canal=923/PROFILE03.m3u8?
+#EXTINF:-1,CINEMAX
+http://wcm777.la/tp.php?canal=481&m=mariocs.m3u8
+#EXTINF:-1,TNT HD
+http://wcm777.la/tp.php?canal=435&m=mariocs.m3u8
+#EXTINF:-1,GOLDEN HD
+http://wcm777.la/tp.php?canal=436&m=mariocs.m3u8
+#EXTINF:-1,FILM ZONE HD
+http://wcm777.la/tp.php?canal=440&m=mariocs.m3u8
+#EXTINF:-1,DE PELICULA HD
+http://wcm777.la/tp.php?canal=442&m=mariocs.m3u8
+#EXTINF:-1,AMC
+http://wcm777.la/tp.php?canal=444&m=mariocs.m3u8
+#EXTINF:-1,SPACE HD
+http://wcm777.la/tp.php?canal=445&m=mariocs.m3u8
+
+
+#EXTINF:-1,TNT
+http://wcm777.la/tp.php?canal=482&m=mariocs.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://wcm777.la/tp.php?canal=484&m=mariocs.m3u8
+#EXTINF:-1,AMC
+http://wcm777.la/tp.php?canal=490&m=mariocs.m3u8
+#EXTINF:-1,ESTUDIO UNIVERSAL
+http://wcm777.la/tp.php?canal=492&m=mariocs.m3u8
+
+
+#EXTINF:-1, I-SAT
+http://wcm777.la/tp.php?canal=495&m=mariocs.m3u8
 #EXTINF:-1,TCM
-http://wcm777.la/mariocs.php?canal=TCMSD&cm=481
+http://wcm777.la/tp.php?canal=496&m=mariocs.m3u8
 
-#EXTINF:-1,Vevo HD 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,ESPN HD
+http://wcm777.la/tp.php?canal=516&m=mariocs.m3u8
+#EXTINF:-1,FOX SPORTS
+http://wcm777.la/tp.php?canal=522&m=mariocs.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://wcm777.la/tp.php?canal=527&m=mariocs.m3u8
+#EXTINF:-1,ESPN
+http://wcm777.la/tp.php?canal=558&m=mariocs.m3u8
+#EXTINF:-1,ESPN2
+http://wcm777.la/tp.php?canal=561&m=mariocs.m3u8
+#EXTINF:-1,ESPN 3
+http://wcm777.la/tp.php?canal=520&m=mariocs.m3u8
 
-#EXTINF:-1,Vevo HD 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 
-#EXTINF:-1,Vevo HD 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,HMX el canal del hombre
+http://wcm777.la/tp.php?canal=169&m=mariocs.m3u8
+#EXTINF:-1,MTV LIVE
+http://wcm777.la/tp.php?canal=701&m=mariocs.m3u8
+#EXTINF:-1,TELEHIT
+http://wcm777.la/tp.php?canal=702&m=mariocs.m3u8
+#EXTINF:-1,REALITY TV
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=474&lan=2&rows=40&f=.m3u8
+#EXTINF:-1, PX
+http://200.76.77.237:80/LIVE/H01/CANAL528&m=mariocs.m3u8
+#EXTINF:-1, MULTIMEDIOSTV
+http://200.76.77.237:80/LIVE/H01/CANAL167&m=mariocs.m3u8
 
-#EXTINF:-1,Multimedios
-http://wcm777.la/mariocs.php?canal=MultimediosLA&cm=1459
+#EXTINF:-1,VH1
+http://wcm777.la/tp.php?canal=703&m=mariocs.m3u8
+#EXTINF:-1,MTV
+http://wcm777.la/tp.php?canal=726&m=mariocs.m3u8
+#EXTINF:-1,MTV HITS
+http://wcm777.la/tp.php?canal=727&m=mariocs.m3u8
+#EXTINF:-1,classic
+http://wcm777.la/tp.php?canal=728&m=mariocs.m3u8
+#EXTINF:-1,RITMOSON
+http://wcm777.la/tp.php?canal=731&m=mariocs.m3u8
+#EXTINF:-1,BANDAMAX
+http://wcm777.la/tp.php?canal=732&m=mariocs.m3u8
 
-#EXTINF:-1,TV Publica HD
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 
-#EXTINF:-1,TVE
-http://wcm777.la/mariocs.php?canal=TVELASD&cm=981
 
-#EXTINF:0,Caracol HD
-rtmp://209.133.208.170/app// playpath=jhan1238s-channel swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.canalesdelpueblotv.info/caracol1.htm
 
-#EXTINF:0,RCN HD
-http://lv13msssopsccc.4cloud.co/livercn/AppSenalRcn/playlist.m3u8
 
-#EXTINF:0,Telecaribe
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
 
-#EXTINF:-1,Señal Colombia
-http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
 
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Canal Tr3ce
-http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
 
-#EXTINF:-1,Telecafe
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 
-#EXTINF:-1,Señal Institucional
-http://cdns840stu1010.multistream.net/rtvclive/amlst:live/master.m3u8?
 
-#EXTINF:-1,TELEANTIOQUIA HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
 
-#EXTINF:-1,Telemedellin
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-
-#EXTINF:-1,CosmoVision
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-
-#EXTINF:-1,CANAL CAPITAL
-http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-
-#EXTINF:-1,CANAL U
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-
-#EXTINF:-1,TV AGRO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-
-#EXTINF:-1,Cable Noticias
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-
-#EXTINF:-1,El Tiempo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-
-#EXTINF:-1,UNE TV Manizales
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-
-#EXTINF:-1,UNE TV CARIBE
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-
-#EXTINF:-1,UNE TV ARMENIA
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-
-#EXTINF:-1,TELE VIDA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
-
-#EXTINF:-1,TRENDY MUSICA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-
-#EXTINF:-1,CANAL ANTIESTRES
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-
-#EXTINF:-1,CANTINAZO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-
-#EXTINF:-1,LIFEDESING
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-
-#EXTINF:-1,MIMUSICA HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-
-#EXTINF:-1,TELE AMIGA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
-
-#EXTINF:-1,TIGO MUSIC
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-
-#EXTINF:-1,VMas+
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-
-#EXTINF:0,TDN Mexico
-http://wcm777.la/mariocs.php?canal=TDNMXLA&cm=1059
-
-#EXTINF:-1,Canal 2
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-
-#EXTINF:-1,El Trece HD
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-
-#EXTINF:-1,Azteca Noticias HD
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-
-#EXTINF:-1,Canal Mexico
-rtmp://50.7.98.234/rtv/videortv
-
-#EXTM3U
-#EXTINF:-1,Multimedios
-http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8 Conn=S:OK
-
-#EXTINF:-1,Televisa HD
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-
-#EXTINF:-1,OnceTV HD
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-
-#EXTINF:0,Uno TV
-http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?
-
-#EXTINF:0,Canal 2 Obregón
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
-
-#EXTINF:0,Canal 7 Mazatlán
-http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
-
-#EXTINF:-1,Gala TV
-http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
-
-#EXTINF:-1,UNOTV HD
-http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
-
-#EXTINF:-1,OCHO TV
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-
-#EXTINF:-1,Azteca Deportes
