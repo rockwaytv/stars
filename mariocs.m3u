@@ -9,19 +9,19 @@ http://wcm777.la/mariocs.php?canal=BabyFirstTVUS&cm=4882
 
 
 
-#EXTINF:-1, Baby TV Latinoamerica (317)
+#EXTINF:-1, Baby TV (317)
 http://wcm777.la/mariocs.php?canal=BabyTVLASD&cm=317
-#EXTINF:-1, Boomerang Latinoamerica (2507)
+#EXTINF:-1, Boomerang  (2507)
 http://wcm777.la/mariocs.php?canal=BoomerangLA&cm=2507
 
 #EXTINF:-1, Boomerang USA
 http://wcm777.la/mariocs.php?canal=BoomerangUS&cm=175
-#EXTINF:-1,CBeebies Latinoamerica (1029)
+#EXTINF:-1,CBeebies  (1029)
 http://wcm777.la/mariocs.php?canal=CbeebiesLA&cm=1029
 #EXTINF:-1, Cartoon Network (421)
 http://wcm777.la/mariocs.php?canal=CartoonNetworkLASD&cm=421
 
-#EXTINF:-1, Discovery Kids America Latina (309)
+#EXTINF:-1, Discovery Kids  (309)
 http://wcm777.la/mariocs.php?canal=DiscoveryKidsSD&cm=309
 
 #EXTINF:-1, Disney Channel East (196)
@@ -46,12 +46,12 @@ http://wcm777.la/mariocs.php?canal=DisneyXDSD&cm=499
 #EXTINF:-1, Nick Jr (4872)
 http://wcm777.la/mariocs.php?canal=NickJrUS&cm=4872
 
-#EXTINF:-1, Nick Jr Latinoamerica (417)
+#EXTINF:-1, Nick Jr  (417)
 http://wcm777.la/mariocs.php?canal=NickJrLASD&cm=417
 #EXTINF:-1, Nickelodeon East (1701)
 http://wcm777.la/mariocs.php?canal=NickelodeonEastUS&cm=1701
 
-#EXTINF:-1, Nickelodeon Latinoamerica (1423)
+#EXTINF:-1, Nickelodeon  (1423)
 http://wcm777.la/mariocs.php?canal=NickelodeonLA&cm=1423
 
 #EXTINF:-1, SKY Disney (523)
@@ -101,13 +101,16 @@ http://wcm777.la/mariocs.php?canal=EncoreEastHD&cm=222
 #EXTINF:-1, Europa Europa (1597)
 http://wcm777.la/mariocs.php?canal=EuropaEuropaLA&cm=1597
 
-#EXTINF:-1, Film & Arts Latinoamerica (1599)
+#EXTINF:-1, Film & Arts  (1599)
 http://wcm777.la/mariocs.php?canal=FilmArtsLA&cm=1599
 
 #EXTINF:-1, Film 4 (497)
 http://wcm777.la/mariocs.php?canal=film4.stream&cm=497
 
 #EXTINF:-1, Film Zone (1055)
+http://wcm777.la/mariocs.php?canal=FilmZoneLASD&cm=1055
+
+#EXTINF:-1, Film Zone
 http://wcm777.la/mariocs.php?canal=FilmZoneLASD&cm=1055
 
 #EXTINF:-1, Fox 1 Este (433)
@@ -124,7 +127,7 @@ http://wcm777.la/mariocs.php?canal=FOXActionOesteLASD&cm=437
 #EXTINF:-1, Fox Cinema (457)
 http://wcm777.la/mariocs.php?canal=FoxCinemaSD&cm=457
 
-#EXTINF:-1, Fox Classics Latinoamerica (465)
+#EXTINF:-1, Fox Classics  (465)
 http://wcm777.la/mariocs.php?canal=FOXClassicsLASD&cm=465
 
 #EXTINF:-1, Fox Comedy (461)
@@ -133,7 +136,7 @@ http://wcm777.la/mariocs.php?canal=FOXComedyLASD&cm=461
 #EXTINF:-1, Fox Family (467)
 http://wcm777.la/mariocs.php?canal=FOXFamilyLASD&cm=467
 
-#EXTINF:-1, Fox Movies Latinoamerica (463)
+#EXTINF:-1, Fox Movies  (463)
 http://wcm777.la/mariocs.php?canal=FOXMoviesLASD&cm=f6076abc7bed61175976401ebbc7907d
 
 #EXTINF:-1, Golden (264)
@@ -152,7 +155,7 @@ http://wcm777.la/mariocs.php?canal=GoldenPremiere2LA&cm=4772
 
 #EXTINF:-1, HBO 2 East (216)
 http://wcm777.la/mariocs.php?canal=HBO2EastHD&cm=216
-#EXTINF:-1, HBO 2 Latinoamerica (365)
+#EXTINF:-1, HBO 2  (365)
 http://wcm777.la/mariocs.php?canal=HBO2SD&cm=365
 #EXTINF:-1, HBO 2 West (1095)
 http://wcm777.la/mariocs.php?canal=HBO2WestUS&cm=1095
@@ -164,10 +167,10 @@ http://wcm777.la/mariocs.php?canal=HBOEastUS&cm=4765
 #EXTINF:-1, HBO Family East (4415)
 http://wcm777.la/mariocs.php?canal=HBOFamilyEastUS&cm=4415
 
-#EXTINF:-1, HBO Family Latinoamerica (449)
+#EXTINF:-1, HBO Family  (449)
 http://wcm777.la/mariocs.php?canal=HBOFamilyLASD&cm=449
 
-#EXTINF:-1, HBO Latinoamerica (385)
+#EXTINF:-1, HBO  (385)
 http://wcm777.la/mariocs.php?canal=HBOLASD&cm=385
 
 #EXTINF:-1, HBO Plus Este (453)
@@ -179,7 +182,7 @@ http://wcm777.la/mariocs.php?canal=HBOPus2LASD&cm=369
 #EXTINF:-1, HBO Signature East (959)
 http://wcm777.la/mariocs.php?canal=HBOSignatureEastUS&cm=959
 
-#EXTINF:-1, HBO Signature Latinoamerica (451)
+#EXTINF:-1, HBO Signature  (451)
 http://wcm777.la/mariocs.php?canal=HBOSignatureLASD&cm=451
 
 #EXTINF:-1, HBO West (4767)
@@ -202,7 +205,7 @@ http://wcm777.la/mariocs.php?canal=MaxPrimeLASD&cm=377
 
 #EXTINF:-1, Max Prime Oeste (379)
 http://wcm777.la/mariocs.php?canal=MaxPrime2LASD&cm=379
-#EXTINF:-1, Max UP Latinoamerica (469)
+#EXTINF:-1, Max UP  (469)
 http://wcm777.la/mariocs.php?canal=MaxUPSD&cm=469
 
 #EXTINF:-1, Movies 24 (549)
@@ -279,10 +282,10 @@ http://wcm777.la/mariocs.php?canal=StarzWestUS&cm=981
 #EXTINF:-1, Studio Universal (345)
 http://wcm777.la/mariocs.php?canal=StudioUniversalSD&cm=345
 
-#EXTINF:-1, Sundance Channel Latinoamerica (1041)
+#EXTINF:-1, Sundance Channel  (1041)
 http://wcm777.la/mariocs.php?canal=SundanceLA&cm=1041
 
-#EXTINF:-1, TCM America Latina (481)
+#EXTINF:-1, TCM  (481)
 http://wcm777.la/mariocs.php?canal=TCMSD&cm=481
 
 #EXTINF:-1, TCM US (1105)
@@ -306,7 +309,7 @@ http://wcm777.la/mariocs.php?canal=true2.stream&cm=2455
 #EXTINF:-1, USA Network East (2579)
 http://wcm777.la/mariocs.php?canal=USANetworkEastHD&cm=2579
 
-#EXTINF:-1, Universal Channel America Latina (387)
+#EXTINF:-1, Universal Channel  (387)
 http://wcm777.la/mariocs.php?canal=UniversalLASD&cm=387
 
 #EXTINF:-1, Animal Planet
@@ -321,11 +324,28 @@ http://wcm777.la/mariocs.php?canal=ElgourmetLA&cm=1033
 #EXTINF:-1, Good Food (2587)
 http://wcm777.la/mariocs.php?canal=goodfood.stream&cm=2587
 
-#EXTINF:-1, Nat Geo Wild (4830)
+#EXTINF:-1, Nat Geo Wild US (4830)
 http://wcm777.la/mariocs.php?canal=NatGeoWildUS&cm=4830
 
-#EXTINF:-1, Nat Geo Wild Latino America (254)
+#EXTINF:-1, Nat Geo Wild  (254)
 http://wcm777.la/mariocs.php?canal=NatGeoWildLAHD&cm=254
+
+#EXTINF:-1, Discovery Channel
+http://wcm777.la/mariocs.php?canal=DiscoveryChLA&cm=3531
+
+#EXTINF:-1, Discovery World
+http://wcm777.la/mariocs.php?canal=DiscoveryWorldLA&cm=3529
+#EXTINF:-1, Discovery Theater
+http://wcm777.la/mariocs.php?canal=DiscoveryenEspanolHD&cm=3798
+
+#EXTINF:-1, History
+http://wcm777.la/mariocs.php?canal=HistoryLA&cm=3704
+#EXTINF:-1  H2
+http://wcm777.la/mariocs.php?canal=H2LASD&cm=297
+
+#EXTINF:-1, Nat Geo
+http://wcm777.la/mariocs.php?canal=NatGeoLASD&cm=395
+
 #EXTINF:-1, Travel Channel UK (4422)
 http://wcm777.la/mariocs.php?canal=travel.stream&cm=4422
 
@@ -333,7 +353,7 @@ http://wcm777.la/mariocs.php?canal=travel.stream&cm=4422
 
 #EXTINF:-1, A&E East (995)
 http://wcm777.la/mariocs.php?canal=AEEastUS&cm=995
-#EXTINF:-1, A&E Latinoamerica (258)
+#EXTINF:-1, A&E  (258)
 http://wcm777.la/mariocs.php?canal=AELatinoamericaHD&cm=258
 
 #EXTINF:-1, ABC Family (4855)
@@ -342,10 +362,10 @@ http://wcm777.la/mariocs.php?canal=ABCFamilyUS&cm=4855
 #EXTINF:-1, AMC East (5629)
 http://wcm777.la/mariocs.php?canal=AMCEastUS&cm=5629
 
-#EXTINF:-1, AXN Latinoamerica (2493)
+#EXTINF:-1, AXN  (2493)
 http://wcm777.la/mariocs.php?canal=AXNLA&cm=2493
 
-#EXTINF:-1, BBC Entertainment Latinoamerica (1407)
+#EXTINF:-1, BBC Entertainment  (1407)
 http://wcm777.la/mariocs.php?canal=BBCEntLA&cm=1407
 
 #EXTINF:-1, Bravo East (4890)
@@ -365,24 +385,24 @@ http://wcm777.la/mariocs.php?canal=cbsreality.stream&cm=2435
 #EXTINF:-1, Comedy Central East (2575)
 http://wcm777.la/mariocs.php?canal=ComedyCentralHD&cm=2575
 
-#EXTINF:-1, Comedy Central Latinoamerica (1037)
+#EXTINF:-1, Comedy Central  (1037)
 http://wcm777.la/mariocs.php?canal=ComedyCentralLA&cm=1037
 
-#EXTINF:-1, DW Latinoamerica
+#EXTINF:-1, DW 
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
 #EXTINF:-1, Discovery Family (4867)
 http://wcm777.la/mariocs.php?canal=DiscoveryFamilyUS&cm=4867
 
-#EXTINF:-1, Discovery Home & Health Latinoamerica (252)
+#EXTINF:-1, Discovery Home & Health  (252)
 http://wcm777.la/mariocs.php?canal=DiscoveryHomeHealthLAHD&cm=252
 
 #EXTINF:-1, Distrito Comedia (1491)
 http://wcm777.la/mariocs.php?canal=DistritoComediaLA&cm=1491
-#EXTINF:-1, E! (2341)
+#EXTINF:-1, E! us (2341)
 http://wcm777.la/mariocs.php?canal=eEntUS&cm=2341
 
-#EXTINF:-1, E! Latinoamerica (427)
+#EXTINF:-1, E!  (427)
 http://wcm777.la/mariocs.php?canal=EentertaimentSD&cm=427
 #EXTINF:-1,Eden (513)
 http://wcm777.la/mariocs.php?canal=Eden.stream&cm=513
@@ -397,7 +417,7 @@ http://wcm777.la/mariocs.php?canal=FXLASD&cm=431
 #EXTINF:-1, FXX East (2339)
 http://wcm777.la/mariocs.php?canal=FXXUS&cm=2339
 
-#EXTINF:-1, Fox Latinoamerica (3947)
+#EXTINF:-1, Fox  (3947)
 http://wcm777.la/mariocs.php?canal=FOXHDLA&cm=3947
 
 #EXTINF:-1, Glitz (1473)
@@ -418,7 +438,7 @@ http://wcm777.la/mariocs.php?canal=itvencore.stream&cm=501
 #EXTINF:-1, Lifetime East (2581)
 http://wcm777.la/mariocs.php?canal=LifetimeEastUS&cm=2581
 
-#EXTINF:-1, Lifetime Latinoamerica (423)
+#EXTINF:-1, Lifetime  (423)
 http://wcm777.la/mariocs.php?canal=LifetimeLASD&cm=423
 
 #EXTINF:-1, MundoFox (429)
@@ -450,7 +470,7 @@ http://wcm777.la/mariocs.php?canal=SpikeUS&cm=4410
 #EXTINF:-1, Syfy  (447)
 http://wcm777.la/mariocs.php?canal=SyFyLASD&cm=447
 
-#EXTINF:-1, TBS America Latina (333)
+#EXTINF:-1, TBS  (333)
 http://wcm777.la/mariocs.php?canal=TBSLASD&cm=333
 
 #EXTINF:-1, TBS East (967)
@@ -459,15 +479,15 @@ http://wcm777.la/mariocs.php?canal=TBSEastUS&cm=967
 #EXTINF:-1, TLC (503)
 http://wcm777.la/mariocs.php?canal=TLC.stream&cm=503
 
-#EXTINF:-1, TLC Latinoamerica (327)
+#EXTINF:-1, TLC  (327)
 http://wcm777.la/mariocs.php?canal=TLCLASD&cm=327
 
-#EXTINF:-1, TNT America Latina (262)
+#EXTINF:-1, TNT  (262)
 http://wcm777.la/mariocs.php?canal=TNTAmericaLatinaHD&cm=262
 #EXTINF:-1, TNT Drama (977)
 http://wcm777.la/mariocs.php?canal=TNTDramaUS&cm=977
 
-#EXTINF:-1, TNT Series Latinoamerica (331)
+#EXTINF:-1, TNT Series  (331)
 http://wcm777.la/mariocs.php?canal=infinitoSD&cm=331
 
 #EXTINF:-1, Telemundo (4417)
@@ -481,7 +501,7 @@ http://wcm777.la/mariocs.php?canal=TelemundoUS&cm=4417
 
 #EXTINF:-1, Tlnovelas  (1461)
 http://wcm777.la/mariocs.php?canal=TlnovelasLA&cm=1461
-#EXTINF:-1, Tru TV America Latina (337)
+#EXTINF:-1, Tru TV  (337)
 http://wcm777.la/mariocs.php?canal=TruTVSD&cm=337
 #EXTINF:-1, Tru TV East
 http://wcm777.la/mariocs.php?canal=TruTVUS/playlist.m3u8
@@ -493,6 +513,10 @@ http://wcm777.la/mariocs.php?canal=UniMasUS&cm=3602
 
 #EXTINF:-1, Univision (6299)
 http://wcm777.la/mariocs.php?canal=UnivisionEastUS&cm=6299
+
+#EXTINF:-1, UFC Network
+http://wcm777.la/mariocs.php?canal=UFCNetworkLA&cm=2923
+
 #EXTINF:-1,VH1 Classic Europe (415)
 http://wcm777.la/mariocs.php?canal=VH1ClassicLASD&cm=415
 
@@ -505,8 +529,11 @@ http://wcm777.la/mariocs.php?canal=WETVSD&cm=182
 #EXTINF:-1, WGN America (1771)
 http://wcm777.la/mariocs.php?canal=WGNAmericaUS&cm=1771
 
-#EXTINF:-1, Warner Channel Latinoamerica (2499)
+#EXTINF:-1, Warner Channel  (2499)
 http://wcm777.la/mariocs.php?canal=WarnerLA&cm=2499
+
+
+
 
 
 
