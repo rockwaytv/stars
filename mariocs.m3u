@@ -484,6 +484,8 @@ http://wcm777.la/mariocs.php?canal=TLCLASD&cm=327
 
 #EXTINF:-1, TNT  (262)
 http://wcm777.la/mariocs.php?canal=TNTAmericaLatinaHD&cm=262
+#EXTINF:-1, TNT
+http://wcm777.la/mariocs.php?canal=TNTAmericaLatinaHD&cm=262&f=mariocs.m3u8
 #EXTINF:-1, TNT Drama (977)
 http://wcm777.la/mariocs.php?canal=TNTDramaUS&cm=977
 
