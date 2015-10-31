@@ -134,8 +134,7 @@ http://mitv.esy.es/stk.php?id=461
 http://mitv.esy.es/stk.php?id=467
 
 #EXTINF:-1, Fox Movies  (463)
-http://mitv.esy.es/stk.php?id=FOXMoviesLASD&cm=f6076abc7bed61175976401ebbc7907d
-
+http://mitv.esy.es/stk.php?id=463
 #EXTINF:-1, Golden (264)
 http://mitv.esy.es/stk.php?id=463
 
@@ -230,7 +229,7 @@ http://mitv.esy.es/stk.php?id=521
 #EXTINF:-1, SKY Scifi & Horror (533)
 http://mitv.esy.es/stk.php?id=533
 
-#EXTINF:-1, SKY Select" group-title="Cinema",SKY Select (535)
+#EXTINF:-1, SKY Select (535)
 http://mitv.esy.es/stk.php?id=535
 
 #EXTINF:-1, SPACE (2489)
@@ -337,7 +336,7 @@ http://mitv.esy.es/stk.php?id=3798
 
 #EXTINF:-1, History
 http://mitv.esy.es/stk.php?id=3704
-#EXTINF:-1  H2
+#EXTINF:-1, H2
 http://mitv.esy.es/stk.php?id=297
 
 #EXTINF:-1, Nat Geo
