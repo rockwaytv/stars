@@ -1,122 +1,230 @@
 #EXTM3U
 
 #EXTINF:-1,001-AZMUNDO
-http://198.50.239.103/channel_Stalker_001.m3u8?
+http://foro:forocable@198.50.239.103/channel_001.asf/playlist.m3u8
 #EXTINF:-1,002-UNI MAS
-http://198.50.239.103/channel_Stalker_002.asf
+http://foro:forocable@198.50.239.103/channel_002.asf/playlist.m3u8
 #EXTINF:-1,003-PASIONES
-http://198.50.239.103/channel_Stalker_003.asf
+http://foro:forocable@198.50.239.103/channel_003.asf/playlist.m3u8
 #EXTINF:-1,004-RCN NOVELAS
-http://198.50.239.103/channel_Stalker_004.asf
+http://foro:forocable@198.50.239.103/channel_004.asf/playlist.m3u8
 #EXTINF:-1,005-DISCOVERY CHANNEL
-http://198.50.239.103/channel_Stalker_005.asf
+http://foro:forocable@198.50.239.103/channel_005.asf/playlist.m3u8
 #EXTINF:-1,006-DISCOVERY THEATER
-http://198.50.239.103/channel_Stalker_006.asf
+http://foro:forocable@198.50.239.103/channel_006.asf/playlist.m3u8
 #EXTINF:-1,007-DISCOVERY WORLD
-http://198.50.239.103/channel_Stalker_007.asf
+http://foro:forocable@198.50.239.103/channel_007.asf/playlist.m3u8
 #EXTINF:-1,008-DISCOVERY HOME&HEALTH
-http://198.50.239.103/channel_Stalker_008.asf
+http://foro:forocable@198.50.239.103/channel_008.asf/playlist.m3u8
 #EXTINF:-1,009-H2
-http://198.50.239.103/channel_Stalker_009.asf
+http://foro:forocable@198.50.239.103/channel_009.asf/playlist.m3u8
 #EXTINF:-1,010-HISTORY CHANNEL
-http://198.50.239.103/channel_Stalker_010.asf
+http://foro:forocable@198.50.239.103/channel_010.asf/playlist.m3u8
 #EXTINF:-1,011-NATGEO
-http://198.50.239.103/channel_Stalker_011.asf
+http://foro:forocable@198.50.239.103/channel_011.asf/playlist.m3u8
 #EXTINF:-1,012-NATGEO WILD
-http://198.50.239.103/channel_Stalker_012.asf
+http://foro:forocable@198.50.239.103/channel_012.asf/playlist.m3u8
 #EXTINF:-1,013-ANIMAL PLANET
-http://198.50.239.103/channel_Stalker_013.asf
+http://foro:forocable@198.50.239.103/channel_013.asf/playlist.m3u8
 #EXTINF:-1,014-ESPN
-http://198.50.239.103/channel_Stalker_014.asf
+http://foro:forocable@198.50.239.103/channel_014.asf/playlist.m3u8
 #EXTINF:-1,015-ESPN 2
-http://198.50.239.103/channel_Stalker_015.asf
+http://foro:forocable@198.50.239.103/channel_015.asf/playlist.m3u8
 #EXTINF:-1,016-ESPN 3
-http://198.50.239.103/channel_Stalker_016.asf
+http://foro:forocable@198.50.239.103/channel_016.asf/playlist.m3u8
 #EXTINF:-1,017-FOXSPORTS
-http://198.50.239.103/channel_Stalker_017.asf
+http://foro:forocable@198.50.239.103/channel_017.asf/playlist.m3u8
 #EXTINF:-1,018-FOXSPORTS 2
-http://198.50.239.103/channel_Stalker_018.asf
+http://foro:forocable@198.50.239.103/channel_018.asf/playlist.m3u8
 #EXTINF:-1,019-BEIN SPORTS
-http://198.50.239.103/channel_Stalker_019.asf
+http://foro:forocable@198.50.239.103/channel_019.asf/playlist.m3u8
 #EXTINF:-1,020-UFC NETWORK
-http://198.50.239.103/channel_Stalker_020.asf
+http://foro:forocable@198.50.239.103/channel_020.asf/playlist.m3u8
 #EXTINF:-1,021-PLANETA FUTBOL
-http://198.50.239.103/channel_Stalker_021.asf
+http://foro:forocable@198.50.239.103/channel_021.asf/playlist.m3u8
 #EXTINF:-1,022-TDN MEXICO
-http://198.50.239.103/channel_Stalker_022.asf
-#EXTINF:-1,023-DISNEY CHANNEL 
-http://198.50.239.103/channel_Stalker_023.asf
+http://foro:forocable@198.50.239.103/channel_022.asf/playlist.m3u8
+#EXTINF:-1,023-DISNEY CHANNEL
+http://foro:forocable@198.50.239.103/channel_023.asf/playlist.m3u8
 #EXTINF:-1,024-DISNEY XD
-http://198.50.239.103/channel_Stalker_024.asf
+http://foro:forocable@198.50.239.103/channel_024.asf/playlist.m3u8
 #EXTINF:-1,025-DISNEY JUNIOR
-http://198.50.239.103/channel_Stalker_025.asf
+http://foro:forocable@198.50.239.103/channel_025.asf/playlist.m3u8
 #EXTINF:-1,026-NICKELODEON
-http://198.50.239.103/channel_Stalker_026.asf
+http://foro:forocable@198.50.239.103/channel_026.asf/playlist.m3u8
 #EXTINF:-1,027-NICK JUNIOR
-http://198.50.239.103/channel_Stalker_027.asf
+http://foro:forocable@198.50.239.103/channel_027.asf/playlist.m3u8
 #EXTINF:-1,028-DISCOVERY KIDS
-http://198.50.239.103/channel_Stalker_028.asf
+http://foro:forocable@198.50.239.103/channel_028.asf/playlist.m3u8
 #EXTINF:-1,029-CARTOON NETWORK
-http://198.50.239.103/channel_Stalker_029.asf
+http://foro:forocable@198.50.239.103/channel_029.asf/playlist.m3u8
 #EXTINF:-1,030-BOOMERANG
-http://198.50.239.103/channel_Stalker_030.asf
+http://foro:forocable@198.50.239.103/channel_030.asf/playlist.m3u8
 #EXTINF:-1,031-TOONCAST
-http://198.50.239.103/channel_Stalker_031.asf
+http://foro:forocable@198.50.239.103/channel_031.asf/playlist.m3u8
 #EXTINF:-1,032-TEVEUNAM
-http://198.50.239.103/channel_Stalker_032.asf
+http://foro:forocable@198.50.239.103/channel_032.asf/playlist.m3u8
 #EXTINF:-1,033-BABY TV
-http://198.50.239.103/channel_Stalker_033.asf
+http://foro:forocable@198.50.239.103/channel_033.asf/playlist.m3u8
 #EXTINF:-1,034-SONY
-http://198.50.239.103/channel_Stalker_034.asf
+http://foro:forocable@198.50.239.103/channel_034.asf/playlist.m3u8
 #EXTINF:-1,035-BBC ENTERTAINMET
-http://198.50.239.103/channel_Stalker_035.asf
+http://foro:forocable@198.50.239.103/channel_035.asf/playlist.m3u8
 #EXTINF:-1,036-UNICABLE
-http://198.50.239.103/channel_Stalker_036.asf
+http://foro:forocable@198.50.239.103/channel_036.asf/playlist.m3u8
 #EXTINF:-1,037-WARNER
-http://198.50.239.103/channel_Stalker_037.asf
+http://foro:forocable@198.50.239.103/channel_037.asf/playlist.m3u8
 #EXTINF:-1,038-E! ENTERTAIMENT
-http://198.50.239.103/channel_Stalker_038.asf
+http://foro:forocable@198.50.239.103/channel_038.asf/playlist.m3u8
 #EXTINF:-1,039-FX
-http://198.50.239.103/channel_Stalker_039.asf
+http://foro:forocable@198.50.239.103/channel_039.asf/playlist.m3u8
 #EXTINF:-1,040-UNIVERSAL
-http://198.50.239.103/channel_Stalker_040.asf
+http://foro:forocable@198.50.239.103/channel_040.asf/playlist.m3u8
 #EXTINF:-1,041-FOX HD
-http://198.50.239.103/channel_Stalker_041.asf
+http://foro:forocable@198.50.239.103/channel_041.asf/playlist.m3u8
 #EXTINF:-1,042-SYFY
-http://198.50.239.103/channel_Stalker_042.asf
+http://foro:forocable@198.50.239.103/channel_042.asf/playlist.m3u8
 #EXTINF:-1,043-A&E
-http://198.50.239.103/channel_Stalker_043.asf
+http://foro:forocable@198.50.239.103/channel_043.asf/playlist.m3u8
 #EXTINF:-1,044-ID
-http://198.50.239.103/channel_Stalker_044.asf
+http://foro:forocable@198.50.239.103/channel_044.asf/playlist.m3u8
 #EXTINF:-1,045-TLC
-http://198.50.239.103/channel_Stalker_045.asf
+http://foro:forocable@198.50.239.103/channel_045.asf/playlist.m3u8
 #EXTINF:-1,046-AXN
-http://198.50.239.103/channel_Stalker_046.asf
+http://foro:forocable@198.50.239.103/channel_046.asf/playlist.m3u8
 #EXTINF:-1,047-EUROCHANNEL
-http://198.50.239.103/channel_Stalker_047.asf
+http://foro:forocable@198.50.239.103/channel_047.asf/playlist.m3u8
 #EXTINF:-1,048-MUNDO FOX
-http://198.50.239.103/channel_Stalker_048.asf
+http://foro:forocable@198.50.239.103/channel_048.asf/playlist.m3u8
 #EXTINF:-1,049-TNT SERIES
-http://198.50.239.103/channel_Stalker_049.asf
+http://foro:forocable@198.50.239.103/channel_049.asf/playlist.m3u8
 #EXTINF:-1,050-EL GOURMET
-http://198.50.239.103/channel_Stalker_050.asf
+http://foro:forocable@198.50.239.103/channel_050.asf/playlist.m3u8
 #EXTINF:-1,051-CASA CLUB
-http://198.50.239.103/channel_Stalker_051.asf
+http://foro:forocable@198.50.239.103/channel_051.asf/playlist.m3u8
 #EXTINF:-1,052-TBS
-http://198.50.239.103/channel_Stalker_052.asf
+http://foro:forocable@198.50.239.103/channel_052.asf/playlist.m3u8
 #EXTINF:-1,053-GLITZ
-http://198.50.239.103/channel_Stalker_053.asf
+http://foro:forocable@198.50.239.103/channel_053.asf/playlist.m3u8
 #EXTINF:-1,054-FOX LIFE
-http://198.50.239.103/channel_Stalker_054.asf
+http://foro:forocable@198.50.239.103/channel_054.asf/playlist.m3u8
 #EXTINF:-1,055-DISTRITO COMEDIA
-http://198.50.239.103/channel_Stalker_055.asf
+http://foro:forocable@198.50.239.103/channel_055.asf/playlist.m3u8
 #EXTINF:-1,056-COMEDY CENTRAL
-http://198.50.239.103/channel_Stalker_056.asf
+http://foro:forocable@198.50.239.103/channel_056.asf/playlist.m3u8
 #EXTINF:-1,057-TRUE TV
-http://198.50.239.103/channel_Stalker_057.asf
+http://foro:forocable@198.50.239.103/channel_057.asf/playlist.m3u8
 #EXTINF:-1,058-EFEKTO TV
-http://198.50.239.103/channel_Stalker_058.asf
+http://foro:forocable@198.50.239.103/channel_058.asf/playlist.m3u8
 #EXTINF:-1,059-MULTIMEDIOS
-http://198.50.239.103/channel_Stalker_059.asf
+http://foro:forocable@198.50.239.103/channel_059.asf/playlist.m3u8
 #EXTINF:-1,060-LIFETIME
-http://198.50.239.103/channel_Stalker_060.asf
+http://foro:forocable@198.50.239.103/channel_060.asf/playlist.m3u8
+#EXTINF:-1,061-CNN EN ESPAÑOL
+http://foro:forocable@198.50.239.103/channel_061.asf/playlist.m3u8
+#EXTINF:-1,062-EL FINANCIERO
+http://foro:forocable@198.50.239.103/channel_062.asf/playlist.m3u8
+#EXTINF:-1,063-NTN 24
+http://foro:forocable@198.50.239.103/channel_063.asf/playlist.m3u8
+#EXTINF:-1,064-MTV
+http://foro:forocable@198.50.239.103/channel_064.asf/playlist.m3u8
+#EXTINF:-1,065-MTV HITS
+http://foro:forocable@198.50.239.103/channel_065.asf/playlist.m3u8
+#EXTINF:-1,066-VH1 CLASSIC
+http://foro:forocable@198.50.239.103/channel_066.asf/playlist.m3u8
+#EXTINF:-1,067-VH1
+http://foro:forocable@198.50.239.103/channel_067.asf/playlist.m3u8
+#EXTINF:-1,068-K MUSIC
+http://foro:forocable@198.50.239.103/channel_068.asf/playlist.m3u8
+#EXTINF:-1,069-CONCERT CHANNEL
+http://foro:forocable@198.50.239.103/channel_069.asf/playlist.m3u8
+#EXTINF:-1,070-HTV
+http://foro:forocable@198.50.239.103/channel_070.asf/playlist.m3u8
+#EXTINF:-1,071-BANDAMAX
+http://foro:forocable@198.50.239.103/channel_071.asf/playlist.m3u8
+#EXTINF:-1,072-REGIONAL MUSIC
+http://foro:forocable@198.50.239.103/channel_072.asf/playlist.m3u8
+#EXTINF:-1,073-CINE DINAMITA
+http://foro:forocable@198.50.239.103/channel_073.asf/playlist.m3u8
+#EXTINF:-1,074-MULTI PREMIER
+http://foro:forocable@198.50.239.103/channel_074.asf/playlist.m3u8
+#EXTINF:-1,075-CINE LATINO
+http://foro:forocable@198.50.239.103/channel_075.asf/playlist.m3u8
+#EXTINF:-1,076-NO FUNCIONA
+http://foro:forocable@198.50.239.103/channel_076.asf/playlist.m3u8
+#EXTINF:-1,077-GOLDEN EDGE
+http://foro:forocable@198.50.239.103/channel_077.asf/playlist.m3u8
+#EXTINF:-1,078-PARAMOUNT
+http://foro:forocable@198.50.239.103/channel_078.asf/playlist.m3u8
+#EXTINF:-1,079-SUNDANCE
+http://foro:forocable@198.50.239.103/channel_079.asf/playlist.m3u8
+#EXTINF:-1,080-TNT
+http://foro:forocable@198.50.239.103/channel_080.asf/playlist.m3u8
+#EXTINF:-1,081-CINECANAL
+http://foro:forocable@198.50.239.103/channel_081.asf/playlist.m3u8
+#EXTINF:-1,082-CINEMAX
+http://foro:forocable@198.50.239.103/channel_082.asf/playlist.m3u8
+#EXTINF:-1,083-SPACE
+http://foro:forocable@198.50.239.103/channel_083.asf/playlist.m3u8
+#EXTINF:-1,084-AMC
+http://foro:forocable@198.50.239.103/channel_084.asf/playlist.m3u8
+#EXTINF:-1,085-STUDIO UNIVERSAL
+http://foro:forocable@198.50.239.103/channel_085.asf/playlist.m3u8
+#EXTINF:-1,086-TCM
+http://foro:forocable@198.50.239.103/channel_086.asf/playlist.m3u8
+#EXTINF:-1,087-ISAT
+http://foro:forocable@198.50.239.103/channel_087.asf/playlist.m3u8
+#EXTINF:-1,088-EUROPA EUROPA
+http://foro:forocable@198.50.239.103/channel_088.asf/playlist.m3u8
+#EXTINF:-1,089-FILM ARTS
+http://foro:forocable@198.50.239.103/channel_089.asf/playlist.m3u8
+#EXTINF:-1,090-FILM ZONE
+http://foro:forocable@198.50.239.103/channel_090.asf/playlist.m3u8
+#EXTINF:-1,091-FOX1
+http://foro:forocable@198.50.239.103/channel_091.asf/playlist.m3u8
+#EXTINF:-1,092-FOX1 OESTE
+http://foro:forocable@198.50.239.103/channel_092.asf/playlist.m3u8
+#EXTINF:-1,093-FOX FAMILY
+http://foro:forocable@198.50.239.103/channel_093.asf/playlist.m3u8
+#EXTINF:-1,094-FOX COMEDY
+http://foro:forocable@198.50.239.103/channel_094.asf/playlist.m3u8
+#EXTINF:-1,095-FOX CINEMA
+http://foro:forocable@198.50.239.103/channel_095.asf/playlist.m3u8
+#EXTINF:-1,096-FOX ACTION
+http://foro:forocable@198.50.239.103/channel_096.asf/playlist.m3u8
+#EXTINF:-1,097-FOX ACTION OESTE
+http://foro:forocable@198.50.239.103/channel_097.asf/playlist.m3u8
+#EXTINF:-1,098-FOX MOVIES
+http://foro:forocable@198.50.239.103/channel_098.asf/playlist.m3u8
+#EXTINF:-1,099-FOX CLASSICS
+http://foro:forocable@198.50.239.103/channel_099.asf/playlist.m3u8
+#EXTINF:-1,100-HBO
+http://foro:forocable@198.50.239.103/channel_100.asf/playlist.m3u8
+#EXTINF:-1,101-HBO2
+http://foro:forocable@198.50.239.103/channel_101.asf/playlist.m3u8
+#EXTINF:-1,102-HBO PLUS
+http://foro:forocable@198.50.239.103/channel_102.asf/playlist.m3u8
+#EXTINF:-1,103-HBO PLUS 2
+http://foro:forocable@198.50.239.103/channel_103.asf/playlist.m3u8
+#EXTINF:-1,104-HBO FAMILY
+http://foro:forocable@198.50.239.103/channel_104.asf/playlist.m3u8
+#EXTINF:-1,105-HBO SIGNATURE
+http://foro:forocable@198.50.239.103/channel_105.asf/playlist.m3u8
+#EXTINF:-1,106-MAX UP
+http://foro:forocable@198.50.239.103/channel_106.asf/playlist.m3u8
+#EXTINF:-1,107-MAX PRIME
+http://foro:forocable@198.50.239.103/channel_107.asf/playlist.m3u8
+#EXTINF:-1,108-MAX PRIME 2
+http://foro:forocable@198.50.239.103/channel_108.asf/playlist.m3u8
+#EXTINF:-1,109-NO FUNCIONA
+http://foro:forocable@198.50.239.103/channel_109.asf/playlist.m3u8
+#EXTINF:-1,110-GOLDEN PREMIER 1
+http://foro:forocable@198.50.239.103/channel_110.asf/playlist.m3u8
+#EXTINF:-1,111-GOLDEN PREMIER 2
+http://foro:forocable@198.50.239.103/channel_111.asf/playlist.m3u8
+#EXTINF:-1,112-NO FUNCIONA
+http://foro:forocable@198.50.239.103/channel_112.asf/playlist.m3u8
+#EXTINF:-1,113-SEXTREME
+http://foro:forocable@198.50.239.103/channel_113.asf/playlist.m3u8
+#EXTINF:-1,114-HUSTLER
+http://foro:forocable@198.50.239.103/channel_114.asf/playlist.m3u8
