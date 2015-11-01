@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1, Baby First TV (4882)
@@ -114,7 +113,7 @@ http://mitv.esy.es/stk.php?id=1055
 http://mitv.esy.es/stk.php?id=433
 
 #EXTINF:-1, Fox 1 Oeste (439)
-http://hd1080i-001-site1.1tempurl.com/stk.php?id439
+http://mitv.esy.es/stk.php?id=439
 
 #EXTINF:-1, Fox Action (435)
 http://mitv.esy.es/stk.php?id=435
@@ -279,13 +278,13 @@ http://mitv.esy.es/stk.php?id=981
 http://mitv.esy.es/stk.php?id=345
 
 #EXTINF:-1, Sundance Channel  (1041)
-http://mitv.esy.es/stk.php?id=SundanceLA&cm=1041
+http://mitv.esy.es/stk.php?id=1041
 
 #EXTINF:-1, TCM  (481)
-http://mitv.esy.es/stk.php?id=TCMSD&cm=481
+http://mitv.esy.es/stk.php?id=481
 
 #EXTINF:-1, TCM US (1105)
-http://mitv.esy.es/stk.php?id=TCMUS&cm=1105
+http://mitv.esy.es/stk.php?id=1105
 
 #EXTINF:-1, The Movie Channel East (220)
 http://mitv.esy.es/stk.php?id=220
@@ -379,7 +378,7 @@ http://mitv.esy.es/stk.php?id=2435
 
 
 #EXTINF:-1, Comedy Central East (2575)
-http://mitv.esy.es/stk.php?id=m=2575
+http://mitv.esy.es/stk.php?id=2575
 
 #EXTINF:-1, Comedy Central  (1037)
 http://mitv.esy.es/stk.php?id=1037
@@ -497,31 +496,30 @@ http://mitv.esy.es/stk.php?id=4417
 http://mitv.esy.es/stk.php?id=1461
 #EXTINF:-1, Tru TV  (337)
 http://mitv.esy.es/stk.php?id=337
-#EXTINF:-1, Tru TV East
-http://mitv.esy.es/stk.php?id=TruTVUS/playlist.m3u8
+
 
 
 
 #EXTINF:-1, UniMas (3602)
-http://mitv.esy.es/stk.php?id=UniMasUS&cm=3602
+http://mitv.esy.es/stk.php?id=3602
 
 #EXTINF:-1, Univision (6299)
-http://mitv.esy.es/stk.php?id=UnivisionEastUS&cm=6299
+http://mitv.esy.es/stk.php?id=6299
 
 #EXTINF:-1, UFC Network
-http://mitv.esy.es/stk.php?id=UFCNetworkLA&cm=2923
+http://mitv.esy.es/stk.php?id=2923
 
 #EXTINF:-1,VH1 Classic Europe (415)
-http://mitv.esy.es/stk.php?id=VH1ClassicLASD&cm=415
+http://mitv.esy.es/stk.php?id=415
 
 #EXTINF:-1, VH1 Latino Norte (483)
-http://mitv.esy.es/stk.php?id=VH1LatinoSD&cm=483
+http://mitv.esy.es/stk.php?id=483
 
 #EXTINF:-1, WE TV (182)
-http://mitv.esy.es/stk.php?id=WETVSD&cm=182
+http://mitv.esy.es/stk.php?id=182
 
 #EXTINF:-1, WGN America (1771)
-http://mitv.esy.es/stk.php?id=WGNAmericaUS&cm=1771
+http://mitv.esy.es/stk.php?id=1771
 
 #EXTINF:-1, Warner Channel  (2499)
-http://mitv.esy.es/stk.php?id=WarnerLA&cm=2499
+http://mitv.esy.es/stk.php?id=2499
