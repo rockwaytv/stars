@@ -1,0 +1,264 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="Canal-de-las-estrellas.png",Canal De Las Estrellas 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=6354&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="univision.png",Univision 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=6299&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="unimas.png",UniMas 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3602&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="telemundo.png",Telemundo 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=4417&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tve.png",TVE Internacional America 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2123&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="pasiones.png",Pasiones 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=295&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="az-mundo.png",Az Mundo 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1999&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tlnovelas.png",Tlnovelas America 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1461&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="rcn-novelas.png",RCN Novelas 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1493&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="telecentro.png",TeleCentro 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2017&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="caracol-internacional.png",Caracol Internacional 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2051&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="discovery-channel.png",Discovery en Español 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3531&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="discovery-theater.png",Discovery Theater 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3798&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="discovery-world-hd.png",Discovery World 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3529&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="home-and-health.png",Discovery Home & Health Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=252&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="history.png",History en Español 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3704&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="h2.png",H2 Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=297&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="natgeo.png",National Geographic Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=395&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="natgeo-wild.png",Nat Geo Wild Latino America 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=254&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="animalplanet.png",Animal Planet Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=441&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="espn.png",ESPN Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2487&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="espn-2.png",ESPN 2 Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=301&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="espn-3.png",ESPN 3 Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3806&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="FoxSports1.png",Fox Sports Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2505&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="FoxSports2.png",Fox Sports 2 Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=475&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="foxsports3.png",Fox Sports 3 Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3806&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="planeta-futbol2.png",PlanetaFutbol 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1477&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="planeta-futbol.png",Planeta Futbol English Soccer 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3469&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tdn-mx.png",TDN Mexico 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1059&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="univision-tdn.png",Univision TDN 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1483&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Beinsportlogo.png",BeinSports en Español 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2527&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="ufc-network.png",UFC Network Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1047&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="nfl.png",NFL Network 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1003&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="F1 Latinoamerica.png",F1 Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1695&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="F1 Latinoamerica.png",Golf Channel Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1489&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="disney-channel.png",Disney Channel Norte 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=256&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="disney-xd.png",Disney XD Norte 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=499&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="disney-jr.png",Disney Junior Norte 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1455&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1423&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="nick-jr.png",Nick Jr Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=417&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="discovery-kids.png",Discovery Kids America Latina 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=309&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cartoon-network.png",Cartoon Network Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=421&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="boomerang.png",Boomerang Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2507&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tooncast.png",Tooncast 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=443&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Baby-TV.png",Baby TV Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=317&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="CBeebies Latinoamerica.png",CBeebies Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1029&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="unicable.png",Unicable 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3804&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="sony.png",Canal Sony 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2501&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="warner.png",Warner Channel Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2499&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="!e.png",E! Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=427&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fx.png",FX Latino 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=431&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="universal-channel.png",Universal Channel America Latina 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=387&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox.png",Fox Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3947&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="syfy.png",Syfy Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=447&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="a_e.png",A&E Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=258&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="trutv.png",Tru TV America Latina 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=337&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Investigacion-Discovery.png",Investigation Discovery Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=455&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tlc.png",TLC Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=327&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="AXN.png",AXN Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2493&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="eurochannel.png",Eurochannel 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=4912&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="mundofox.png",MundoFox 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=429&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="TNT_Serie.png",TNT Series Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=331&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tbs.png",TBS America Latina 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=333&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="glitz.png",Glitz Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1473&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-life.png",FOX Life 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=425&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="distrito-comedia.png",Distrito Comedia 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1491&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="comedy-central-hd.png",Comedy Central Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1037&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="efekto.png",Efekto TV 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1039&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="multimedios-plus.png",Multimedios Plus 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1459&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="lifetime.png",Lifetime Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=423&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="bbc-entertainment.png",BBC Entertainment Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1407&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="el-gourmet.png",Elgourmet 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1033&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="casa-club.png",Casa Club TV 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1475&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cnn.png",CNN en Español 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1855&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="bloomberg.png",El Financiero Bloomberg 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2823&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="ntn24.png",NTN 24 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1601&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="NBC Universo.png",NBC Universo 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=4825&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Teletica.png",Teletica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=4817&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Galicia TV.png",Galicia TV 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1499&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tv_globo_internacional.png",TV Globo Internacional 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1593&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="mtv.png",MTV Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2491&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="mtv-hits.png",MTV Hits Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1495&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="vh1-classisc.png",VH1 Classic Europe 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=415&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="vh1.png",VH1 Latino Norte 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=483&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="k-music.png",K Music 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3467&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="concert-channel.png",Concert Channel 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=479&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="htv.png",HTV 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=341&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="bandamax.png",Bandamax 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1467&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="regional-music.png",Regional Music 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=4805&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cinema-dinamita.png",Cine Dinamita 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3465&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="multipremier.png",MultiPremier 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=3293&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cinelatino.png",CineLatino 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=477&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="golden-edge.png",Golden Edge 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1465&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="paramount.png",Paramount Channel Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=260&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Sundance.png",Sundance Channel Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1041&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tnt.png",TNT America Latina 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=262&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cinecanal-(W).png",CineCanal 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2495&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cinemax.png",Cinemax Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=343&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="space.png",SPACE 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=2489&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="amc.png",AMC 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=485&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="studio-universal.png",Studio Universal 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=345&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tcm.png",TCM America Latina 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=481&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="i.sat.png",I-Sat 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1703&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="europa-europa.png",Europa Europa 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1597&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="film-arts.png",Film & Arts Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1599&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="the-film-zone-hd.png",Film Zone 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1055&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-1-este.png",Fox 1 Este 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=433&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox1_oeste.png",Fox 1 Oeste 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=439&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-family.png",Fox Family 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=467&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-comedy.png",Fox Comedy 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=461&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-cinema.png",Fox Cinema 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=457&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox_action_este.png",Fox Action Este 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=435&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox_action_oeste.png",Fox Action Oeste 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=437&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-movies-HD.png",Fox Movies Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=463&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-classics.png",Fox Classics Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=465&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="hbo.png",HBO Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=385&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="hbo2.png",HBO 2 Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=365&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="hbo-plus.png",HBO Plus Este 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=453&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="hbo-plus.png",HBO Plus Oeste 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=369&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="hbo-family.png",HBO Family Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=449&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="hbo-signature.png",HBO Signature Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=451&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="max-up.png",Max UP Latinoamerica 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=469&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="max-prime.png",Max Prime Este 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=377&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="max-prime.png",Max Prime Oeste 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=379&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="max.png",MAX 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=381&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="golden-premier.png",Golden Premier 1 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=4777&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="golden-premier.png",Golden Premier 2 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=4772&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="venus-tv.png",Venus 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=285&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Sextreme.png",Sextreme 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=287&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="hustlertv.png",Hustler TV USA 
+http://iptvcanales.com/xw/stalker.php?psw=upremium&cmd=1707&player=playlist.m3u8
+
+
+
