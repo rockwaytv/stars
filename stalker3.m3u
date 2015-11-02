@@ -509,6 +509,8 @@ http://nenetony.esy.es/stk.php?canal=UniMasUS&cm=3602
 
 #EXTINF:-1, Univision (6299)
 http://nenetony.esy.es/stk.php?canal=UnivisionEastUS&cm=6299
+#EXTINF:-1, Estrellatv (7112)
+http://nenetony.esy.es/stk.php?canal=EstrellaTVLA&cm=7112
 
 #EXTINF:-1, UFC Network
 http://nenetony.esy.es/stk.php?canal=UFCNetworkLA&cm=2923
