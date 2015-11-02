@@ -539,7 +539,12 @@ http://nenetony.esy.es/stk.php?canal=JuicyLA&cm=1023
 http://nenetony.esy.es/stk.php?canal=XTSYLA&cm=1463
 #EXTINF:-1, hustler (1707)
 http://nenetony.esy.es/stk.php?canal=hustlerLA&cm=1707
-
+#EXTINF:-1, Sextreme (287)
+http://nenetony.esy.es/stk.php?canal=SextremeSD&IDE=287
+#EXTINF:-1, Manhandle (1027)
+http://nenetony.esy.es/stk.php?canal=manhandleLA&IDE=1027
+#EXTINF:-1, Secrets (1025)
+http://nenetony.esy.es/stk.php?canal=SecretsLA&IDE=1025
 
 
 
