@@ -509,8 +509,6 @@ http://nenetony.esy.es/stk.php?canal=UniMasUS&cm=3602
 
 #EXTINF:-1, Univision (6299)
 http://nenetony.esy.es/stk.php?canal=UnivisionEastUS&cm=6299
-#EXTINF:-1, Estrellatv (7112)
-http://nenetony.esy.es/stk.php?canal=EstrellaTVLA&cm=7112
 
 #EXTINF:-1, UFC Network
 http://nenetony.esy.es/stk.php?canal=UFCNetworkLA&cm=2923
@@ -529,6 +527,9 @@ http://nenetony.esy.es/stk.php?canal=WGNAmericaUS&cm=1771
 
 #EXTINF:-1, Warner Channel  (2499)
 http://nenetony.esy.es/stk.php?canal=WarnerLA&cm=2499
+
+
+
 #EXTINF:-1, VENUS (285)
 http://nenetony.esy.es/stk.php?canal=VENUSSD&cm=285
 #EXTINF:-1,Real (1021)
@@ -540,11 +541,8 @@ http://nenetony.esy.es/stk.php?canal=XTSYLA&cm=1463
 #EXTINF:-1, hustler (1707)
 http://nenetony.esy.es/stk.php?canal=hustlerLA&cm=1707
 #EXTINF:-1, Sextreme (287)
-http://nenetony.esy.es/stk.php?canal=SextremeSD&IDE=287
+http://nenetony.esy.es/stk.php?canal=SextremeSD&cm=287
 #EXTINF:-1, Manhandle (1027)
-http://nenetony.esy.es/stk.php?canal=manhandleLA&IDE=1027
+http://nenetony.esy.es/stk.php?canal=manhandleLA&cm=1027
 #EXTINF:-1, Secrets (1025)
-http://nenetony.esy.es/stk.php?canal=SecretsLA&IDE=1025
-
-
-
+http://nenetony.esy.es/stk.php?canal=SecretsLA&cm=1025
