@@ -1,8 +1,23 @@
 #EXTM3U
 
 
-#EXTINF:-1, Baby First TV (4882)
-http://nenetony.esy.es/stk.php?canal=BabyFirstTVUS&cm=4882
+
+
+#EXTINF:-1, canal de las estrellas
+http://nenetony.esy.es/stk.php?canal=EstrellasLA&cm=6354
+
+#EXTINF:-1, Unicable
+http://nenetony.esy.es/stk.php?canal=UnicableLA&cm=3804
+
+
+#EXTINF:-1, AZMundo
+http://nenetony.esy.es/stk.php?canal=AzMundoLA&cm=1999
+#EXTINF:-1, Galatv
+http://nenetony.esy.es/stk.php?canal=GalaTV&cm=4555
+#EXTINF:-1, TElemundo internacional
+http://nenetony.esy.es/stk.php?canal=TelemundoInternacional&cm=419
+
+
 
 
 
@@ -11,8 +26,7 @@ http://nenetony.esy.es/stk.php?canal=BabyTVLASD&cm=317
 #EXTINF:-1, Boomerang  (2507)
 http://nenetony.esy.es/stk.php?canal=BoomerangLA&cm=2507
 
-#EXTINF:-1, Boomerang USA
-http://nenetony.esy.es/stk.php?canal=BoomerangUS&cm=175
+
 #EXTINF:-1,CBeebies  (1029)
 http://nenetony.esy.es/stk.php?canal=CbeebiesLA&cm=1029
 #EXTINF:-1, Cartoon Network (421)
@@ -21,96 +35,63 @@ http://nenetony.esy.es/stk.php?canal=CartoonNetworkLASD&cm=421
 #EXTINF:-1, Discovery Kids  (309)
 http://nenetony.esy.es/stk.php?canal=DiscoveryKidsSD&cm=309
 
-#EXTINF:-1, Disney Channel East (196)
-http://nenetony.esy.es/stk.php?canal=DisneyChannelEastHD&cm=196
 
-#EXTINF:-1, Disney Channel Norte (256)
-http://nenetony.esy.es/stk.php?canal=DisneyChannelNorteHD&cm=256
 
-#EXTINF:-1, Disney Channel West (4862)
-http://nenetony.esy.es/stk.php?canal=DisneyChannelWestUS&cm=4862
 
-#EXTINF:-1, Disney Jr (4852)
-http://nenetony.esy.es/stk.php?canal=DisneyJrUS&cm=4852
 
-#EXTINF:-1, Disney Junior Norte (1455)
-http://nenetony.esy.es/stk.php?canal=DisneyJrLASD&cm=1455
-#EXTINF:-1, Disney XD (4860)
-http://nenetony.esy.es/stk.php?canal=DisneyXDUS&cm=4860
 
-#EXTINF:-1, Disney XD Norte (499)
-http://nenetony.esy.es/stk.php?canal=DisneyXDSD&cm=499
-#EXTINF:-1, Nick Jr (4872)
-http://nenetony.esy.es/stk.php?canal=NickJrUS&cm=4872
-
-#EXTINF:-1, Nick Jr  (417)
-http://nenetony.esy.es/stk.php?canal=NickJrLASD&cm=417
-#EXTINF:-1, Nickelodeon East (1701)
-http://nenetony.esy.es/stk.php?canal=NickelodeonEastUS&cm=1701
-
-#EXTINF:-1, Nickelodeon  (1423)
-http://nenetony.esy.es/stk.php?canal=NickelodeonLA&cm=1423
-
-#EXTINF:-1, SKY Disney (523)
-http://nenetony.esy.es/stk.php?canal=movdisney.stream&cm=523
-
-#EXTINF:-1, Teen Nick (4877)
-http://nenetony.esy.es/stk.php?canal=TeenNickUS&cm=4877
 
 #EXTINF:-1, Tooncast (443)
 http://nenetony.esy.es/stk.php?canal=TooncastSD&cm=443
 
 
-#EXTINF:-1, StarMax (4895)
-http://nenetony.esy.es/stk.php?canal=5StarMaxUS&cm=4895
+
 #EXTINF:-1, AMC (485)
 http://nenetony.esy.es/stk.php?canal=AMCLASD&cm=485
+#EXTINF:-1, Warner Channel  (2499)
+http://nenetony.esy.es/stk.php?canal=WarnerLA&cm=2499
+#EXTINF:-1, Sony
+http://nenetony.esy.es/stk.php?canal=SonyLA&cm=2501
 
-#EXTINF:-1, ActionMax East (2337)
-http://nenetony.esy.es/stk.php?canal=ActionMaxEastUS&cm=2337
 
-#EXTINF:-1, BBC America (184)
-http://nenetony.esy.es/stk.php?canal=BBCAmericaHD&cm=184
 
 #EXTINF:-1, Cine Dinamita (3465)
 http://nenetony.esy.es/stk.php?canal=CineDinamitaLA&cm=3465
-
+#EXTINF:-1, Multipremier
+http://nenetony.esy.es/stk.php?canal=MultiPremierLA&cm=3293
 #EXTINF:-1, CineCanal (2495)
 http://nenetony.esy.es/stk.php?canal=CineCanalLA&cm=2495
 
 #EXTINF:-1, CineLatino (477)
 http://nenetony.esy.es/stk.php?canal=CineLatinoSD&cm=477
 
-#EXTINF:-1, Cinemax East (953)
-http://nenetony.esy.es/stk.php?canal=CinemaxEastUS&cm=953
+
+
+#EXTINF:-1, Paramount channel
+http://nenetony.esy.es/stk.php?canal=ParamountChannelLatinAmericaHD&cm=260
+
+
 
 #EXTINF:-1, Cinemax (343)
 http://nenetony.esy.es/stk.php?canal=CinemaxLASD&cm=343
 
-#EXTINF:-1, Cinemax West (955)
-http://nenetony.esy.es/stk.php?canal=CinemaxWestUS&cm=955
 
-#EXTINF:-1, Encore Action East (4897)
-http://nenetony.esy.es/stk.php?canal=EncoreActionEastUS&cm=4897
-
-#EXTINF:-1, Encore East (222)
-http://nenetony.esy.es/stk.php?canal=EncoreEastHD&cm=222
 #EXTINF:-1, Europa Europa (1597)
 http://nenetony.esy.es/stk.php?canal=EuropaEuropaLA&cm=1597
 
-#EXTINF:-1, Film & Arts  (1599)
-http://nenetony.esy.es/stk.php?canal=FilmArtsLA&cm=1599
+#EXTINF:-1, Eurochannel
 
-#EXTINF:-1, Film 4 (497)
-http://nenetony.esy.es/stk.php?canal=film4.stream&cm=497
+#EXTINF:-1, Film & Arts  (1599)
+http://nenetony.esy.es/stk.php?canal=EurochannelLA&cm=4912
+
+
 
 #EXTINF:-1, Film Zone (1055)
 http://nenetony.esy.es/stk.php?canal=FilmZoneLASD&cm=1055
 
-#EXTINF:-1, Film Zone
-http://nenetony.esy.es/stk.php?canal=FilmZoneLASD&cm=1055
 
-#EXTINF:-1, Fox 1 Este (433)
+
+#EXTINF:-1, Fox 1 (433)
 http://nenetony.esy.es/stk.php?canal=FOX1LASD&cm=433
 
 #EXTINF:-1, Fox 1 Oeste (439)
@@ -144,25 +125,14 @@ http://nenetony.esy.es/stk.php?canal=GoldenEdgeLA&cm=1465
 #EXTINF:-1, Golden Multiplex (1035)
 http://nenetony.esy.es/stk.php?canal=GoldenMPLXLA&cm=1035
 
-#EXTINF:-1, Golden Premier 1 (4777)
+#EXTINF:-1, Golden Premier (4777)
 http://nenetony.esy.es/stk.php?canal=GoldenPremier1LA&cm=4777
 #EXTINF:-1, Golden Premier 2 (4772)
 http://nenetony.esy.es/stk.php?canal=GoldenPremiere2LA&cm=4772
 
-#EXTINF:-1, HBO 2 East (216)
-http://nenetony.esy.es/stk.php?canal=HBO2EastHD&cm=216
+
 #EXTINF:-1, HBO 2  (365)
 http://nenetony.esy.es/stk.php?canal=HBO2SD&cm=365
-#EXTINF:-1, HBO 2 West (1095)
-http://nenetony.esy.es/stk.php?canal=HBO2WestUS&cm=1095
-#EXTINF:-1, HBO Comedy East (1001)
-http://nenetony.esy.es/stk.php?canal=HBOComedyEastUS&cm=1001
-
-#EXTINF:-1, HBO East (4765)
-http://nenetony.esy.es/stk.php?canal=HBOEastUS&cm=4765
-#EXTINF:-1, HBO Family East (4415)
-http://nenetony.esy.es/stk.php?canal=HBOFamilyEastUS&cm=4415
-
 #EXTINF:-1, HBO Family  (449)
 http://nenetony.esy.es/stk.php?canal=HBOFamilyLASD&cm=449
 
@@ -175,20 +145,13 @@ http://nenetony.esy.es/stk.php?canal=HBOPlusLASD&cm=453
 #EXTINF:-1, HBO Plus Oeste (369)
 http://nenetony.esy.es/stk.php?canal=HBOPus2LASD&cm=369
 
-#EXTINF:-1, HBO Signature East (959)
-http://nenetony.esy.es/stk.php?canal=HBOSignatureEastUS&cm=959
 
 #EXTINF:-1, HBO Signature  (451)
 http://nenetony.esy.es/stk.php?canal=HBOSignatureLASD&cm=451
 
-#EXTINF:-1, HBO West (4767)
-http://nenetony.esy.es/stk.php?canal=HBOWestUS&cm=4767
 
-#EXTINF:-1, HBO Zone
-http://nenetony.esy.es/stk.php?canal=HBOZoneUS&cm=308
-
-#EXTINF:-1, Hallmark Movie Channel (1005)
-http://nenetony.esy.es/stk.php?canal=HallmarkMovieChannelUS&cm=1005
+#EXTINF:-1, SPACE (2489)
+http://nenetony.esy.es/stk.php?canal=SpaceLA&cm=2489
 
 #EXTINF:-1, I-Sat (1703)
 http://nenetony.esy.es/stk.php?canal=ISATLA&cm=1703
@@ -204,6 +167,276 @@ http://nenetony.esy.es/stk.php?canal=MaxPrime2LASD&cm=379
 #EXTINF:-1, Max UP  (469)
 http://nenetony.esy.es/stk.php?canal=MaxUPSD&cm=469
 
+
+
+
+
+#EXTINF:-1, Studio Universal (345)
+http://nenetony.esy.es/stk.php?canal=StudioUniversalSD&cm=345
+
+#EXTINF:-1, Sundance Channel  (1041)
+http://nenetony.esy.es/stk.php?canal=SundanceLA&cm=1041
+
+#EXTINF:-1, TCM  (481)
+http://nenetony.esy.es/stk.php?canal=TCMSD&cm=481
+
+
+#EXTINF:-1, Universal Channel  (387)
+http://nenetony.esy.es/stk.php?canal=UniversalLASD&cm=387
+
+
+
+
+#EXTINF:-1, Elgourmet (1033)
+http://nenetony.esy.es/stk.php?canal=ElgourmetLA&cm=1033
+
+#EXTINF:-1, Casaclubtv
+http://nenetony.esy.es/stk.php?canal=CasaClubLA&cm=1475
+#EXTINF:-1, CNN en español
+http://nenetony.esy.es/stk.php?canal=CNNLASD&cm=1855
+
+
+
+
+#EXTINF:-1, Animal Planet
+http://nenetony.esy.es/stk.php?canal=AnimalPlanetLASD&cm=441
+
+#EXTINF:-1, Nat Geo Wild  (254)
+http://nenetony.esy.es/stk.php?canal=NatGeoWildLAHD&cm=254
+
+#EXTINF:-1, Discovery Channel
+http://nenetony.esy.es/stk.php?canal=DiscoveryChLA&cm=3531
+
+#EXTINF:-1, Discovery World
+http://nenetony.esy.es/stk.php?canal=DiscoveryWorldLA&cm=3529
+#EXTINF:-1, Discovery Theater
+http://nenetony.esy.es/stk.php?canal=DiscoveryenEspanolHD&cm=3798
+
+#EXTINF:-1, History
+http://nenetony.esy.es/stk.php?canal=HistoryLA&cm=3704
+#EXTINF:-1,  H2
+http://nenetony.esy.es/stk.php?canal=H2LASD&cm=297
+
+#EXTINF:-1, NatGeo
+http://nenetony.esy.es/stk.php?canal=NatGeoLASD&cm=395
+
+
+#EXTINF:-1, A&E  (258)
+http://nenetony.esy.es/stk.php?canal=AELatinoamericaHD&cm=258
+
+
+#EXTINF:-1, AXN  (2493)
+http://nenetony.esy.es/stk.php?canal=AXNLA&cm=2493
+
+
+
+#EXTINF:-1, BBC Entertainment  (1407)
+http://nenetony.esy.es/stk.php?canal=BBCEntLA&cm=1407
+
+
+
+#EXTINF:-1, Comedy Central  (1037)
+http://nenetony.esy.es/stk.php?canal=ComedyCentralLA&cm=1037
+
+#EXTINF:-1, DW 
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+
+#EXTINF:-1, Discovery Home & Health  (252)
+http://nenetony.esy.es/stk.php?canal=DiscoveryHomeHealthLAHD&cm=252
+
+#EXTINF:-1, Distrito Comedia (1491)
+http://nenetony.esy.es/stk.php?canal=DistritoComediaLA&cm=1491
+
+
+
+#EXTINF:-1, E!  (427)
+http://nenetony.esy.es/stk.php?canal=EentertaimentSD&cm=427
+
+
+
+#EXTINF:-1, FOX Life (425)
+http://nenetony.esy.es/stk.php?canal=FoxLifeSD&cm=425
+
+#EXTINF:-1, FX Latino (431)
+http://nenetony.esy.es/stk.php?canal=FXLASD&cm=431
+
+
+#EXTINF:-1, Fox  (3947)
+http://nenetony.esy.es/stk.php?canal=FOXHDLA&cm=3947
+
+#EXTINF:-1, Glitz (1473)
+http://nenetony.esy.es/stk.php?canal=GlitzLA&cm=1473
+
+
+
+#EXTINF:-1, Lifetime  (423)
+http://nenetony.esy.es/stk.php?canal=LifetimeLASD&cm=423
+
+#EXTINF:-1, MundoFox (429)
+http://nenetony.esy.es/stk.php?canal=MundoFoxSD&cm=429
+
+#EXTINF:-1, MTV
+http://nenetony.esy.es/stk.php?canal=MTVLA&cm=2491
+
+#EXTINF:-1, MTV Hits
+http://nenetony.esy.es/stk.php?canal=MTVHitsLA&cm=1495
+
+#EXTINF:-1, Kmusic
+http://nenetony.esy.es/stk.php?canal=KMusicLA&cm=3467
+
+#EXTINF:-1, Concert Channel
+http://nenetony.esy.es/stk.php?canal=ConcertChannelSD&cm=479
+
+#EXTINF:-1, HTV
+http://nenetony.esy.es/stk.php?canal=HTVSD&cm=341
+
+#EXTINF:-1, NBC Universo (4825)
+http://nenetony.esy.es/stk.php?canal=NBCUniversoUS&cm=4825
+
+
+#EXTINF:-1, Pasiones (295)
+http://nenetony.esy.es/stk.php?canal=PasionesSD&cm=295
+
+#EXTINF:-1, RCN Novelas (1493)
+http://nenetony.esy.es/stk.php?canal=RCNnovelasLA&cm=1493
+
+
+#EXTINF:-1, Syfy  (447)
+http://nenetony.esy.es/stk.php?canal=SyFyLASD&cm=447
+
+#EXTINF:-1, TBS  (333)
+http://nenetony.esy.es/stk.php?canal=TBSLASD&cm=333
+
+
+
+#EXTINF:-1, TLC  (327)
+http://nenetony.esy.es/stk.php?canal=TLCLASD&cm=327
+
+#EXTINF:-1, TNT  (262)
+http://nenetony.esy.es/stk.php?canal=TNTAmericaLatinaHD&cm=262
+
+
+
+#EXTINF:-1, TNT Series  (331)
+http://nenetony.esy.es/stk.php?canal=infinitoSD&cm=331
+
+#EXTINF:-1, Telemundo (4417)
+http://nenetony.esy.es/stk.php?canal=TelemundoUS&cm=4417
+#EXTINF:-1, Tlnovelas  (1461)
+http://nenetony.esy.es/stk.php?canal=TlnovelasLA&cm=1461
+#EXTINF:-1, Tru TV  (337)
+http://nenetony.esy.es/stk.php?canal=TruTVSD&cm=337
+
+#EXTINF:-1, UniMas (3602)
+http://nenetony.esy.es/stk.php?canal=UniMasUS&cm=3602
+
+#EXTINF:-1, Univision (6299)
+http://nenetony.esy.es/stk.php?canal=UnivisionEastUS&cm=6299
+
+#EXTINF:-1, UFC Network
+http://nenetony.esy.es/stk.php?canal=UFCNetworkLA&cm=2923
+
+#EXTINF:-1,VH1 Classic Europe (415)
+http://nenetony.esy.es/stk.php?canal=VH1ClassicLASD&cm=415
+
+#EXTINF:-1, VH1 Latino Norte (483)
+http://nenetony.esy.es/stk.php?canal=VH1LatinoSD&cm=483
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, Disney Channel East (196)
+http://nenetony.esy.es/stk.php?canal=DisneyChannelEastHD&cm=196
+
+#EXTINF:-1, Disney Channel Norte (256)
+http://nenetony.esy.es/stk.php?canal=DisneyChannelNorteHD&cm=256
+
+#EXTINF:-1, Disney Channel West (4862)
+http://nenetony.esy.es/stk.php?canal=DisneyChannelWestUS&cm=4862
+#EXTINF:-1, Baby First TV (4882)
+http://nenetony.esy.es/stk.php?canal=BabyFirstTVUS&cm=4882
+#EXTINF:-1, Disney Jr US (4852)
+http://nenetony.esy.es/stk.php?canal=DisneyJrUS&cm=4852
+
+#EXTINF:-1, Disney Junior Norte (1455)
+http://nenetony.esy.es/stk.php?canal=DisneyJrLASD&cm=1455
+#EXTINF:-1, Disney XD (4860)
+http://nenetony.esy.es/stk.php?canal=DisneyXDUS&cm=4860
+
+#EXTINF:-1, Disney XD Norte (499)
+http://nenetony.esy.es/stk.php?canal=DisneyXDSD&cm=499
+#EXTINF:-1, Nick Jr (4872)
+http://nenetony.esy.es/stk.php?canal=NickJrUS&cm=4872
+#EXTINF:-1, Nickelodeon East (1701)
+http://nenetony.esy.es/stk.php?canal=NickelodeonEastUS&cm=1701
+#EXTINF:-1, Nick Jr  (417)
+http://nenetony.esy.es/stk.php?canal=NickJrLASD&cm=417
+
+#EXTINF:-1, Nickelodeon  (1423)
+http://nenetony.esy.es/stk.php?canal=NickelodeonLA&cm=1423
+
+#EXTINF:-1, SKY Disney (523)
+http://nenetony.esy.es/stk.php?canal=movdisney.stream&cm=523
+
+#EXTINF:-1, Teen Nick (4877)
+http://nenetony.esy.es/stk.php?canal=TeenNickUS&cm=4877
+#EXTINF:-1, StarMax (4895)
+http://nenetony.esy.es/stk.php?canal=5StarMaxUS&cm=4895
+#EXTINF:-1, ActionMax East (2337)
+http://nenetony.esy.es/stk.php?canal=ActionMaxEastUS&cm=2337
+
+#EXTINF:-1, BBC America (184)
+http://nenetony.esy.es/stk.php?canal=BBCAmericaHD&cm=184
+#EXTINF:-1, Cinemax East (953)
+http://nenetony.esy.es/stk.php?canal=CinemaxEastUS&cm=953
+
+#EXTINF:-1, Cinemax West (955)
+http://nenetony.esy.es/stk.php?canal=CinemaxWestUS&cm=955
+
+#EXTINF:-1, Encore Action East (4897)
+http://nenetony.esy.es/stk.php?canal=EncoreActionEastUS&cm=4897
+
+#EXTINF:-1, Encore East (222)
+http://nenetony.esy.es/stk.php?canal=EncoreEastHD&cm=222
+#EXTINF:-1, Film 4 (497)
+http://nenetony.esy.es/stk.php?canal=film4.stream&cm=497
+#EXTINF:-1, HBO 2 East (216)
+http://nenetony.esy.es/stk.php?canal=HBO2EastHD&cm=216
+#EXTINF:-1, HBO 2 West (1095)
+http://nenetony.esy.es/stk.php?canal=HBO2WestUS&cm=1095
+#EXTINF:-1, HBO Comedy East (1001)
+http://nenetony.esy.es/stk.php?canal=HBOComedyEastUS&cm=1001
+
+#EXTINF:-1, HBO East (4765)
+http://nenetony.esy.es/stk.php?canal=HBOEastUS&cm=4765
+#EXTINF:-1, HBO Family East (4415)
+http://nenetony.esy.es/stk.php?canal=HBOFamilyEastUS&cm=4415
+#EXTINF:-1, HBO Signature East (959)
+http://nenetony.esy.es/stk.php?canal=HBOSignatureEastUS&cm=959
+
+#EXTINF:-1, HBO West (4767)
+http://nenetony.esy.es/stk.php?canal=HBOWestUS&cm=4767
+
+#EXTINF:-1, HBO Zone
+http://nenetony.esy.es/stk.php?canal=HBOZoneUS&cm=308
+
+#EXTINF:-1, Hallmark Movie Channel (1005)
+http://nenetony.esy.es/stk.php?canal=HallmarkMovieChannelUS&cm=1005
 #EXTINF:-1, Movies 24 (549)
 http://nenetony.esy.es/stk.php?canal=movies24.stream&cm=549
 #EXTINF:-1, SKY Action & Adventure (527)
@@ -232,8 +465,6 @@ http://nenetony.esy.es/stk.php?canal=movscifi.stream&cm=533
 #EXTINF:-1, SKY Select" group-title="Cinema",SKY Select (535)
 http://nenetony.esy.es/stk.php?canal=movselect.stream&cm=535
 
-#EXTINF:-1, SPACE (2489)
-http://nenetony.esy.es/stk.php?canal=SpaceLA&cm=2489
 #EXTINF:-1, Showtime 2 East (971)
 http://nenetony.esy.es/stk.php?canal=Showtime2EastUS&cm=971
 
@@ -274,16 +505,6 @@ http://nenetony.esy.es/stk.php?canal=StarzKidsFamilyEastUS&cm=1099
 
 #EXTINF:-1,Starz West (981)
 http://nenetony.esy.es/stk.php?canal=StarzWestUS&cm=981
-
-#EXTINF:-1, Studio Universal (345)
-http://nenetony.esy.es/stk.php?canal=StudioUniversalSD&cm=345
-
-#EXTINF:-1, Sundance Channel  (1041)
-http://nenetony.esy.es/stk.php?canal=SundanceLA&cm=1041
-
-#EXTINF:-1, TCM  (481)
-http://nenetony.esy.es/stk.php?canal=TCMSD&cm=481
-
 #EXTINF:-1, TCM US (1105)
 http://nenetony.esy.es/stk.php?canal=TCMUS&cm=1105
 
@@ -304,66 +525,24 @@ http://nenetony.esy.es/stk.php?canal=true2.stream&cm=2455
 
 #EXTINF:-1, USA Network East (2579)
 http://nenetony.esy.es/stk.php?canal=USANetworkEastHD&cm=2579
-
-#EXTINF:-1, Universal Channel  (387)
-http://nenetony.esy.es/stk.php?canal=UniversalLASD&cm=387
-
-#EXTINF:-1, Animal Planet
-http://nenetony.esy.es/stk.php?canal=AnimalPlanetLASD&cm=441
-
+#EXTINF:-1, Good Food (2587)
+http://nenetony.esy.es/stk.php?canal=goodfood.stream&cm=2587
 #EXTINF:-1, Animal Planet (4845)
 http://nenetony.esy.es/stk.php?canal=AnimalPlanetUS&cm=4845
 
-#EXTINF:-1, Elgourmet (1033)
-http://nenetony.esy.es/stk.php?canal=ElgourmetLA&cm=1033
-
-#EXTINF:-1, Good Food (2587)
-http://nenetony.esy.es/stk.php?canal=goodfood.stream&cm=2587
-
 #EXTINF:-1, Nat Geo Wild US (4830)
 http://nenetony.esy.es/stk.php?canal=NatGeoWildUS&cm=4830
-
-#EXTINF:-1, Nat Geo Wild  (254)
-http://nenetony.esy.es/stk.php?canal=NatGeoWildLAHD&cm=254
-
-#EXTINF:-1, Discovery Channel
-http://nenetony.esy.es/stk.php?canal=DiscoveryChLA&cm=3531
-
-#EXTINF:-1, Discovery World
-http://nenetony.esy.es/stk.php?canal=DiscoveryWorldLA&cm=3529
-#EXTINF:-1, Discovery Theater
-http://nenetony.esy.es/stk.php?canal=DiscoveryenEspanolHD&cm=3798
-
-#EXTINF:-1, History
-http://nenetony.esy.es/stk.php?canal=HistoryLA&cm=3704
-#EXTINF:-1  H2
-http://nenetony.esy.es/stk.php?canal=H2LASD&cm=297
-
-#EXTINF:-1, Nat Geo
-http://nenetony.esy.es/stk.php?canal=NatGeoLASD&cm=395
-
 #EXTINF:-1, Travel Channel UK (4422)
 http://nenetony.esy.es/stk.php?canal=travel.stream&cm=4422
 
-
-
 #EXTINF:-1, A&E East (995)
 http://nenetony.esy.es/stk.php?canal=AEEastUS&cm=995
-#EXTINF:-1, A&E  (258)
-http://nenetony.esy.es/stk.php?canal=AELatinoamericaHD&cm=258
 
 #EXTINF:-1, ABC Family (4855)
 http://nenetony.esy.es/stk.php?canal=ABCFamilyUS&cm=4855
 
 #EXTINF:-1, AMC East (5629)
 http://nenetony.esy.es/stk.php?canal=AMCEastUS&cm=5629
-
-#EXTINF:-1, AXN  (2493)
-http://nenetony.esy.es/stk.php?canal=AXNLA&cm=2493
-
-#EXTINF:-1, BBC Entertainment  (1407)
-http://nenetony.esy.es/stk.php?canal=BBCEntLA&cm=1407
-
 #EXTINF:-1, Bravo East (4890)
 http://nenetony.esy.es/stk.php?canal=BravoEastUS&cm=4890
 
@@ -380,46 +559,18 @@ http://nenetony.esy.es/stk.php?canal=cbsreality.stream&cm=2435
 
 #EXTINF:-1, Comedy Central East (2575)
 http://nenetony.esy.es/stk.php?canal=ComedyCentralHD&cm=2575
-
-#EXTINF:-1, Comedy Central  (1037)
-http://nenetony.esy.es/stk.php?canal=ComedyCentralLA&cm=1037
-
-#EXTINF:-1, DW 
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-
 #EXTINF:-1, Discovery Family (4867)
 http://nenetony.esy.es/stk.php?canal=DiscoveryFamilyUS&cm=4867
 
-#EXTINF:-1, Discovery Home & Health  (252)
-http://nenetony.esy.es/stk.php?canal=DiscoveryHomeHealthLAHD&cm=252
-
-#EXTINF:-1, Distrito Comedia (1491)
-http://nenetony.esy.es/stk.php?canal=DistritoComediaLA&cm=1491
 #EXTINF:-1, E! us (2341)
 http://nenetony.esy.es/stk.php?canal=eEntUS&cm=2341
-
-#EXTINF:-1, E!  (427)
-http://nenetony.esy.es/stk.php?canal=EentertaimentSD&cm=427
 #EXTINF:-1,Eden (513)
 http://nenetony.esy.es/stk.php?canal=Eden.stream&cm=513
-
-#EXTINF:-1, FOX Life (425)
-http://nenetony.esy.es/stk.php?canal=FoxLifeSD&cm=425
 #EXTINF:-1, FX East (997)
 http://nenetony.esy.es/stk.php?canal=FXEastUS&cm=997
 
-#EXTINF:-1, FX Latino (431)
-http://nenetony.esy.es/stk.php?canal=FXLASD&cm=431
 #EXTINF:-1, FXX East (2339)
 http://nenetony.esy.es/stk.php?canal=FXXUS&cm=2339
-
-#EXTINF:-1, Fox  (3947)
-http://nenetony.esy.es/stk.php?canal=FOXHDLA&cm=3947
-
-#EXTINF:-1, Glitz (1473)
-http://nenetony.esy.es/stk.php?canal=GlitzLA&cm=1473
-
-
 #EXTINF:-1, IFC East (164)
 http://nenetony.esy.es/stk.php?canal=IFCHD&cm=164
 
@@ -433,16 +584,6 @@ http://nenetony.esy.es/stk.php?canal=itvencore.stream&cm=501
 
 #EXTINF:-1, Lifetime East (2581)
 http://nenetony.esy.es/stk.php?canal=LifetimeEastUS&cm=2581
-
-#EXTINF:-1, Lifetime  (423)
-http://nenetony.esy.es/stk.php?canal=LifetimeLASD&cm=423
-
-#EXTINF:-1, MundoFox (429)
-http://nenetony.esy.es/stk.php?canal=MundoFoxSD&cm=429
-
-#EXTINF:-1, NBC Universo (4825)
-http://nenetony.esy.es/stk.php?canal=NBCUniversoUS&cm=4825
-
 #EXTINF:-1, Ovation (2349)
 http://nenetony.esy.es/stk.php?canal=OvationUS&cm=2349
 
@@ -451,82 +592,25 @@ http://nenetony.esy.es/stk.php?canal=OxygenSD&cm=180
 
 #EXTINF:-1, Palladia (991)
 http://nenetony.esy.es/stk.php?canal=PalladiaHDUS&cm=991
-
-#EXTINF:-1, Pasiones (295)
-http://nenetony.esy.es/stk.php?canal=PasionesSD&cm=295
-
-#EXTINF:-1, RCN Novelas (1493)
-http://nenetony.esy.es/stk.php?canal=RCNnovelasLA&cm=1493
 #EXTINF:-1, Really (505)
 http://nenetony.esy.es/stk.php?canal=Really.stream&cm=505
 
 #EXTINF:-1, Spike TV (4410)
 http://nenetony.esy.es/stk.php?canal=SpikeUS&cm=4410
-
-#EXTINF:-1, Syfy  (447)
-http://nenetony.esy.es/stk.php?canal=SyFyLASD&cm=447
-
-#EXTINF:-1, TBS  (333)
-http://nenetony.esy.es/stk.php?canal=TBSLASD&cm=333
-
 #EXTINF:-1, TBS East (967)
 http://nenetony.esy.es/stk.php?canal=TBSEastUS&cm=967
 
 #EXTINF:-1, TLC (503)
 http://nenetony.esy.es/stk.php?canal=TLC.stream&cm=503
-
-#EXTINF:-1, TLC  (327)
-http://nenetony.esy.es/stk.php?canal=TLCLASD&cm=327
-
-#EXTINF:-1, TNT  (262)
-http://nenetony.esy.es/stk.php?canal=TNTAmericaLatinaHD&cm=262
-
 #EXTINF:-1, TNT Drama (977)
 http://nenetony.esy.es/stk.php?canal=TNTDramaUS&cm=977
-
-#EXTINF:-1, TNT Series  (331)
-http://nenetony.esy.es/stk.php?canal=infinitoSD&cm=331
-
-#EXTINF:-1, Telemundo (4417)
-http://nenetony.esy.es/stk.php?canal=TelemundoUS&cm=4417
-
-
-
-
-
-
-
-#EXTINF:-1, Tlnovelas  (1461)
-http://nenetony.esy.es/stk.php?canal=TlnovelasLA&cm=1461
-#EXTINF:-1, Tru TV  (337)
-http://nenetony.esy.es/stk.php?canal=TruTVSD&cm=337
-
-
-
-
-#EXTINF:-1, UniMas (3602)
-http://nenetony.esy.es/stk.php?canal=UniMasUS&cm=3602
-
-#EXTINF:-1, Univision (6299)
-http://nenetony.esy.es/stk.php?canal=UnivisionEastUS&cm=6299
-
-#EXTINF:-1, UFC Network
-http://nenetony.esy.es/stk.php?canal=UFCNetworkLA&cm=2923
-
-#EXTINF:-1,VH1 Classic Europe (415)
-http://nenetony.esy.es/stk.php?canal=VH1ClassicLASD&cm=415
-
-#EXTINF:-1, VH1 Latino Norte (483)
-http://nenetony.esy.es/stk.php?canal=VH1LatinoSD&cm=483
-
 #EXTINF:-1, WE TV (182)
 http://nenetony.esy.es/stk.php?canal=WETVSD&cm=182
 
 #EXTINF:-1, WGN America (1771)
 http://nenetony.esy.es/stk.php?canal=WGNAmericaUS&cm=1771
 
-#EXTINF:-1, Warner Channel  (2499)
-http://nenetony.esy.es/stk.php?canal=WarnerLA&cm=2499
+
 
 
 
