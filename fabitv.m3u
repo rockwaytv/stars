@@ -646,7 +646,8 @@ http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-0, Wapa
 http://testtp.x10host.com/wap.php?f=.m3u8
-#EXTINF:-0,
+#EXTINF:-0,Hollywood
+http://forocable:forocable@o12team.tk:9981/play/stream/channel/69c4cb0a77e76900ca0fab3b73d5993f?title=Hollywood
 #EXTINF:-0,
 
 #EXTINF:-0,
