@@ -39,7 +39,7 @@ http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/m
 #EXTINF:-1, Unimas
 http://78.129.192.136:1935/app/turbomax01s-channel/playlist.m3u8
 #EXTINF:0 tvg-name="Univision" tvg-logo="http://i.imgur.com/2Hsatjl.png", Univision
-http://109.169.22.20:1935/app/univision1xchivas_69s-channel/playlist.m3u8
+http://104.200.159.38:1935/app/turbomax-hds-channel/playlist.m3u8
 
 #EXTINF:-1, Telemundo
 http://109.169.22.20:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
@@ -162,8 +162,7 @@ http://o12team.tk:8080/rcnhd/index.m3u8
 #EXTINF:0 tvg-name="RCN2" tvg-logo="http://i.imgur.com/cuJE1Gb.png", RCN2
 http://o12team.tk:8080/rcnhd2/index.m3u8
 #EXTINF:0, Caracol
-http://78.129.187.39:1935/app/jhan1238s-channel/chunklist_w1443222480.m3u8
-
+http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
 
 #EXTINF:0, Señal colombia
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/chunklist_b500000.m3u8
@@ -614,8 +613,8 @@ http://o12team.tk:8080/discomax/mono.m3u8?token=DsYcWddF83
 #EXTINF:-0, Teledeporte
 http://o12team.tk:8080/teledeporte/mono.m3u8?token=DsYcWddF83
 
-
-
+#EXTINF:-0, Telefe
+http://o12team.tk:8080/TelefeHD/index.m3u8
 
 #EXTINF:-0,iberalia
 http://o12team.tk:8080/iberalia/mono.m3u8?token=DsYcWddF83
@@ -646,8 +645,11 @@ http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-0, Wapa
 http://testtp.x10host.com/wap.php?f=.m3u8
+
 #EXTINF:-0,Hollywood
 http://forocable:forocable@o12team.tk:9981/play/stream/channel/69c4cb0a77e76900ca0fab3b73d5993f?title=Hollywood
+#EXTINF:-0,AXN ESpaña
+http://forocable:forocable@o12team.tk:9981/play/stream/channel/651beac198bee98744a76466f9a9a013?title=AXN%20Espa%C3%B1a
 #EXTINF:-0,
 
 #EXTINF:-0,
