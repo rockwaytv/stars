@@ -14,7 +14,8 @@ http://can.hol.es/acosador.m3u8?numero=1999
 http://can.hol.es/acosador.m3u8?numero=4555
 #EXTINF:-1, TElemundo internacional
 http://can.hol.es/acosador.m3u8?numero=419
-
+#EXTINF:-1, Estellatv
+http://can.hol.es/acosador.m3u8?numero=7112
 
 
 
