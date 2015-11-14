@@ -1,0 +1,632 @@
+#EXTM3U
+
+
+
+#EXTINF:-1, canal de las estrellas
+http://167.114.175.32/live/ST.php?n_ch=EstrellasLA&numero=6354
+
+#EXTINF:-1, Unicable
+http://167.114.175.32/live/ST.php?n_ch=UnicableLA&numero=3804
+
+
+#EXTINF:-1, AZMundo
+http://167.114.175.32/live/ST.php?n_ch=AzMundoLA&numero=1999
+#EXTINF:-1, Galatv
+http://167.114.175.32/live/ST.php?n_ch=GalaTV&numero=4555
+#EXTINF:-1, TElemundo internacional
+http://167.114.175.32/live/ST.php?n_ch=TelemundoInternacional&numero=419
+#EXTINF:-1, EstrellaTVLA
+http://167.114.175.32/live/ST.php?n_ch=EstrellaTVLA&numero=7112
+
+
+
+
+#EXTINF:-1, Baby TV (317)
+http://167.114.175.32/live/ST.php?n_ch=BabyTVLASD&numero=317
+#EXTINF:-1, Boomerang  (2507)
+http://167.114.175.32/live/ST.php?n_ch=BoomerangLA&numero=2507
+
+
+#EXTINF:-1,CBeebies  (1029)
+http://167.114.175.32/live/ST.php?n_ch=CbeebiesLA&numero=1029
+#EXTINF:-1, Cartoon Network (421)
+http://167.114.175.32/live/ST.php?n_ch=CartoonNetworkLASD&numero=421
+
+#EXTINF:-1, Discovery Kids  (309)
+http://167.114.175.32/live/ST.php?n_ch=DiscoveryKidsSD&numero=309
+
+
+
+
+
+
+
+#EXTINF:-1, Tooncast (443)
+http://167.114.175.32/live/ST.php?n_ch=TooncastSD&numero=443
+
+
+
+#EXTINF:-1, AMC (485)
+http://167.114.175.32/live/ST.php?n_ch=AMCLASD&numero=485
+#EXTINF:-1, Warner Channel  (2499)
+http://167.114.175.32/live/ST.php?n_ch=WarnerLA&numero=2499
+#EXTINF:-1, Sony
+http://167.114.175.32/live/ST.php?n_ch=SonyLA&numero=2501
+
+
+
+#EXTINF:-1, Cine Dinamita (3465)
+http://167.114.175.32/live/ST.php?n_ch=CineDinamitaLA&numero=3465
+#EXTINF:-1, Multipremier
+http://167.114.175.32/live/ST.php?n_ch=MultiPremierLA&numero=3293
+#EXTINF:-1, CineCanal (2495)
+http://167.114.175.32/live/ST.php?n_ch=CineCanalLA&numero=2495
+
+#EXTINF:-1, CineLatino (477)
+http://167.114.175.32/live/ST.php?n_ch=CineLatinoSD&numero=477
+
+
+
+#EXTINF:-1, Paramount channel
+http://167.114.175.32/live/ST.php?n_ch=ParamountChannelLatinAmericaHD&numero=260
+
+
+
+#EXTINF:-1, Cinemax (343)
+http://167.114.175.32/live/ST.php?n_ch=CinemaxLASD&numero=343
+
+
+#EXTINF:-1, Europa Europa (1597)
+http://167.114.175.32/live/ST.php?n_ch=EuropaEuropaLA&numero=1597
+
+#EXTINF:-1, Eurochannel
+
+#EXTINF:-1, Film & Arts  (1599)
+http://167.114.175.32/live/ST.php?n_ch=EurochannelLA&numero=4912
+
+
+
+#EXTINF:-1, Film Zone (1055)
+http://167.114.175.32/live/ST.php?n_ch=FilmZoneLASD&numero=1055
+
+
+
+#EXTINF:-1, Fox 1 (433)
+http://167.114.175.32/live/ST.php?n_ch=FOX1LASD&numero=433
+
+#EXTINF:-1, Fox 1 Oeste (439)
+http://167.114.175.32/live/ST.php?n_ch=FOX1OesteLASD&numero=439
+
+#EXTINF:-1, Fox Action (435)
+http://167.114.175.32/live/ST.php?n_ch=FOXACTIONLASD&numero=435
+#EXTINF:-1, Fox Action Oeste (437)
+http://167.114.175.32/live/ST.php?n_ch=FOXActionOesteLASD&numero=437
+
+#EXTINF:-1, Fox Cinema (457)
+http://167.114.175.32/live/ST.php?n_ch=FoxCinemaSD&numero=457
+
+#EXTINF:-1, Fox Classics  (465)
+http://167.114.175.32/live/ST.php?n_ch=FOXClassicsLASD&numero=465
+
+#EXTINF:-1, Fox Comedy (461)
+http://167.114.175.32/live/ST.php?n_ch=FOXComedyLASD&numero=461
+
+#EXTINF:-1, Fox Family (467)
+http://167.114.175.32/live/ST.php?n_ch=FOXFamilyLASD&numero=467
+
+#EXTINF:-1, Fox Movies  (463)
+http://167.114.175.32/live/ST.php?n_ch=FOXMoviesLASD&numero=463
+#EXTINF:-1, Golden (264)
+http://167.114.175.32/live/ST.php?n_ch=GoldenHD&numero=463
+
+#EXTINF:-1, Golden Edge (1465)
+http://167.114.175.32/live/ST.php?n_ch=GoldenEdgeLA&numero=1465
+
+#EXTINF:-1, Golden Multiplex (1035)
+http://167.114.175.32/live/ST.php?n_ch=GoldenMPLXLA&numero=1035
+
+#EXTINF:-1, Golden Premier (4777)
+http://167.114.175.32/live/ST.php?n_ch=GoldenPremier1LA&numero=4777
+#EXTINF:-1, Golden Premier 2 (4772)
+http://167.114.175.32/live/ST.php?n_ch=GoldenPremiere2LA&numero=4772
+
+
+#EXTINF:-1, HBO 2  (365)
+http://167.114.175.32/live/ST.php?n_ch=HBO2SD&numero=365
+#EXTINF:-1, HBO Family  (449)
+http://167.114.175.32/live/ST.php?n_ch=HBOFamilyLASD&numero=449
+
+#EXTINF:-1, HBO  (385)
+http://167.114.175.32/live/ST.php?n_ch=HBOLASD&numero=385
+
+#EXTINF:-1, HBO Plus Este (453)
+http://167.114.175.32/live/ST.php?n_ch=HBOPlusLASD&numero=453
+
+#EXTINF:-1, HBO Plus Oeste (369)
+http://167.114.175.32/live/ST.php?n_ch=HBOPus2LASD&numero=369
+
+
+#EXTINF:-1, HBO Signature  (451)
+http://167.114.175.32/live/ST.php?n_ch=HBOSignatureLASD&numero=451
+
+
+#EXTINF:-1, SPACE (2489)
+http://167.114.175.32/live/ST.php?n_ch=SpaceLA&numero=2489
+
+#EXTINF:-1, I-Sat (1703)
+http://167.114.175.32/live/ST.php?n_ch=ISATLA&numero=1703
+
+#EXTINF:-1, MAX (381)
+http://167.114.175.32/live/ST.php?n_ch=MAXLASD&numero=381
+
+#EXTINF:-1, Max Prime Este (377)
+http://167.114.175.32/live/ST.php?n_ch=MaxPrimeLASD&numero=377
+
+#EXTINF:-1, Max Prime Oeste (379)
+http://167.114.175.32/live/ST.php?n_ch=MaxPrime2LASD&numero=379
+#EXTINF:-1, Max UP  (469)
+http://167.114.175.32/live/ST.php?n_ch=MaxUPSD&numero=469
+
+
+
+
+
+#EXTINF:-1, Studio Universal (345)
+http://167.114.175.32/live/ST.php?n_ch=StudioUniversalSD&numero=345
+
+#EXTINF:-1, Sundance Channel  (1041)
+http://167.114.175.32/live/ST.php?n_ch=SundanceLA&numero=1041
+
+#EXTINF:-1, TCM  (481)
+http://167.114.175.32/live/ST.php?n_ch=TCMSD&numero=481
+
+
+#EXTINF:-1, Universal Channel  (387)
+http://167.114.175.32/live/ST.php?n_ch=UniversalLASD&numero=387
+
+
+
+
+#EXTINF:-1, Elgourmet (1033)
+http://167.114.175.32/live/ST.php?n_ch=ElgourmetLA&numero=1033
+
+#EXTINF:-1, Casaclubtv
+http://167.114.175.32/live/ST.php?n_ch=CasaClubLA&numero=1475
+#EXTINF:-1, CNN en español
+http://167.114.175.32/live/ST.php?n_ch=CNNLASD&numero=1855
+
+
+
+
+#EXTINF:-1, Animal Planet
+http://167.114.175.32/live/ST.php?n_ch=AnimalPlanetLASD&numero=441
+
+#EXTINF:-1, Nat Geo Wild  (254)
+http://167.114.175.32/live/ST.php?n_ch=NatGeoWildLAHD&numero=254
+
+#EXTINF:-1, Discovery Channel
+http://167.114.175.32/live/ST.php?n_ch=DiscoveryChLA&numero=3531
+
+#EXTINF:-1, Discovery World
+http://167.114.175.32/live/ST.php?n_ch=DiscoveryWorldLA&numero=3529
+#EXTINF:-1, Discovery Theater
+http://167.114.175.32/live/ST.php?n_ch=DiscoveryenEspanolHD&numero=3798
+
+#EXTINF:-1, History
+http://167.114.175.32/live/ST.php?n_ch=HistoryLA&numero=3704
+#EXTINF:-1,  H2
+http://167.114.175.32/live/ST.php?n_ch=H2LASD&numero=297
+
+#EXTINF:-1, NatGeo
+http://167.114.175.32/live/ST.php?n_ch=NatGeoLASD&numero=395
+
+
+#EXTINF:-1, A&E  (258)
+http://167.114.175.32/live/ST.php?n_ch=AELatinoamericaHD&numero=258
+
+
+#EXTINF:-1, AXN  (2493)
+http://167.114.175.32/live/ST.php?n_ch=AXNLA&numero=2493
+
+
+
+#EXTINF:-1, BBC Entertainment  (1407)
+http://167.114.175.32/live/ST.php?n_ch=BBCEntLA&numero=1407
+
+
+
+#EXTINF:-1, Comedy Central  (1037)
+http://167.114.175.32/live/ST.php?n_ch=ComedyCentralLA&numero=1037
+
+#EXTINF:-1, DW 
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+
+#EXTINF:-1, Discovery Home & Health  (252)
+http://167.114.175.32/live/ST.php?n_ch=DiscoveryHomeHealthLAHD&numero=252
+
+#EXTINF:-1, Distrito Comedia (1491)
+http://167.114.175.32/live/ST.php?n_ch=DistritoComediaLA&numero=1491
+
+
+
+#EXTINF:-1, E!  (427)
+http://167.114.175.32/live/ST.php?n_ch=EentertaimentSD&numero=427
+
+
+
+#EXTINF:-1, FOX Life (425)
+http://167.114.175.32/live/ST.php?n_ch=FoxLifeSD&numero=425
+
+#EXTINF:-1, FX Latino (431)
+http://167.114.175.32/live/ST.php?n_ch=FXLASD&numero=431
+
+
+#EXTINF:-1, Fox  (3947)
+http://167.114.175.32/live/ST.php?n_ch=FOXHDLA&numero=3947
+
+#EXTINF:-1, Glitz (1473)
+http://167.114.175.32/live/ST.php?n_ch=GlitzLA&numero=1473
+
+
+
+#EXTINF:-1, Lifetime  (423)
+http://167.114.175.32/live/ST.php?n_ch=LifetimeLASD&numero=423
+
+#EXTINF:-1, MundoFox (429)
+http://167.114.175.32/live/ST.php?n_ch=MundoFoxSD&numero=429
+
+#EXTINF:-1, MTV
+http://167.114.175.32/live/ST.php?n_ch=MTVLA&numero=2491
+
+#EXTINF:-1, MTV Hits
+http://167.114.175.32/live/ST.php?n_ch=MTVHitsLA&numero=1495
+
+#EXTINF:-1, Kmusic
+http://167.114.175.32/live/ST.php?n_ch=KMusicLA&numero=3467
+
+#EXTINF:-1, Concert Channel
+http://167.114.175.32/live/ST.php?n_ch=ConcertChannelSD&numero=479
+
+#EXTINF:-1, HTV
+http://167.114.175.32/live/ST.php?n_ch=HTVSD&numero=341
+
+#EXTINF:-1, NBC Universo (4825)
+http://167.114.175.32/live/ST.php?n_ch=NBCUniversoUS&numero=4825
+
+
+#EXTINF:-1, Pasiones (295)
+http://167.114.175.32/live/ST.php?n_ch=PasionesSD&numero=295
+
+#EXTINF:-1, RCN Novelas (1493)
+http://167.114.175.32/live/ST.php?n_ch=RCNnovelasLA&numero=1493
+
+
+#EXTINF:-1, Syfy  (447)
+http://167.114.175.32/live/ST.php?n_ch=SyFyLASD&numero=447
+
+#EXTINF:-1, TBS  (333)
+http://167.114.175.32/live/ST.php?n_ch=TBSLASD&numero=333
+
+
+
+#EXTINF:-1, TLC  (327)
+http://167.114.175.32/live/ST.php?n_ch=TLCLASD&numero=327
+
+#EXTINF:-1, TNT  (262)
+http://167.114.175.32/live/ST.php?n_ch=TNTAmericaLatinaHD&numero=262
+
+
+
+#EXTINF:-1, TNT Series  (331)
+http://167.114.175.32/live/ST.php?n_ch=infinitoSD&numero=331
+
+#EXTINF:-1, Telemundo (4417)
+http://167.114.175.32/live/ST.php?n_ch=TelemundoUS&numero=4417
+#EXTINF:-1, Tlnovelas  (1461)
+http://167.114.175.32/live/ST.php?n_ch=TlnovelasLA&numero=1461
+#EXTINF:-1, Tru TV  (337)
+http://167.114.175.32/live/ST.php?n_ch=TruTVSD&numero=337
+
+#EXTINF:-1, UniMas (3602)
+http://167.114.175.32/live/ST.php?n_ch=UniMasUS&numero=3602
+
+#EXTINF:-1, Univision (6299)
+http://167.114.175.32/live/ST.php?n_ch=UnivisionEastUS&numero=6299
+
+#EXTINF:-1, UFC Network
+http://167.114.175.32/live/ST.php?n_ch=UFCNetworkLA&numero=2923
+
+#EXTINF:-1,VH1 Classic Europe (415)
+http://167.114.175.32/live/ST.php?n_ch=VH1ClassicLASD&numero=415
+
+#EXTINF:-1, VH1 Latino Norte (483)
+http://167.114.175.32/live/ST.php?n_ch=VH1LatinoSD&numero=483
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, Disney Channel East (196)
+http://167.114.175.32/live/ST.php?n_ch=DisneyChannelEastHD&numero=196
+
+#EXTINF:-1, Disney Channel Norte (256)
+http://167.114.175.32/live/ST.php?n_ch=DisneyChannelNorteHD&numero=256
+
+#EXTINF:-1, Disney Channel West (4862)
+http://167.114.175.32/live/ST.php?n_ch=DisneyChannelWestUS&numero=4862
+#EXTINF:-1, Baby First TV (4882)
+http://167.114.175.32/live/ST.php?n_ch=BabyFirstTVUS&numero=4882
+#EXTINF:-1, Disney Jr US (4852)
+http://167.114.175.32/live/ST.php?n_ch=DisneyJrUS&numero=4852
+
+#EXTINF:-1, Disney Junior Norte (1455)
+http://167.114.175.32/live/ST.php?n_ch=DisneyJrLASD&numero=1455
+#EXTINF:-1, Disney XD (4860)
+http://167.114.175.32/live/ST.php?n_ch=DisneyXDUS&numero=4860
+
+#EXTINF:-1, Disney XD Norte (499)
+http://167.114.175.32/live/ST.php?n_ch=DisneyXDSD&numero=499
+#EXTINF:-1, Nick Jr (4872)
+http://167.114.175.32/live/ST.php?n_ch=NickJrUS&numero=4872
+#EXTINF:-1, Nickelodeon East (1701)
+http://167.114.175.32/live/ST.php?n_ch=NickelodeonEastUS&numero=1701
+#EXTINF:-1, Nick Jr  (417)
+http://167.114.175.32/live/ST.php?n_ch=NickJrLASD&numero=417
+
+#EXTINF:-1, Nickelodeon  (1423)
+http://167.114.175.32/live/ST.php?n_ch=NickelodeonLA&numero=1423
+
+#EXTINF:-1, SKY Disney (523)
+http://167.114.175.32/live/ST.php?n_ch=movdisney.stream&numero=523
+
+#EXTINF:-1, Teen Nick (4877)
+http://167.114.175.32/live/ST.php?n_ch=TeenNickUS&numero=4877
+#EXTINF:-1, StarMax (4895)
+http://167.114.175.32/live/ST.php?n_ch=5StarMaxUS&numero=4895
+#EXTINF:-1, ActionMax East (2337)
+http://167.114.175.32/live/ST.php?n_ch=ActionMaxEastUS&numero=2337
+
+#EXTINF:-1, BBC America (184)
+http://167.114.175.32/live/ST.php?n_ch=BBCAmericaHD&numero=184
+#EXTINF:-1, Cinemax East (953)
+http://167.114.175.32/live/ST.php?n_ch=CinemaxEastUS&numero=953
+
+#EXTINF:-1, Cinemax West (955)
+http://167.114.175.32/live/ST.php?n_ch=CinemaxWestUS&numero=955
+
+#EXTINF:-1, Encore Action East (4897)
+http://167.114.175.32/live/ST.php?n_ch=EncoreActionEastUS&numero=4897
+
+#EXTINF:-1, Encore East (222)
+http://167.114.175.32/live/ST.php?n_ch=EncoreEastHD&numero=222
+#EXTINF:-1, Film 4 (497)
+http://167.114.175.32/live/ST.php?n_ch=film4.stream&numero=497
+#EXTINF:-1, HBO 2 East (216)
+http://167.114.175.32/live/ST.php?n_ch=HBO2EastHD&numero=216
+#EXTINF:-1, HBO 2 West (1095)
+http://167.114.175.32/live/ST.php?n_ch=HBO2WestUS&numero=1095
+#EXTINF:-1, HBO Comedy East (1001)
+http://167.114.175.32/live/ST.php?n_ch=HBOComedyEastUS&numero=1001
+
+#EXTINF:-1, HBO East (4765)
+http://167.114.175.32/live/ST.php?n_ch=HBOEastUS&numero=4765
+#EXTINF:-1, HBO Family East (4415)
+http://167.114.175.32/live/ST.php?n_ch=HBOFamilyEastUS&numero=4415
+#EXTINF:-1, HBO Signature East (959)
+http://167.114.175.32/live/ST.php?n_ch=HBOSignatureEastUS&numero=959
+
+#EXTINF:-1, HBO West (4767)
+http://167.114.175.32/live/ST.php?n_ch=HBOWestUS&numero=4767
+
+#EXTINF:-1, HBO Zone
+http://167.114.175.32/live/ST.php?n_ch=HBOZoneUS&numero=308
+
+#EXTINF:-1, Hallmark Movie Channel (1005)
+http://167.114.175.32/live/ST.php?n_ch=HallmarkMovieChannelUS&numero=1005
+#EXTINF:-1, Movies 24 (549)
+http://167.114.175.32/live/ST.php?n_ch=movies24.stream&numero=549
+#EXTINF:-1, SKY Action & Adventure (527)
+http://167.114.175.32/live/ST.php?n_ch=movaction.stream&numero=527
+
+#EXTINF:-1, SKY Comedy (529)
+http://167.114.175.32/live/ST.php?n_ch=movcomedy.stream&numero=529
+
+#EXTINF:-1, SKY Crime & Thriller (531)
+http://167.114.175.32/live/ST.php?n_ch=movthriller.stream&numero=531
+
+#EXTINF:-1, SKY Family (525)
+http://167.114.175.32/live/ST.php?n_ch=movfamily.stream&numero=525
+
+#EXTINF:-1, SKY Modern Greats (3301)
+http://167.114.175.32/live/ST.php?n_ch=mgreats.stream&numero=3301
+
+#EXTINF:-1, SKY Movies Drama (545)
+http://167.114.175.32/live/ST.php?n_ch=movdrama.stream&numero=545
+
+#EXTINF:-1, SKY Premiere (521)
+http://167.114.175.32/live/ST.php?n_ch=movpremier.stream&numero=521
+#EXTINF:-1, SKY Scifi & Horror (533)
+http://167.114.175.32/live/ST.php?n_ch=movscifi.stream&numero=533
+
+#EXTINF:-1, SKY Select" group-title="Cinema",SKY Select (535)
+http://167.114.175.32/live/ST.php?n_ch=movselect.stream&numero=535
+
+#EXTINF:-1, Showtime 2 East (971)
+http://167.114.175.32/live/ST.php?n_ch=Showtime2EastUS&numero=971
+
+#EXTINF:-1, Showtime Beyond East (975)
+http://167.114.175.32/live/ST.php?n_ch=ShowtimeBeyondEastUS&numero=975
+
+#EXTINF:-1, Showtime Extreme East (973)
+http://167.114.175.32/live/ST.php?n_ch=ShowtimeExtremeEastUS&numero=973
+#EXTINF:-1, Showtime Next (1097)
+http://167.114.175.32/live/ST.php?n_ch=ShowtimeNextUS&numero=1097
+
+#EXTINF:-1, Showtime Showcase East (1085)
+http://167.114.175.32/live/ST.php?n_ch=ShowtimeShowcaseEastUS&numero=1085
+
+#EXTINF:-1, Showtime West (969)
+http://167.114.175.32/live/ST.php?n_ch=ShowtimeWestUS&numero=969
+
+#EXTINF:-1, ony Movie Channel USA (1101)
+http://167.114.175.32/live/ST.php?n_ch=SonyMovieChannelUS&numero=1101
+
+#EXTINF:-1, Starz Cinema East (985)
+http://167.114.175.32/live/ST.php?n_ch=StarzCinemaEastUS&numero=985
+
+#EXTINF:-1, Starz Comedy East (987)
+http://167.114.175.32/live/ST.php?n_ch=StarzComedyEastUS&numero=987
+
+#EXTINF:-1, Starz East (224)
+http://167.114.175.32/live/ST.php?n_ch=StarzEastHD&numero=224
+
+#EXTINF:-1, Starz Edge East (983)
+http://167.114.175.32/live/ST.php?n_ch=StarzEdgeEastUS&numero=983
+
+#EXTINF:-1, Starz In Black East (989)
+http://167.114.175.32/live/ST.php?n_ch=StarzInBlackEastUS&numero=989
+
+#EXTINF:-1, Starz Kids & Family East (1099)
+http://167.114.175.32/live/ST.php?n_ch=StarzKidsFamilyEastUS&numero=1099
+
+#EXTINF:-1,Starz West (981)
+http://167.114.175.32/live/ST.php?n_ch=StarzWestUS&numero=981
+#EXTINF:-1, TCM US (1105)
+http://167.114.175.32/live/ST.php?n_ch=TCMUS&numero=1105
+
+#EXTINF:-1, The Movie Channel East (220)
+http://167.114.175.32/live/ST.php?n_ch=TheMovieChannelEastHD&numero=220
+
+#EXTINF:-1, The Movie Channel Xtra East (1009)
+http://167.114.175.32/live/ST.php?n_ch=TheMovieChannelXtraEastUS&numero=1009
+
+#EXTINF:-1, ThrillerMax East (2533)
+http://167.114.175.32/live/ST.php?n_ch=ThrillerMaxEasUS&numero=2533
+
+#EXTINF:-1, True Movies 1 (2453)
+http://167.114.175.32/live/ST.php?n_ch=true1.stream&numero=2453
+
+#EXTINF:-1, True Movies 2 (2455)
+http://167.114.175.32/live/ST.php?n_ch=true2.stream&numero=2455
+
+#EXTINF:-1, USA Network East (2579)
+http://167.114.175.32/live/ST.php?n_ch=USANetworkEastHD&numero=2579
+#EXTINF:-1, Good Food (2587)
+http://167.114.175.32/live/ST.php?n_ch=goodfood.stream&numero=2587
+#EXTINF:-1, Animal Planet (4845)
+http://167.114.175.32/live/ST.php?n_ch=AnimalPlanetUS&numero=4845
+
+#EXTINF:-1, Nat Geo Wild US (4830)
+http://167.114.175.32/live/ST.php?n_ch=NatGeoWildUS&numero=4830
+#EXTINF:-1, Travel Channel UK (4422)
+http://167.114.175.32/live/ST.php?n_ch=travel.stream&numero=4422
+
+#EXTINF:-1, A&E East (995)
+http://167.114.175.32/live/ST.php?n_ch=AEEastUS&numero=995
+
+#EXTINF:-1, ABC Family (4855)
+http://167.114.175.32/live/ST.php?n_ch=ABCFamilyUS&numero=4855
+
+#EXTINF:-1, AMC East (5629)
+http://167.114.175.32/live/ST.php?n_ch=AMCEastUS&numero=5629
+#EXTINF:-1, Bravo East (4890)
+http://167.114.175.32/live/ST.php?n_ch=BravoEastUS&numero=4890
+
+#EXTINF:-1, CBS Action (2433)
+http://167.114.175.32/live/ST.php?n_ch=cbsaction.stream&numero=2433
+
+#EXTINF:-1, CBS Drama (2431)
+http://167.114.175.32/live/ST.php?n_ch=cbsdrama.stream&numero=2431
+
+#EXTINF:-1, CBS Reality (2435)
+http://167.114.175.32/live/ST.php?n_ch=cbsreality.stream&numero=2435
+
+
+
+#EXTINF:-1, Comedy Central East (2575)
+http://167.114.175.32/live/ST.php?n_ch=ComedyCentralHD&numero=2575
+#EXTINF:-1, Discovery Family (4867)
+http://167.114.175.32/live/ST.php?n_ch=DiscoveryFamilyUS&numero=4867
+
+#EXTINF:-1, E! us (2341)
+http://167.114.175.32/live/ST.php?n_ch=eEntUS&numero=2341
+#EXTINF:-1,Eden (513)
+http://167.114.175.32/live/ST.php?n_ch=Eden.stream&numero=513
+#EXTINF:-1, FX East (997)
+http://167.114.175.32/live/ST.php?n_ch=FXEastUS&numero=997
+
+#EXTINF:-1, FXX East (2339)
+http://167.114.175.32/live/ST.php?n_ch=FXXUS&numero=2339
+#EXTINF:-1, IFC East (164)
+http://167.114.175.32/live/ST.php?n_ch=IFCHD&numero=164
+
+#EXTINF:-1, ION Television East (4902)
+http://167.114.175.32/live/ST.php?n_ch=IONTVEastUS&numero=4902
+#EXTINF:-1, ITV B (4737)
+http://167.114.175.32/live/ST.php?n_ch=itvbe.stream&numero=4737
+
+#EXTINF:-1, ITV Encore (501)
+http://167.114.175.32/live/ST.php?n_ch=itvencore.stream&numero=501
+
+#EXTINF:-1, Lifetime East (2581)
+http://167.114.175.32/live/ST.php?n_ch=LifetimeEastUS&numero=2581
+#EXTINF:-1, Ovation (2349)
+http://167.114.175.32/live/ST.php?n_ch=OvationUS&numero=2349
+
+#EXTINF:-1, Oxygen (180)
+http://167.114.175.32/live/ST.php?n_ch=OxygenSD&numero=180
+
+#EXTINF:-1, Palladia (991)
+http://167.114.175.32/live/ST.php?n_ch=PalladiaHDUS&numero=991
+#EXTINF:-1, Really (505)
+http://167.114.175.32/live/ST.php?n_ch=Really.stream&numero=505
+
+#EXTINF:-1, Spike TV (4410)
+http://167.114.175.32/live/ST.php?n_ch=SpikeUS&numero=4410
+#EXTINF:-1, TBS East (967)
+http://167.114.175.32/live/ST.php?n_ch=TBSEastUS&numero=967
+
+#EXTINF:-1, TLC (503)
+http://167.114.175.32/live/ST.php?n_ch=TLC.stream&numero=503
+#EXTINF:-1, TNT Drama (977)
+http://167.114.175.32/live/ST.php?n_ch=TNTDramaUS&numero=977
+#EXTINF:-1, WE TV (182)
+http://167.114.175.32/live/ST.php?n_ch=WETVSD&numero=182
+
+#EXTINF:-1, WGN America (1771)
+http://167.114.175.32/live/ST.php?n_ch=WGNAmericaUS&numero=1771
+
+
+
+
+
+#EXTINF:-1, VENUS (285)
+http://167.114.175.32/live/ST.php?n_ch=VENUSSD&numero=285
+#EXTINF:-1,Real (1021)
+http://nenetony.esy.es/stk.php?canalRealLA&numero=1021
+#EXTINF:-1,Juicy (1023)
+http://167.114.175.32/live/ST.php?n_ch=JuicyLA&numero=1023
+#EXTINF:-1,XTSY (1463)
+http://167.114.175.32/live/ST.php?n_ch=XTSYLA&numero=1463
+#EXTINF:-1, hustler (1707)
+http://167.114.175.32/live/ST.php?n_ch=hustlerLA&numero=1707
+#EXTINF:-1, Sextreme (287)
+http://167.114.175.32/live/ST.php?n_ch=SextremeSD&numero=287
+#EXTINF:-1, Manhandle (1027)
+http://167.114.175.32/live/ST.php?n_ch=manhandleLA&numero=1027
+#EXTINF:-1, Secrets (1025)
+http://167.114.175.32/live/ST.php?n_ch=SecretsLA&numero=1025
