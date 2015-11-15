@@ -1,251 +1,633 @@
 #EXTM3U
 
-#EXTINF:-1,001-AZMUNDO
-http://foro:forocable@198.50.239.103/channel_001.asf/playlist.m3u8
-#EXTINF:-1,002-UNI MAS
-http://foro:forocable@198.50.239.103/channel_002.asf/playlist.m3u8
-#EXTINF:-1,003-PASIONES
-http://foro:forocable@198.50.239.103/channel_003.asf/playlist.m3u8
-#EXTINF:-1,004-RCN NOVELAS
-http://foro:forocable@198.50.239.103/channel_004.asf/playlist.m3u8
-#EXTINF:-1,005-DISCOVERY CHANNEL
-http://foro:forocable@198.50.239.103/channel_005.asf/playlist.m3u8
-#EXTINF:-1,006-DISCOVERY THEATER
-http://foro:forocable@198.50.239.103/channel_006.asf/playlist.m3u8
-#EXTINF:-1,007-DISCOVERY WORLD
-http://foro:forocable@198.50.239.103/channel_007.asf/playlist.m3u8
-#EXTINF:-1,008-DISCOVERY HOME&HEALTH
-http://foro:forocable@198.50.239.103/channel_008.asf/playlist.m3u8
-#EXTINF:-1,009-H2
-http://foro:forocable@198.50.239.103/channel_009.asf/playlist.m3u8
-#EXTINF:-1,010-HISTORY CHANNEL
-http://foro:forocable@198.50.239.103/channel_010.asf/playlist.m3u8
-#EXTINF:-1,011-NATGEO
-http://foro:forocable@198.50.239.103/channel_011.asf/playlist.m3u8
-#EXTINF:-1,012-NATGEO WILD
-http://foro:forocable@198.50.239.103/channel_012.asf/playlist.m3u8
-#EXTINF:-1,013-ANIMAL PLANET
-http://foro:forocable@198.50.239.103/channel_013.asf/playlist.m3u8
-#EXTINF:-1,014-ESPN
-http://foro:forocable@198.50.239.103/channel_014.asf/playlist.m3u8
-#EXTINF:-1,015-ESPN 2
-http://foro:forocable@198.50.239.103/channel_015.asf/playlist.m3u8
-#EXTINF:-1,016-ESPN 3
-http://foro:forocable@198.50.239.103/channel_016.asf/playlist.m3u8
-#EXTINF:-1,017-FOXSPORTS
-http://foro:forocable@198.50.239.103/channel_017.asf/playlist.m3u8
-#EXTINF:-1,018-FOXSPORTS 2
-http://foro:forocable@198.50.239.103/channel_018.asf/playlist.m3u8
-#EXTINF:-1,019-BEIN SPORTS
-http://foro:forocable@198.50.239.103/channel_019.asf/playlist.m3u8
-#EXTINF:-1,020-UFC NETWORK
-http://foro:forocable@198.50.239.103/channel_020.asf/playlist.m3u8
-#EXTINF:-1,021-PLANETA FUTBOL
-http://foro:forocable@198.50.239.103/channel_021.asf/playlist.m3u8
-#EXTINF:-1,022-TDN MEXICO
-http://foro:forocable@198.50.239.103/channel_022.asf/playlist.m3u8
-#EXTINF:-1,023-DISNEY CHANNEL
-http://foro:forocable@198.50.239.103/channel_023.asf/playlist.m3u8
-#EXTINF:-1,024-DISNEY XD
-http://foro:forocable@198.50.239.103/channel_024.asf/playlist.m3u8
-#EXTINF:-1,025-DISNEY JUNIOR
-http://foro:forocable@198.50.239.103/channel_025.asf/playlist.m3u8
-#EXTINF:-1,026-NICKELODEON
-http://foro:forocable@198.50.239.103/channel_026.asf/playlist.m3u8
-#EXTINF:-1,027-NICK JUNIOR
-http://foro:forocable@198.50.239.103/channel_027.asf/playlist.m3u8
-#EXTINF:-1,028-DISCOVERY KIDS
-http://foro:forocable@198.50.239.103/channel_028.asf/playlist.m3u8
-#EXTINF:-1,029-CARTOON NETWORK
-http://foro:forocable@198.50.239.103/channel_029.asf/playlist.m3u8
-#EXTINF:-1,030-BOOMERANG
-http://foro:forocable@198.50.239.103/channel_030.asf/playlist.m3u8
-#EXTINF:-1,031-TOONCAST
-http://foro:forocable@198.50.239.103/channel_031.asf/playlist.m3u8
-#EXTINF:-1,032-TEVEUNAM
-http://foro:forocable@198.50.239.103/channel_032.asf/playlist.m3u8
-#EXTINF:-1,033-BABY TV
-http://foro:forocable@198.50.239.103/channel_033.asf/playlist.m3u8
-#EXTINF:-1,034-SONY
-http://foro:forocable@198.50.239.103/channel_034.asf/playlist.m3u8
-#EXTINF:-1,035-BBC ENTERTAINMET
-http://foro:forocable@198.50.239.103/channel_035.asf/playlist.m3u8
-#EXTINF:-1,036-UNICABLE
-http://foro:forocable@198.50.239.103/channel_036.asf/playlist.m3u8
-#EXTINF:-1,037-WARNER
-http://foro:forocable@198.50.239.103/channel_037.asf/playlist.m3u8
-#EXTINF:-1,038-E! ENTERTAIMENT
-http://foro:forocable@198.50.239.103/channel_038.asf/playlist.m3u8
-#EXTINF:-1,039-FX
-http://foro:forocable@198.50.239.103/channel_039.asf/playlist.m3u8
-#EXTINF:-1,040-UNIVERSAL
-http://foro:forocable@198.50.239.103/channel_040.asf/playlist.m3u8
-#EXTINF:-1,041-FOX HD
-http://foro:forocable@198.50.239.103/channel_041.asf/playlist.m3u8
-#EXTINF:-1,042-SYFY
-http://foro:forocable@198.50.239.103/channel_042.asf/playlist.m3u8
-#EXTINF:-1,043-A&E
-http://foro:forocable@198.50.239.103/channel_043.asf/playlist.m3u8
-#EXTINF:-1,044-ID
-http://foro:forocable@198.50.239.103/channel_044.asf/playlist.m3u8
-#EXTINF:-1,045-TLC
-http://foro:forocable@198.50.239.103/channel_045.asf/playlist.m3u8
-#EXTINF:-1,046-AXN
-http://foro:forocable@198.50.239.103/channel_046.asf/playlist.m3u8
-#EXTINF:-1,047-EUROCHANNEL
-http://foro:forocable@198.50.239.103/channel_047.asf/playlist.m3u8
-#EXTINF:-1,048-MUNDO FOX
-http://foro:forocable@198.50.239.103/channel_048.asf/playlist.m3u8
-#EXTINF:-1,049-TNT SERIES
-http://foro:forocable@198.50.239.103/channel_049.asf/playlist.m3u8
-#EXTINF:-1,050-EL GOURMET
-http://foro:forocable@198.50.239.103/channel_050.asf/playlist.m3u8
-#EXTINF:-1,051-CASA CLUB
-http://foro:forocable@198.50.239.103/channel_051.asf/playlist.m3u8
-#EXTINF:-1,052-TBS
-http://foro:forocable@198.50.239.103/channel_052.asf/playlist.m3u8
-#EXTINF:-1,053-GLITZ
-http://foro:forocable@198.50.239.103/channel_053.asf/playlist.m3u8
-#EXTINF:-1,054-FOX LIFE
-http://foro:forocable@198.50.239.103/channel_054.asf/playlist.m3u8
-#EXTINF:-1,055-DISTRITO COMEDIA
-http://foro:forocable@198.50.239.103/channel_055.asf/playlist.m3u8
-#EXTINF:-1,056-COMEDY CENTRAL
-http://foro:forocable@198.50.239.103/channel_056.asf/playlist.m3u8
-#EXTINF:-1,057-TRUE TV
-http://foro:forocable@198.50.239.103/channel_057.asf/playlist.m3u8
-#EXTINF:-1,058-EFEKTO TV
-http://foro:forocable@198.50.239.103/channel_058.asf/playlist.m3u8
-#EXTINF:-1,059-MULTIMEDIOS
-http://foro:forocable@198.50.239.103/channel_059.asf/playlist.m3u8
-#EXTINF:-1,060-LIFETIME
-http://foro:forocable@198.50.239.103/channel_060.asf/playlist.m3u8
-#EXTINF:-1,061-CNN EN ESPAÑOL
-http://foro:forocable@198.50.239.103/channel_061.asf/playlist.m3u8
-#EXTINF:-1,062-EL FINANCIERO
-http://foro:forocable@198.50.239.103/channel_062.asf/playlist.m3u8
-#EXTINF:-1,063-NTN 24
-http://foro:forocable@198.50.239.103/channel_063.asf/playlist.m3u8
-#EXTINF:-1,064-MTV
-http://foro:forocable@198.50.239.103/channel_064.asf/playlist.m3u8
-#EXTINF:-1,065-MTV HITS
-http://foro:forocable@198.50.239.103/channel_065.asf/playlist.m3u8
-#EXTINF:-1,066-VH1 CLASSIC
-http://foro:forocable@198.50.239.103/channel_066.asf/playlist.m3u8
-#EXTINF:-1,067-VH1
-http://foro:forocable@198.50.239.103/channel_067.asf/playlist.m3u8
-#EXTINF:-1,068-K MUSIC
-http://foro:forocable@198.50.239.103/channel_068.asf/playlist.m3u8
-#EXTINF:-1,069-CONCERT CHANNEL
-http://foro:forocable@198.50.239.103/channel_069.asf/playlist.m3u8
-#EXTINF:-1,070-HTV
-http://foro:forocable@198.50.239.103/channel_070.asf/playlist.m3u8
-#EXTINF:-1,071-BANDAMAX
-http://foro:forocable@198.50.239.103/channel_071.asf/playlist.m3u8
-#EXTINF:-1,072-REGIONAL MUSIC
-http://foro:forocable@198.50.239.103/channel_072.asf/playlist.m3u8
-#EXTINF:-1,073-CINE DINAMITA
-http://foro:forocable@198.50.239.103/channel_073.asf/playlist.m3u8
-#EXTINF:-1,074-MULTI PREMIER
-http://foro:forocable@198.50.239.103/channel_074.asf/playlist.m3u8
-#EXTINF:-1,075-CINE LATINO
-http://foro:forocable@198.50.239.103/channel_075.asf/playlist.m3u8
-#EXTINF:-1,076-NO FUNCIONA
-http://foro:forocable@198.50.239.103/channel_076.asf/playlist.m3u8
-#EXTINF:-1,077-GOLDEN EDGE
-http://foro:forocable@198.50.239.103/channel_077.asf/playlist.m3u8
-#EXTINF:-1,078-PARAMOUNT
-http://foro:forocable@198.50.239.103/channel_078.asf/playlist.m3u8
-#EXTINF:-1,079-SUNDANCE
-http://foro:forocable@198.50.239.103/channel_079.asf/playlist.m3u8
-#EXTINF:-1,080-TNT
-http://foro:forocable@198.50.239.103/channel_080.asf/playlist.m3u8
-#EXTINF:-1,081-CINECANAL
-http://foro:forocable@198.50.239.103/channel_081.asf/playlist.m3u8
-#EXTINF:-1,082-CINEMAX
-http://foro:forocable@198.50.239.103/channel_082.asf/playlist.m3u8
-#EXTINF:-1,083-SPACE
-http://foro:forocable@198.50.239.103/channel_083.asf/playlist.m3u8
-#EXTINF:-1,084-AMC
-http://foro:forocable@198.50.239.103/channel_084.asf/playlist.m3u8
-#EXTINF:-1,085-STUDIO UNIVERSAL
-http://foro:forocable@198.50.239.103/channel_085.asf/playlist.m3u8
-#EXTINF:-1,086-TCM
-http://foro:forocable@198.50.239.103/channel_086.asf/playlist.m3u8
-#EXTINF:-1,087-ISAT
-http://foro:forocable@198.50.239.103/channel_087.asf/playlist.m3u8
-#EXTINF:-1,088-EUROPA EUROPA
-http://foro:forocable@198.50.239.103/channel_088.asf/playlist.m3u8
-#EXTINF:-1,089-FILM ARTS
-http://foro:forocable@198.50.239.103/channel_089.asf/playlist.m3u8
-#EXTINF:-1,090-FILM ZONE
-http://foro:forocable@198.50.239.103/channel_090.asf/playlist.m3u8
-#EXTINF:-1,091-FOX1
-http://foro:forocable@198.50.239.103/channel_091.asf/playlist.m3u8
-#EXTINF:-1,092-FOX1 OESTE
-http://foro:forocable@198.50.239.103/channel_092.asf/playlist.m3u8
-#EXTINF:-1,093-FOX FAMILY
-http://foro:forocable@198.50.239.103/channel_093.asf/playlist.m3u8
-#EXTINF:-1,094-FOX COMEDY
-http://foro:forocable@198.50.239.103/channel_094.asf/playlist.m3u8
-#EXTINF:-1,095-FOX CINEMA
-http://foro:forocable@198.50.239.103/channel_095.asf/playlist.m3u8
-#EXTINF:-1,096-FOX ACTION
-http://foro:forocable@198.50.239.103/channel_096.asf/playlist.m3u8
-#EXTINF:-1,097-FOX ACTION OESTE
-http://foro:forocable@198.50.239.103/channel_097.asf/playlist.m3u8
-#EXTINF:-1,098-FOX MOVIES
-http://foro:forocable@198.50.239.103/channel_098.asf/playlist.m3u8
-#EXTINF:-1,099-FOX CLASSICS
-http://foro:forocable@198.50.239.103/channel_099.asf/playlist.m3u8
-#EXTINF:-1,100-HBO
-http://foro:forocable@198.50.239.103/channel_100.asf/playlist.m3u8
-#EXTINF:-1,101-HBO2
-http://foro:forocable@198.50.239.103/channel_101.asf/playlist.m3u8
-#EXTINF:-1,102-HBO PLUS
-http://foro:forocable@198.50.239.103/channel_102.asf/playlist.m3u8
-#EXTINF:-1,103-HBO PLUS 2
-http://foro:forocable@198.50.239.103/channel_103.asf/playlist.m3u8
-#EXTINF:-1,104-HBO FAMILY
-http://foro:forocable@198.50.239.103/channel_104.asf/playlist.m3u8
-#EXTINF:-1,105-HBO SIGNATURE
-http://foro:forocable@198.50.239.103/channel_105.asf/playlist.m3u8
-#EXTINF:-1,106-MAX UP
-http://foro:forocable@198.50.239.103/channel_106.asf/playlist.m3u8
-#EXTINF:-1,107-MAX PRIME
-http://foro:forocable@198.50.239.103/channel_107.asf/playlist.m3u8
-#EXTINF:-1,108-MAX PRIME 2
-http://foro:forocable@198.50.239.103/channel_108.asf/playlist.m3u8
-#EXTINF:-1,109-NO FUNCIONA
-http://foro:forocable@198.50.239.103/channel_109.asf/playlist.m3u8
-#EXTINF:-1,110-GOLDEN PREMIER 1
-http://foro:forocable@198.50.239.103/channel_110.asf/playlist.m3u8
-#EXTINF:-1,111-GOLDEN PREMIER 2
-http://foro:forocable@198.50.239.103/channel_111.asf/playlist.m3u8
-#EXTINF:-1,112-NO FUNCIONA
-http://foro:forocable@198.50.239.103/channel_112.asf/playlist.m3u8
-#EXTINF:-1,113-SEXTREME
-http://foro:forocable@198.50.239.103/channel_113.asf/playlist.m3u8
-#EXTINF:-1,114-HUSTLER
-http://foro:forocable@198.50.239.103/channel_114.asf/playlist.m3u8
-#EXTINF:-1,115-NBC UNIVERSO
-http://foro:forocable@198.50.239.103/channel_115.asf/playlist.m3u8
-#EXTINF:-1,116-TELEMUNDO
-http://foro:forocable@198.50.239.103/channel_116.asf/playlist.m3u8
-#EXTINF:-1,117-TVE
-http://foro:forocable@198.50.239.103/channel_117.asf/playlist.m3u8
-#EXTINF:-1,118-GALA TV
-http://foro:forocable@198.50.239.103/channel_118.asf/playlist.m3u8
-#EXTINF:-1,119-T1 NOVELAS
-http://foro:forocable@198.50.239.103/channel_119.asf/playlist.m3u8
-#EXTINF:-1,120-CARACOL
-http://foro:forocable@198.50.239.103/channel_120.asf/playlist.m3u8
-#EXTINF:-1,121-GOLDEN MP
-http://foro:forocable@198.50.239.103/channel_121.asf/playlist.m3u8
-#EXTINF:-1,122-UNIVISION TDN
-http://foro:forocable@198.50.239.103/channel_122.asf/playlist.m3u8
-#EXTINF:-1,123-FOX SPORTS 3
-http://foro:forocable@198.50.239.103/channel_123.asf/playlist.m3u8
-#EXTINF:-1,124-F1
-http://foro:forocable@198.50.239.103/channel_124.asf/playlist.m3u8
 
+
+
+#EXTINF:-1, canal de las estrellas
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=EstrellasLA&cm=6354&f=.m3u8
+
+#EXTINF:-1, Unicable
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=UnicableLA&cm=3804&f=.m3u8
+
+
+#EXTINF:-1, AZMundo
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=AzMundoLA&cm=1999&f=.m3u8
+#EXTINF:-1, Galatv
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=GalaTVLA&cm=4555&f=.m3u8
+#EXTINF:-1, TElemundo internacional
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TelemundoInternacional&cm=419&f=.m3u8
+#EXTINF:-1, EstrellaTVLA
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=EstrellaTVLA&cm=7112&f=.m3u8
+
+
+
+
+#EXTINF:-1, Baby TV (317)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=BabyTVLASD&cm=317&f=.m3u8
+#EXTINF:-1, Boomerang  (2507)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=BoomerangLA&cm=2507&f=.m3u8
+
+
+#EXTINF:-1,CBeebies  (1029)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=CbeebiesLA&cm=1029&f=.m3u8
+#EXTINF:-1, Cartoon Network (421)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=CartoonNetworkLASD&cm=421&f=.m3u8
+
+#EXTINF:-1, Discovery Kids  (309)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DiscoveryKidsSD&cm=309&f=.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1, Tooncast (443)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TooncastSD&cm=443&f=.m3u8
+
+
+
+#EXTINF:-1, AMC (485)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=AMCLASD&cm=485&f=.m3u8
+#EXTINF:-1, Warner Channel  (2499)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=WarnerLA&cm=2499&f=.m3u8
+#EXTINF:-1, Sony
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=SonyLA&cm=2501&f=.m3u8
+
+
+
+#EXTINF:-1, Cine Dinamita (3465)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=CineDinamitaLA&cm=3465&f=.m3u8
+#EXTINF:-1, Multipremier
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=MultiPremierLA&cm=3293&f=.m3u8
+#EXTINF:-1, CineCanal (2495)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=CineCanalLA&cm=2495&f=.m3u8
+
+#EXTINF:-1, CineLatino (477)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=CineLatinoSD&cm=477&f=.m3u8
+
+
+
+#EXTINF:-1, Paramount channel
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ParamountChannelLatinAmericaHD&cm=260&f=.m3u8
+
+
+
+#EXTINF:-1, Cinemax (343)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=CinemaxLASD&cm=343&f=.m3u8
+
+
+#EXTINF:-1, Europa Europa (1597)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=EuropaEuropaLA&cm=1597&f=.m3u8
+
+#EXTINF:-1, Eurochannel
+
+#EXTINF:-1, Film & Arts  (1599)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=EurochannelLA&cm=4912&f=.m3u8
+
+
+
+#EXTINF:-1, Film Zone (1055)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FilmZoneLASD&cm=1055&f=.m3u8
+
+
+
+#EXTINF:-1, Fox 1 (433)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FOX1LASD&cm=433&f=.m3u8
+
+#EXTINF:-1, Fox 1 Oeste (439)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FOX1OesteLASD&cm=439&f=.m3u8
+
+#EXTINF:-1, Fox Action (435)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FOXACTIONLASD&cm=435&f=.m3u8
+#EXTINF:-1, Fox Action Oeste (437)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FOXActionOesteLASD&cm=437&f=.m3u8
+
+#EXTINF:-1, Fox Cinema (457)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FoxCinemaSD&cm=457&f=.m3u8
+
+#EXTINF:-1, Fox Classics  (465)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FOXClassicsLASD&cm=465&f=.m3u8
+
+#EXTINF:-1, Fox Comedy (461)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FOXComedyLASD&cm=461&f=.m3u8
+
+#EXTINF:-1, Fox Family (467)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FOXFamilyLASD&cm=467&f=.m3u8
+
+#EXTINF:-1, Fox Movies  (463)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FOXMoviesLASD&cm=463&f=.m3u8
+#EXTINF:-1, Golden (264)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=GoldenHD&cm=463&f=.m3u8
+
+#EXTINF:-1, Golden Edge (1465)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=GoldenEdgeLA&cm=1465&f=.m3u8
+
+#EXTINF:-1, Golden Multiplex (1035)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=GoldenMPLXLA&cm=1035&f=.m3u8
+
+#EXTINF:-1, Golden Premier (4777)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=GoldenPremier1LA&cm=4777&f=.m3u8
+#EXTINF:-1, Golden Premier 2 (4772)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=GoldenPremiere2LA&cm=4772&f=.m3u8
+
+
+#EXTINF:-1, HBO 2  (365)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBO2SD&cm=365&f=.m3u8
+#EXTINF:-1, HBO Family  (449)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBOFamilyLASD&cm=449&f=.m3u8
+
+#EXTINF:-1, HBO  (385)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBOLASD&cm=385&f=.m3u8
+
+#EXTINF:-1, HBO Plus Este (453)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBOPlusLASD&cm=453&f=.m3u8
+
+#EXTINF:-1, HBO Plus Oeste (369)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBOPus2LASD&cm=369&f=.m3u8
+
+
+#EXTINF:-1, HBO Signature  (451)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBOSignatureLASD&cm=451&f=.m3u8
+
+
+#EXTINF:-1, SPACE (2489)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=SpaceLA&cm=2489&f=.m3u8
+
+#EXTINF:-1, I-Sat (1703)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ISATLA&cm=1703&f=.m3u8
+
+#EXTINF:-1, MAX (381)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=MAXLASD&cm=381&f=.m3u8
+
+#EXTINF:-1, Max Prime Este (377)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=MaxPrimeLASD&cm=377&f=.m3u8
+
+#EXTINF:-1, Max Prime Oeste (379)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=MaxPrime2LASD&cm=379&f=.m3u8
+#EXTINF:-1, Max UP  (469)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=MaxUPSD&cm=469&f=.m3u8
+
+
+
+
+
+#EXTINF:-1, Studio Universal (345)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=StudioUniversalSD&cm=345&f=.m3u8
+
+#EXTINF:-1, Sundance Channel  (1041)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=SundanceLA&cm=1041&f=.m3u8
+
+#EXTINF:-1, TCM  (481)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TCMSD&cm=481&f=.m3u8
+
+
+#EXTINF:-1, Universal Channel  (387)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=UniversalLASD&cm=387&f=.m3u8
+
+
+
+
+#EXTINF:-1, Elgourmet (1033)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ElgourmetLA&cm=1033&f=.m3u8
+
+#EXTINF:-1, Casaclubtv
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=CasaClubLA&cm=1475&f=.m3u8
+#EXTINF:-1, CNN en español
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=CNNLASD&cm=1855&f=.m3u8
+
+
+
+
+#EXTINF:-1, Animal Planet
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=AnimalPlanetLASD&cm=441&f=.m3u8
+
+#EXTINF:-1, Nat Geo Wild  (254)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=NatGeoWildLAHD&cm=254&f=.m3u8
+
+#EXTINF:-1, Discovery Channel
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DiscoveryChLA&cm=3531&f=.m3u8
+
+#EXTINF:-1, Discovery World
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DiscoveryWorldLA&cm=3529&f=.m3u8
+#EXTINF:-1, Discovery Theater
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DiscoveryenEspanolHD&cm=3798&f=.m3u8
+
+#EXTINF:-1, History
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HistoryLA&cm=3704&f=.m3u8
+#EXTINF:-1,  H2
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=H2LASD&cm=297&f=.m3u8
+
+#EXTINF:-1, NatGeo
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=NatGeoLASD&cm=395&f=.m3u8
+
+
+#EXTINF:-1, A&E  (258)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=AELatinoamericaHD&cm=258&f=.m3u8
+
+
+#EXTINF:-1, AXN  (2493)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=AXNLA&cm=2493&f=.m3u8
+
+
+
+#EXTINF:-1, BBC Entertainment  (1407)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=BBCEntLA&cm=1407&f=.m3u8
+
+
+
+#EXTINF:-1, Comedy Central  (1037)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ComedyCentralLA&cm=1037&f=.m3u8
+
+#EXTINF:-1, DW 
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8&f=.m3u8
+
+
+#EXTINF:-1, Discovery Home & Health  (252)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DiscoveryHomeHealthLAHD&cm=252&f=.m3u8
+
+#EXTINF:-1, Distrito Comedia (1491)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DistritoComediaLA&cm=1491&f=.m3u8
+
+
+
+#EXTINF:-1, E!  (427)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=EentertaimentSD&cm=427&f=.m3u8
+
+
+
+#EXTINF:-1, FOX Life (425)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FoxLifeSD&cm=425&f=.m3u8
+
+#EXTINF:-1, FX Latino (431)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FXLASD&cm=431&f=.m3u8
+
+
+#EXTINF:-1, Fox  (3947)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FOXHDLA&cm=3947&f=.m3u8
+
+#EXTINF:-1, Glitz (1473)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=GlitzLA&cm=1473&f=.m3u8
+
+
+
+#EXTINF:-1, Lifetime  (423)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=LifetimeLASD&cm=423&f=.m3u8
+
+#EXTINF:-1, MundoFox (429)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=MundoFoxSD&cm=429&f=.m3u8
+
+#EXTINF:-1, MTV
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=MTVLA&cm=2491&f=.m3u8
+
+#EXTINF:-1, MTV Hits
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=MTVHitsLA&cm=1495&f=.m3u8
+
+#EXTINF:-1, Kmusic
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=KMusicLA&cm=3467&f=.m3u8
+
+#EXTINF:-1, Concert Channel
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ConcertChannelSD&cm=479&f=.m3u8
+
+#EXTINF:-1, HTV
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HTVSD&cm=341&f=.m3u8
+
+#EXTINF:-1, NBC Universo (4825)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=NBCUniversoUS&cm=4825&f=.m3u8
+
+
+#EXTINF:-1, Pasiones (295)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=PasionesSD&cm=295&f=.m3u8
+
+#EXTINF:-1, RCN Novelas (1493)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=RCNnovelasLA&cm=1493&f=.m3u8
+
+
+#EXTINF:-1, Syfy  (447)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=SyFyLASD&cm=447&f=.m3u8
+
+#EXTINF:-1, TBS  (333)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TBSLASD&cm=333&f=.m3u8
+
+
+
+#EXTINF:-1, TLC  (327)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TLCLASD&cm=327&f=.m3u8
+
+#EXTINF:-1, TNT  (262)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TNTAmericaLatinaHD&cm=262&f=.m3u8
+
+
+
+#EXTINF:-1, TNT Series  (331)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=infinitoSD&cm=331&f=.m3u8
+
+#EXTINF:-1, Telemundo (4417)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TelemundoUS&cm=4417&f=.m3u8
+#EXTINF:-1, Tlnovelas  (1461)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TlnovelasLA&cm=1461&f=.m3u8
+#EXTINF:-1, Tru TV  (337)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TruTVSD&cm=337&f=.m3u8
+
+#EXTINF:-1, UniMas (3602)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=UniMasUS&cm=3602&f=.m3u8
+
+#EXTINF:-1, Univision (6299)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=UnivisionEastUS&cm=6299&f=.m3u8
+
+#EXTINF:-1, UFC Network
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=UFCNetworkLA&cm=2923&f=.m3u8
+
+#EXTINF:-1,VH1 Classic Europe (415)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=VH1ClassicLASD&cm=415&f=.m3u8
+
+#EXTINF:-1, VH1 Latino Norte (483)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=VH1LatinoSD&cm=483&f=.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, Disney Channel East (196)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DisneyChannelEastHD&cm=196&f=.m3u8
+
+#EXTINF:-1, Disney Channel Norte (256)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DisneyChannelNorteHD&cm=256&f=.m3u8
+
+#EXTINF:-1, Disney Channel West (4862)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DisneyChannelWestUS&cm=4862&f=.m3u8
+#EXTINF:-1, Baby First TV (4882)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=BabyFirstTVUS&cm=4882&f=.m3u8
+#EXTINF:-1, Disney Jr US (4852)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DisneyJrUS&cm=4852&f=.m3u8
+
+#EXTINF:-1, Disney Junior Norte (1455)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DisneyJrLASD&cm=1455&f=.m3u8
+#EXTINF:-1, Disney XD (4860)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DisneyXDUS&cm=4860&f=.m3u8
+
+#EXTINF:-1, Disney XD Norte (499)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DisneyXDSD&cm=499&f=.m3u8
+#EXTINF:-1, Nick Jr (4872)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=NickJrUS&cm=4872&f=.m3u8
+#EXTINF:-1, Nickelodeon East (1701)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=NickelodeonEastUS&cm=1701&f=.m3u8
+#EXTINF:-1, Nick Jr  (417)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=NickJrLASD&cm=417&f=.m3u8
+
+#EXTINF:-1, Nickelodeon  (1423)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=NickelodeonLA&cm=1423&f=.m3u8
+
+#EXTINF:-1, SKY Disney (523)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=movdisney.stream&cm=523&f=.m3u8
+
+#EXTINF:-1, Teen Nick (4877)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TeenNickUS&cm=4877&f=.m3u8
+#EXTINF:-1, StarMax (4895)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=5StarMaxUS&cm=4895&f=.m3u8
+#EXTINF:-1, ActionMax East (2337)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ActionMaxEastUS&cm=2337&f=.m3u8
+
+#EXTINF:-1, BBC America (184)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=BBCAmericaHD&cm=184&f=.m3u8
+#EXTINF:-1, Cinemax East (953)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=CinemaxEastUS&cm=953&f=.m3u8
+
+#EXTINF:-1, Cinemax West (955)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=CinemaxWestUS&cm=955&f=.m3u8
+
+#EXTINF:-1, Encore Action East (4897)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=EncoreActionEastUS&cm=4897&f=.m3u8
+
+#EXTINF:-1, Encore East (222)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=EncoreEastHD&cm=222&f=.m3u8
+#EXTINF:-1, Film 4 (497)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=film4.stream&cm=497&f=.m3u8
+#EXTINF:-1, HBO 2 East (216)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBO2EastHD&cm=216&f=.m3u8
+#EXTINF:-1, HBO 2 West (1095)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBO2WestUS&cm=1095&f=.m3u8
+#EXTINF:-1, HBO Comedy East (1001)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBOComedyEastUS&cm=1001&f=.m3u8
+
+#EXTINF:-1, HBO East (4765)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBOEastUS&cm=4765&f=.m3u8
+#EXTINF:-1, HBO Family East (4415)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBOFamilyEastUS&cm=4415&f=.m3u8
+#EXTINF:-1, HBO Signature East (959)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBOSignatureEastUS&cm=959&f=.m3u8
+
+#EXTINF:-1, HBO West (4767)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBOWestUS&cm=4767&f=.m3u8
+
+#EXTINF:-1, HBO Zone
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HBOZoneUS&cm=308&f=.m3u8
+
+#EXTINF:-1, Hallmark Movie Channel (1005)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=HallmarkMovieChannelUS&cm=1005&f=.m3u8
+#EXTINF:-1, Movies 24 (549)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=movies24.stream&cm=549&f=.m3u8
+#EXTINF:-1, SKY Action & Adventure (527)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=movaction.stream&cm=527&f=.m3u8
+
+#EXTINF:-1, SKY Comedy (529)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=movcomedy.stream&cm=529&f=.m3u8
+
+#EXTINF:-1, SKY Crime & Thriller (531)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=movthriller.stream&cm=531&f=.m3u8
+
+#EXTINF:-1, SKY Family (525)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=movfamily.stream&cm=525&f=.m3u8
+
+#EXTINF:-1, SKY Modern Greats (3301)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=mgreats.stream&cm=3301&f=.m3u8
+
+#EXTINF:-1, SKY Movies Drama (545)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=movdrama.stream&cm=545&f=.m3u8
+
+#EXTINF:-1, SKY Premiere (521)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=movpremier.stream&cm=521&f=.m3u8
+#EXTINF:-1, SKY Scifi & Horror (533)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=movscifi.stream&cm=533&f=.m3u8
+
+#EXTINF:-1, SKY Select" group-title="Cinema",SKY Select (535)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=movselect.stream&cm=535&f=.m3u8
+
+#EXTINF:-1, Showtime 2 East (971)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=Showtime2EastUS&cm=971&f=.m3u8
+
+#EXTINF:-1, Showtime Beyond East (975)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ShowtimeBeyondEastUS&cm=975&f=.m3u8
+
+#EXTINF:-1, Showtime Extreme East (973)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ShowtimeExtremeEastUS&cm=973&f=.m3u8
+#EXTINF:-1, Showtime Next (1097)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ShowtimeNextUS&cm=1097&f=.m3u8
+
+#EXTINF:-1, Showtime Showcase East (1085)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ShowtimeShowcaseEastUS&cm=1085&f=.m3u8
+
+#EXTINF:-1, Showtime West (969)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ShowtimeWestUS&cm=969&f=.m3u8
+
+#EXTINF:-1, ony Movie Channel USA (1101)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=SonyMovieChannelUS&cm=1101&f=.m3u8
+
+#EXTINF:-1, Starz Cinema East (985)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=StarzCinemaEastUS&cm=985&f=.m3u8
+
+#EXTINF:-1, Starz Comedy East (987)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=StarzComedyEastUS&cm=987&f=.m3u8
+
+#EXTINF:-1, Starz East (224)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=StarzEastHD&cm=224&f=.m3u8
+
+#EXTINF:-1, Starz Edge East (983)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=StarzEdgeEastUS&cm=983&f=.m3u8
+
+#EXTINF:-1, Starz In Black East (989)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=StarzInBlackEastUS&cm=989&f=.m3u8
+
+#EXTINF:-1, Starz Kids & Family East (1099)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=StarzKidsFamilyEastUS&cm=1099&f=.m3u8
+
+#EXTINF:-1,Starz West (981)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=StarzWestUS&cm=981&f=.m3u8
+#EXTINF:-1, TCM US (1105)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TCMUS&cm=1105&f=.m3u8
+
+#EXTINF:-1, The Movie Channel East (220)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TheMovieChannelEastHD&cm=220&f=.m3u8
+
+#EXTINF:-1, The Movie Channel Xtra East (1009)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TheMovieChannelXtraEastUS&cm=1009&f=.m3u8
+
+#EXTINF:-1, ThrillerMax East (2533)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ThrillerMaxEasUS&cm=2533&f=.m3u8
+
+#EXTINF:-1, True Movies 1 (2453)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=true1.stream&cm=2453&f=.m3u8
+
+#EXTINF:-1, True Movies 2 (2455)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=true2.stream&cm=2455&f=.m3u8
+
+#EXTINF:-1, USA Network East (2579)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=USANetworkEastHD&cm=2579&f=.m3u8
+#EXTINF:-1, Good Food (2587)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=goodfood.stream&cm=2587&f=.m3u8
+#EXTINF:-1, Animal Planet (4845)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=AnimalPlanetUS&cm=4845&f=.m3u8
+
+#EXTINF:-1, Nat Geo Wild US (4830)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=NatGeoWildUS&cm=4830&f=.m3u8
+#EXTINF:-1, Travel Channel UK (4422)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=travel.stream&cm=4422&f=.m3u8
+
+#EXTINF:-1, A&E East (995)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=AEEastUS&cm=995&f=.m3u8
+
+#EXTINF:-1, ABC Family (4855)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ABCFamilyUS&cm=4855&f=.m3u8
+
+#EXTINF:-1, AMC East (5629)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=AMCEastUS&cm=5629&f=.m3u8
+#EXTINF:-1, Bravo East (4890)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=BravoEastUS&cm=4890&f=.m3u8
+
+#EXTINF:-1, CBS Action (2433)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=cbsaction.stream&cm=2433&f=.m3u8
+
+#EXTINF:-1, CBS Drama (2431)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=cbsdrama.stream&cm=2431&f=.m3u8
+
+#EXTINF:-1, CBS Reality (2435)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=cbsreality.stream&cm=2435&f=.m3u8
+
+
+
+#EXTINF:-1, Comedy Central East (2575)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=ComedyCentralHD&cm=2575&f=.m3u8
+#EXTINF:-1, Discovery Family (4867)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=DiscoveryFamilyUS&cm=4867&f=.m3u8
+
+#EXTINF:-1, E! us (2341)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=eEntUS&cm=2341&f=.m3u8
+#EXTINF:-1,Eden (513)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=Eden.stream&cm=513&f=.m3u8
+#EXTINF:-1, FX East (997)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FXEastUS&cm=997&f=.m3u8
+
+#EXTINF:-1, FXX East (2339)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=FXXUS&cm=2339&f=.m3u8
+#EXTINF:-1, IFC East (164)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=IFCHD&cm=164&f=.m3u8
+
+#EXTINF:-1, ION Television East (4902)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=IONTVEastUS&cm=4902&f=.m3u8
+#EXTINF:-1, ITV B (4737)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=itvbe.stream&cm=4737&f=.m3u8
+
+#EXTINF:-1, ITV Encore (501)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=itvencore.stream&cm=501&f=.m3u8
+
+#EXTINF:-1, Lifetime East (2581)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=LifetimeEastUS&cm=2581&f=.m3u8
+#EXTINF:-1, Ovation (2349)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=OvationUS&cm=2349&f=.m3u8
+
+#EXTINF:-1, Oxygen (180)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=OxygenSD&cm=180&f=.m3u8
+
+#EXTINF:-1, Palladia (991)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=PalladiaHDUS&cm=991&f=.m3u8
+#EXTINF:-1, Really (505)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=Really.stream&cm=505&f=.m3u8
+
+#EXTINF:-1, Spike TV (4410)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=SpikeUS&cm=4410&f=.m3u8
+#EXTINF:-1, TBS East (967)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TBSEastUS&cm=967&f=.m3u8
+
+#EXTINF:-1, TLC (503)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TLC.stream&cm=503&f=.m3u8
+#EXTINF:-1, TNT Drama (977)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=TNTDramaUS&cm=977&f=.m3u8
+#EXTINF:-1, WE TV (182)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=WETVSD&cm=182&f=.m3u8
+
+#EXTINF:-1, WGN America (1771)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=WGNAmericaUS&cm=1771&f=.m3u8
+
+
+
+
+
+#EXTINF:-1, VENUS (285)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=VENUSSD&cm=285&f=.m3u8
+#EXTINF:-1,Real (1021)
+http://nenetony.esy.es/stk.php?canalRealLA&cm=1021&f=.m3u8
+#EXTINF:-1,Juicy (1023)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=JuicyLA&cm=1023&f=.m3u8
+#EXTINF:-1,XTSY (1463)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=XTSYLA&cm=1463&f=.m3u8
+#EXTINF:-1, hustler (1707)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=hustlerLA&cm=1707&f=.m3u8
+#EXTINF:-1, Sextreme (287)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=SextremeSD&cm=287&f=.m3u8
+#EXTINF:-1, Manhandle (1027)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=manhandleLA&cm=1027&f=.m3u8
+#EXTINF:-1, Secrets (1025)
+http://198.50.239.103/iptv/st.php?usuario=foro&pass=cable&canal=SecretsLA&cm=1025&f=.m3u8
