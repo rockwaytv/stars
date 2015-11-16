@@ -13,20 +13,20 @@ http://slp99.x10.bz/carga.php?canal=UnicableLA&cm=3804&nombre=US.m3u8
 #EXTINF:-1, AZMundo
 http://slp99.x10.bz/carga.php?canal=AzMundoLA&cm=1999&nombre=US.m3u8
 #EXTINF:-1, Galatv
-http://slp99.x10.bz/carga.php?canal=GalaTVLA&cm=4555&nombre=US.m3u8
+http://slp99.x10.bz/carga.php?canal=GalaTV&cm=4555&nombre=US.m3u8
 #EXTINF:-1, TElemundo internacional
 http://slp99.x10.bz/carga.php?canal=TelemundoInternacional&cm=419&nombre=US.m3u8
 #EXTINF:-1, EstrellaTVLA
 http://slp99.x10.bz/carga.php?canal=EstrellaTVLA&cm=7112&nombre=US.m3u8
 #EXTINF:-1, wapa
-http://slp99.x10.bz/carga.php?canal=WapaPR&cm=8476&nombre=US.m3u8
+http://slp99.x10.bz/carga.php?canal=WAPAPR&cm=8476&nombre=US.m3u8
 #EXTINF:-1, wapa2
-http://slp99.x10.bz/carga.php?canal=Wapa2LA&cm=8471&nombre=US.m3u8
+http://slp99.x10.bz/carga.php?canal=WPA2PR&cm=8471&nombre=US.m3u8
 #EXTINF:-1, Telemundo PR
-http://slp99.x10.bz/carga.php?canal=TelemundoPRLA&cm=8469&nombre=US.m3u8
+http://slp99.x10.bz/carga.php?canal=TelemundoPR&cm=8469&nombre=US.m3u8
 
 #EXTINF:-1, Univision Pr
-http://slp99.x10.bz/carga.php?canal=UnivisionPRLA&cm=8474&nombre=US.m3u8
+http://slp99.x10.bz/carga.php?canal=UnivisionPR&cm=8474&nombre=US.m3u8
 #EXTINF:-1, MundoMax
 http://slp99.x10.bz/carga.php?canal=MundoMax&cm=8461&nombre=US.m3u8
 
