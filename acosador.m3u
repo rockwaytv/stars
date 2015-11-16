@@ -6,14 +6,16 @@ http://can.hol.es/acosador.php?id=6354&f=.m3u8
 
 #EXTINF:-1, Unicable
 http://can.hol.es/acosador.php?id=3804&f=.m3u8
+#EXTINF:-1, Telemundo (4417)
+http://can.hol.es/acosador.php?id=4417&f=.m3u8
+#EXTINF:-1, UniMas (3602)
+http://can.hol.es/acosador.php?id=3602&f=.m3u8
+#EXTINF:-1, Univision (6299)
+http://can.hol.es/acosador.php?id=6299&f=.m3u8
 
 
 #EXTINF:-1, AZMundo
 http://can.hol.es/acosador.php?id=1999&f=.m3u8
-#EXTINF:-1, Galatv
-http://can.hol.es/acosador.php?id=4555&f=.m3u8
-#EXTINF:-1, TElemundo internacional
-http://can.hol.es/acosador.php?id=419&f=.m3u8
 #EXTINF:-1, Estrellatv
 http://can.hol.es/acosador.php?id=7112&f=.m3u8
 #EXTINF:-1, wapa
@@ -25,8 +27,29 @@ http://can.hol.es/acosador.php?id=8469&f=.m3u8
 
 #EXTINF:-1, Univision Pr
 http://can.hol.es/acosador.php?id=8474&f=.m3u8
-#EXTINF:-1, MundoMax
+#EXTINF:-1, MundoFox PR
 http://can.hol.es/acosador.php?id=8461&f=.m3u8
+#EXTINF:-1, Mundo Max
+http://can.hol.es/acosador.php?id=7114&f=.m3u8
+#EXTINF:-1, Mega tv
+http://can.hol.es/acosador.php?id=8454&f=.m3u8
+#EXTINF:-1, telecentro
+http://can.hol.es/acosador.php?id=2017&f=.m3u8
+#EXTINF:-1, telemicro
+http://can.hol.es/acosador.php?id=1615&f=.m3u8
+#EXTINF:-1, Tlnovelas  (1461)
+http://can.hol.es/acosador.php?id=1461&f=.m3u8
+
+
+
+#EXTINF:-1, CW
+http://can.hol.es/acosador.php?id=8484&f=.m3u8
+#EXTINF:-1, Bein sports en español
+http://can.hol.es/acosador.php?id=2527&f=.m3u8
+#EXTINF:-1, F1
+http://can.hol.es/acosador.php?id=1695&f=.m3u8
+#EXTINF:-1, UFC Network
+http://can.hol.es/acosador.php?id=2923&f=.m3u8
 
 
 
@@ -331,21 +354,13 @@ http://can.hol.es/acosador.php?id=262&f=.m3u8
 #EXTINF:-1, TNT Series  (331)
 http://can.hol.es/acosador.php?id=331&f=.m3u8
 
-#EXTINF:-1, Telemundo (4417)
-http://can.hol.es/acosador.php?id=4417&f=.m3u8
-#EXTINF:-1, Tlnovelas  (1461)
-http://can.hol.es/acosador.php?id=1461&f=.m3u8
+
+
 #EXTINF:-1, Tru TV  (337)
 http://can.hol.es/acosador.php?id=337&f=.m3u8
 
-#EXTINF:-1, UniMas (3602)
-http://can.hol.es/acosador.php?id=3602&f=.m3u8
 
-#EXTINF:-1, Univision (6299)
-http://can.hol.es/acosador.php?id=6299&f=.m3u8
 
-#EXTINF:-1, UFC Network
-http://can.hol.es/acosador.php?id=2923&f=.m3u8
 
 #EXTINF:-1,VH1 Classic Europe (415)
 http://can.hol.es/acosador.php?id=415&f=.m3u8
