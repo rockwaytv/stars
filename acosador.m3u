@@ -16,6 +16,17 @@ http://can.hol.es/acosador.php?id=4555&f=.m3u8
 http://can.hol.es/acosador.php?id=419&f=.m3u8
 #EXTINF:-1, Estrellatv
 http://can.hol.es/acosador.php?id=7112&f=.m3u8
+#EXTINF:-1, wapa
+http://can.hol.es/acosador.php?id=8476&f=.m3u8
+#EXTINF:-1, wapa2
+http://can.hol.es/acosador.php?id=8471&f=.m3u8
+#EXTINF:-1, Telemundo PR
+http://can.hol.es/acosador.php?id=8469&f=.m3u8
+
+#EXTINF:-1, Univision Pr
+http://can.hol.es/acosador.php?id=8474&f=.m3u8
+#EXTINF:-1, MundoMax
+http://can.hol.es/acosador.php?id=8461&f=.m3u8
 
 
 
