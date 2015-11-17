@@ -1,6 +1,6 @@
- <?php
-//aqui va la mac que consigas
-$mac='00:01:00';
+<?php
+//00:01:00
+$mac='00:00:00:00:00:00'
 
 $sn = strtoupper (substr(md5($mac),13));
 $device_id = strtoupper (hash('sha256', $sn));
