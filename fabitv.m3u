@@ -20,7 +20,7 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 
 #EXTINF:0, Canal de las estrellas 
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8?sd=&rebase=on&f=.m3u8
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p
 
 
 #EXTINF:0 tvg-name="Canal de las Estrellas" tvg-logo="http://i.imgur.com/JdJXZFG.png", Canal de las Estrellas
@@ -36,18 +36,17 @@ http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:0, Gala tv 
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
 
-#EXTINF:-1, Unimas
-http://78.129.192.136:1935/app/turbomax01s-channel/playlist.m3u8
+
 #EXTINF:0 tvg-name="Univision" tvg-logo="http://i.imgur.com/2Hsatjl.png", Univision
-http://104.200.159.38:1935/app/turbomax-hds-channel/playlist.m3u8
+https://streamup.global.ssl.fastly.net/app/univision2chivas_69s-stream/playlist.m3u8
 
 #EXTINF:-1, Telemundo
-http://109.169.22.20:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
+https://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream/playlist.m3u8
 
 #EXTINF:0 tvg-name="Americateve usa" tvg-logo="http://i.imgur.com/ZSMiqad.png", Americateve  usa
 http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3u8
 #EXTINF:0 tvg-name="Estrella tv" tvg-logo="http://i.imgur.com/nMqYK9w.png", Estrella tv
-http://199.167.151.133:1935/app/turbo-max-hds-channel/playlist.m3u8
+https://streamup.global.ssl.fastly.net/app/vic_manzs-stream/chunklist.m3u8
 #EXTINF:0 tvg-name="Mundo Max" tvg-logo="http://i.imgur.com/98CHyRW.png", Mundo Max
 http://209.133.208.138:1935/app/ana69s-channel/playlist.m3u8
 #EXTINF:-0, V mas tv
@@ -657,25 +656,6 @@ http://forocable:forocable@o12team.tk:9981/play/stream/channel/651beac198bee9874
 #EXTINF:-0,
 
 #EXTINF:-0,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
