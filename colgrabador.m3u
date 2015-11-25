@@ -20,7 +20,27 @@ http://latinochannels.2fh.co/canales/hls/fox-classics.m3u8
 #EXTINF:-1,Fox Movies
 http://latinochannels.2fh.co/canales/hls/fox-movies.m3u8
 #EXTINF:-1,Fox Family
-http://latinochannels.2fh.co/canales/hls/fox-family.m3u8
+http://latinochannels.6te.net/stk.php?cm=467 
+#EXTINF:-1,HBO
+http://latinochannels.6te.net/stk.php?cm=385 
+#EXTINF:-1,HBO 2  
+http://latinochannels.6te.net/stk.php?cm=365 
+#EXTINF:-1,HBO Plus Este 
+http://latinochannels.6te.net/stk.php?cm=453 
+#EXTINF:-1,HBO Plus Oeste 
+http://latinochannels.6te.net/stk.php?cm=369 
+#EXTINF:-1,HBO Family 
+http://latinochannels.6te.net/stk.php?cm=449 
+#EXTINF:-1,HBO Signature  
+http://latinochannels.6te.net/stk.php?cm=451 
+#EXTINF:-1,Max UP 
+http://latinochannels.6te.net/stk.php?cm=469 
+#EXTINF:-1,Max Prime Este 
+http://latinochannels.6te.net/stk.php?cm=377 
+#EXTINF:-1,Max Prime Oeste 
+http://latinochannels.6te.net/stk.php?cm=379 
+#EXTINF:-1,MAX 
+http://latinochannels.6te.net/stk.php?cm=381 
 #EXTINF:-1,The Film Zone
 http://latinochannels.2fh.co/canales/hls/film-zone.m3u8
 #EXTINF:-1,TNT
@@ -78,7 +98,7 @@ http://latinochannels.2fh.co/canales/hls/tooncast.m3u8
 #EXTINF:-1,History
 http://latinochannels.2fh.co/canales/hls/history.m3u8
 #EXTINF:-1,H2
-http://latinochannels.2fh.co/PlayList.php?id=0b8143cc-4e4e-416c-a6d7-2222be2fd705&channel=11
+http://latinochannels.2fh.co/canales/hls/h2.m3u8
 #EXTINF:-1,National Geographic
 http://latinochannels.2fh.co/canales/hls/nat-geo.m3u8
 #EXTINF:-1,Natgeo Wild
@@ -108,11 +128,11 @@ http://latinochannels.2fh.co/canales/hls/mtv.m3u8
 #EXTINF:-1,MTV Hits
 http://latinochannels.2fh.co/canales/hls/mtv-hits.m3u8
 #EXTINF:-1,HTV 
-http://latinochannels.2fh.co/canales/hls/htv.m3u8
+http://latinochannels.6te.net/stk.php?cm=341 
+#EXTINF:-1,VH1 
+http://latinochannels.6te.net/stk.php?cm=483 
 #EXTINF:-1,VH1 Classic
-http://latinochannels.2fh.co/canales/hls/vh1-classic.m3u8
-#EXTINF:-1,VH1
-http://latinochannels.2fh.co/canales/hls/vh1.m3u8
+http://latinochannels.6te.net/stk.php?cm=415
 #EXTINF:-1,Tlnovelas
 http://latinochannels.2fh.co/canales/hls/tlnovelas.m3u8
 #EXTINF:-1,Telemundo
@@ -132,4 +152,4 @@ http://latinochannels.2fh.co/canales/hls/fox-sports.m3u8
 #EXTINF:-1,Fox Sports 2
 http://latinochannels.2fh.co/canales/hls/fox-sports-2.m3u8
 #EXTINF:-1,Fox Sports 3
-http://latinochannels.2fh.co/canales/hls/fox-sports-3.m3u8
+http://latinochannels.6te.net/stk.php?cm=445 
