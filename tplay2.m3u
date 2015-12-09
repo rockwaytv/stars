@@ -142,7 +142,7 @@ http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?supertvlat=%2F.ts.m3u8
 #EXTINF:-1,Animal Planet
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?supertvlat=%2F.ts.m3u8
 #EXTINF:-1,Discovery Home &amp; Health
-http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?supertvlat=%2F.ts.m3u8
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts.m3u8
 #EXTINF:-1,National Geographic Channel
 http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?supertvlat=%2F.ts.m3u8
 #EXTINF:-1,Lifetime
@@ -155,7 +155,8 @@ http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?supertvlat=%2F.ts.m3u8
 http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?supertvlat=%2F.ts.m3u8
 #EXTINF:-1,TLC Discovery
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?supertvlat=%2F.ts.m3u8
-#EXTINF:-1,Fox HD
+
+#EXTINF:-1,Fox 1 
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=%2F.ts.m3u8
 #EXTINF:-1,Fox Action HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=%2F.ts.m3u8
