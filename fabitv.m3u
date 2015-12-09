@@ -131,7 +131,7 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchanne
 #EXTINF:0 tvg-name="America tv" tvg-logo="http://i.imgur.com/NKvU6HT.png", America tv
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-b.m3u8
 #EXTINF:0 tvg-name="Latina" tvg-logo="http://i.imgur.com/FXaw1h0.png?1", Latina
-http://flatina1live-live.hls.adaptive.level3.net/hls-live/flatina1live-live/_definst_/live.m3u8
+http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/master.m3u8
 #EXTINF:0 tvg-name="Latina" tvg-logo="http://i.imgur.com/FXaw1h0.png?1", Latina
 https://www.youtube.com/watch?v=4zrg6XLcF2c
 #EXTINF:0 tvg-name="ATV" tvg-logo="http://i.imgur.com/JyNScMD.png", ATV
