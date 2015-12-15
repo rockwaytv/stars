@@ -18,11 +18,6 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 
 #EXTINF:0 tvg-name="Canal 13" audio-track="es" tvg-logo="http://i.imgur.com/nm6RX5F.png", Canal 13
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-
-#EXTINF:0, Canal de las estrellas 
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p
-
-
 #EXTINF:0 tvg-name="Canal de las Estrellas" tvg-logo="http://i.imgur.com/JdJXZFG.png", Canal de las Estrellas
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
@@ -42,6 +37,8 @@ https://streamup.global.ssl.fastly.net/app/univision2chivas_69s-stream/playlist.
 
 #EXTINF:-1, Telemundo
 https://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream/playlist.m3u8
+
+
 
 #EXTINF:0 tvg-name="Americateve usa" tvg-logo="http://i.imgur.com/ZSMiqad.png", Americateve  usa
 http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3u8
@@ -324,7 +321,7 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w335324631_b1
 
 
 #EXTINF:0 tvg-name="SNT" tvg-logo="http://www.snt.com.py/img/logo.png", SNT
-http://209.133.208.50:1935/app/ramtvps-channel/playlist.m3u8
+https://video-cdn.streamup.com/app/ramtvps-channel/chunklist.m3u8
 
 
 
