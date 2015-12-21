@@ -592,28 +592,10 @@ http://o12team.tk:8080/foxa.m3u8
 
 
 
-#EXTINF:0 tvg-name="CI" audio-track="es", CI
-http://o12team.tk:8080/ci/mono.m3u8?token=DsYcWddF83
-#EXTINF:-0, natgeo
-http://o12team.tk:8080/natgeo/mono.m3u8?token=DsYcWddF83
-#EXTINF:-0, FDF
-http://o12team.tk:8080/fdf/mono.m3u8?token=DsYcWddF83
-
-#EXTINF:-0, VH1
-http://o12team.tk:8080/vh1/mono.m3u8?token=DsYcWddF83
 
 
 
-#EXTINF:-0, DiscoveryMax
-http://o12team.tk:8080/discomax/mono.m3u8?token=DsYcWddF83
-#EXTINF:-0, Teledeporte
-http://o12team.tk:8080/teledeporte/mono.m3u8?token=DsYcWddF83
 
-#EXTINF:-0, Telefe
-http://o12team.tk:8080/TelefeHD/index.m3u8
-
-#EXTINF:-0,iberalia
-http://o12team.tk:8080/iberalia/mono.m3u8?token=DsYcWddF83
 #EXTINF:-0,caracol
 http://iphone-streaming.ustream.tv/uhls/20698287/streams/live/iphone/playlist.m3u8
 #EXTINF:-0,rcn
@@ -634,18 +616,20 @@ http://eventshd-lh.akamaihd.net/i/viajar_1@168433/index_814_av-b.m3u8?sd=10&reba
 #EXTINF:-0, telecentro
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
 
-
-
-#EXTINF:-0,Portalfoxmix
-http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-
-#EXTINF:-0, Wapa
-http://testtp.x10host.com/wap.php?f=.m3u8
-
-#EXTINF:-0,Hollywood
-http://forocable:forocable@o12team.tk:9981/play/stream/channel/69c4cb0a77e76900ca0fab3b73d5993f?title=Hollywood
-#EXTINF:-0,AXN ESpaña
-http://forocable:forocable@o12team.tk:9981/play/stream/channel/651beac198bee98744a76466f9a9a013?title=AXN%20Espa%C3%B1a
+#EXTINF:-0, cplus liga
+http://o12team.tk:8081/iberia/cplusliga/playlist.m3u8
+#EXTINF:-0, cplus futbol
+http://o12team.tk:8081/iberia/cplusfutbol/playlist.m3u8
+#EXTINF:-0, Hollywood
+http://o12team.tk:8081/iberia/hollywood/playlist.m3u8
+#EXTINF:-0, Discovery max
+http://o12team.tk:8081/iberia/discomax/playlist.m3u8
+#EXTINF:-0, FDF
+http://o12team.tk:8081/iberia/fdf/playlist.m3u8
+#EXTINF:-0, Natgeo
+http://o12team.tk:8081/iberia/natgeo/playlist.m3u8
+#EXTINF:-0, Odisea
+http://o12team.tk:8081/iberia/odisea/playlist.m3u8
 #EXTINF:-0,
 
 #EXTINF:-0,
@@ -653,6 +637,9 @@ http://forocable:forocable@o12team.tk:9981/play/stream/channel/651beac198bee9874
 #EXTINF:-0,
 
 #EXTINF:-0,
+
+
+
 
 
 
