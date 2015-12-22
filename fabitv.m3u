@@ -45,7 +45,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3
 #EXTINF:0 tvg-name="Estrella tv" tvg-logo="http://i.imgur.com/nMqYK9w.png", Estrella tv
 https://streamup.global.ssl.fastly.net/app/vic_manzs-stream/chunklist.m3u8
 #EXTINF:0 tvg-name="Mundo Max" tvg-logo="http://i.imgur.com/98CHyRW.png", Mundo Max
-http://209.133.208.138:1935/app/ana69s-channel/playlist.m3u8
+http://streamup.global.ssl.fastly.net:80/app/ana69s-channel/live.m3u8
 #EXTINF:-0, V mas tv
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 
@@ -630,6 +630,15 @@ http://o12team.tk:8081/iberia/fdf/playlist.m3u8
 http://o12team.tk:8081/iberia/natgeo/playlist.m3u8
 #EXTINF:-0, Odisea
 http://o12team.tk:8081/iberia/odisea/playlist.m3u8
+#EXTINF:0,TELEMUNDO
+http://strs2.cvm1.com:8081/live/2406.stream/playlist.m3u8
+#EXTINF:0,UNIMÁS
+http://strs2.cvm1.com:8081/live/2401.stream/playlist.m3u8
+#EXTINF:0,UNIVISION 41
+http://strs2.cvm1.com:8081/live/2400.stream/playlist.m3u8
+
+
+
 #EXTINF:-0,
 
 #EXTINF:-0,
